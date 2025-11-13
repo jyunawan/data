@@ -1,0 +1,273 @@
+player_name,player_age,player_nationality,player_position,market_value,from_club,to_club,transfer_fee,transfer_season
+Martín Zubimendi,26,['Spain'],DM,€60.00m,Real Sociedad,Arsenal FC,€70.00m,25/26
+Eberechi Eze,27,"['England', 'Nigeria']",AM,€55.00m,Crystal Palace,Arsenal FC,€69.30m,25/26
+Viktor Gyökeres,27,"['Sweden', 'Hungary']",CF,€75.00m,Sporting CP,Arsenal FC,€65.80m,25/26
+Noni Madueke,23,"['England', 'Nigeria']",RW,€40.00m,Chelsea FC,Arsenal FC,€56.00m,25/26
+Cristhian Mosquera,21,"['Spain', 'Colombia']",CB,€30.00m,Valencia CF,Arsenal FC,€15.00m,25/26
+Christian Nørgaard,31,['Denmark'],DM,€11.00m,Brentford FC,Arsenal FC,€11.60m,25/26
+Kepa Arrizabalaga,30,['Spain'],GK,€10.00m,Chelsea FC,Arsenal FC,€5.80m,25/26
+Nuno Tavares,25,"['Portugal', 'Cape Verde']",LB,€25.00m,Arsenal FC,SS Lazio,€5.00m,25/26
+Marquinhos,22,['Brazil'],RW,€5.50m,Arsenal FC,Cruzeiro Esporte Clube,€3.00m,25/26
+Albert Sambi Lokonga,25,"['Belgium', 'DR Congo']",CM,€8.00m,Arsenal FC,Hamburger SV,€300k,25/26
+Kieran Tierney,28,"['Scotland', 'Isle of Man']",LB,€9.00m,Arsenal FC,Celtic FC,free transfer,25/26
+Jorginho,33,"['Italy', 'Brazil']",DM,€6.00m,Arsenal FC,CR Flamengo,free transfer,25/26
+Thomas Partey,32,['Ghana'],DM,€14.00m,Arsenal FC,Villarreal CF,free transfer,25/26
+Takehiro Tomiyasu,26,['Japan'],CB,€18.00m,Arsenal FC,Without Club,-,25/26
+Evann Guessand,24,"[""Cote d'Ivoire"", 'France']",RW,€25.00m,OGC Nice,Aston Villa,€30.00m,25/26
+Marco Bizot,34,['Netherlands'],GK,€3.00m,Stade Brestois 29,Aston Villa,€500k,25/26
+Victor Lindelöf,31,['Sweden'],CB,€8.00m,Manchester United,Aston Villa,free transfer,25/26
+Jacob Ramsey,24,['England'],CM,€32.00m,Aston Villa,Newcastle United,€45.15m,25/26
+Kaine Kesler-Hayden,22,['England'],RB,€2.50m,Aston Villa,Coventry City,€4.00m,25/26
+Robin Olsen,35,"['Sweden', 'Denmark']",GK,€1.00m,Aston Villa,Malmö FF,free transfer,25/26
+Philippe Coutinho,33,"['Brazil', 'Portugal']",AM,€4.50m,Aston Villa,Clube de Regatas Vasco da Gama,free transfer,25/26
+Leander Dendoncker,30,['Belgium'],DM,€4.50m,Aston Villa,Real Oviedo,free transfer,25/26
+Álex Moreno,32,['Spain'],LB,€7.00m,Aston Villa,Girona FC,free transfer,25/26
+Filip Marschall,22,"['England', 'Poland']",GK,€800k,Aston Villa,Stevenage FC,?,25/26
+Kortney Hause,29,"['England', 'Bermuda']",CB,€1.00m,Aston Villa,Without Club,-,25/26
+Bafodé Diakité,24,"['France', 'Guinea']",CB,€28.00m,LOSC Lille,AFC Bournemouth,€35.00m,25/26
+Djordje Petrovic,25,['Serbia'],GK,€20.00m,Chelsea FC,AFC Bournemouth,€28.90m,25/26
+Ben Gannon-Doak,19,['Scotland'],RW,€14.00m,Liverpool FC,AFC Bournemouth,€23.20m,25/26
+Amine Adli,25,"['Morocco', 'France']",LW,€18.00m,Bayer 04 Leverkusen,AFC Bournemouth,€21.00m,25/26
+Veljko Milosavljevic,18,['Serbia'],CB,€1.00m,Red Star Belgrade,AFC Bournemouth,€15.00m,25/26
+Adrien Truffert,23,['France'],LB,€15.00m,Stade Rennais FC,AFC Bournemouth,€13.50m,25/26
+Ilya Zabarnyi,22,['Ukraine'],CB,€42.00m,AFC Bournemouth,Paris Saint-Germain,€63.00m,25/26
+Dean Huijsen,20,"['Spain', 'Netherlands']",CB,€60.00m,AFC Bournemouth,Real Madrid,€62.50m,25/26
+Milos Kerkez,21,"['Hungary', 'Serbia']",LB,€45.00m,AFC Bournemouth,Liverpool FC,€46.90m,25/26
+Dango Ouattara,23,['Burkina Faso'],LW,€28.00m,AFC Bournemouth,Brentford FC,€42.80m,25/26
+Jaidon Anthony,25,"['England', 'Jamaica']",LW,€9.00m,AFC Bournemouth,Burnley FC,€9.50m,25/26
+Philip Billing,29,"['Denmark', 'Nigeria']",CM,€10.00m,AFC Bournemouth,FC Midtjylland,€5.00m,25/26
+Mark Travers,26,['Ireland'],GK,€4.00m,AFC Bournemouth,Everton FC,€4.60m,25/26
+Chris Mepham,27,"['Wales', 'England']",CB,€6.00m,AFC Bournemouth,West Bromwich Albion,€1.15m,25/26
+Joe Rothwell,30,"['England', 'Scotland']",CM,€1.80m,AFC Bournemouth,Rangers FC,€460k,25/26
+Neto,36,"['Brazil', 'Italy']",GK,€1.50m,AFC Bournemouth,Botafogo de Futebol e Regatas,free transfer,25/26
+Antoni Milambo,20,"['Netherlands', 'DR Congo']",AM,€18.00m,Feyenoord Rotterdam,Brentford FC,€20.00m,25/26
+Michael Kayode,20,"['Italy', 'Nigeria']",RB,€18.00m,ACF Fiorentina,Brentford FC,€17.50m,25/26
+Caoimhín Kelleher,26,['Ireland'],GK,€20.00m,Liverpool FC,Brentford FC,€14.80m,25/26
+Romelle Donovan,18,"['England', 'St. Kitts & Nevis']",RW,€800k,Birmingham City,Brentford FC,€3.60m,25/26
+Jordan Henderson,35,['England'],DM,€2.50m,Ajax Amsterdam,Brentford FC,free transfer,25/26
+Josh Dasilva,27,"['England', 'Angola']",CM,€3.00m,Without Club,Brentford FC,-,25/26
+Bryan Mbeumo,25,"['Cameroon', 'France']",RW,€55.00m,Brentford FC,Manchester United,€75.00m,25/26
+Yoane Wissa,28,"['DR Congo', 'France']",CF,€32.00m,Brentford FC,Newcastle United,€57.70m,25/26
+Mark Flekken,32,['Netherlands'],GK,€10.00m,Brentford FC,Bayer 04 Leverkusen,€11.00m,25/26
+Ben Winterbottom,23,['England'],GK,-,Brentford FC,Barrow AFC,free transfer,25/26
+Ben Mee,35,['England'],CB,€700k,Brentford FC,Sheffield United,free transfer,25/26
+Mads Roerslev,26,['Denmark'],RB,€6.00m,Brentford FC,Southampton FC,?,25/26
+Josh Dasilva,26,"['England', 'Angola']",CM,€5.00m,Brentford FC,Without Club,-,25/26
+Charalampos Kostoulas,18,['Greece'],CF,€12.00m,Olympiacos Piraeus,Brighton & Hove Albion,€35.00m,25/26
+Maxim De Cuyper,24,['Belgium'],LB,€16.00m,Club Brugge KV,Brighton & Hove Albion,€20.00m,25/26
+Tom Watson,19,['England'],LW,€8.00m,Sunderland AFC,Brighton & Hove Albion,€12.00m,25/26
+Diego Coppola,21,"['Italy', 'Netherlands']",CB,€10.00m,Hellas Verona,Brighton & Hove Albion,€11.00m,25/26
+Do-young Yoon,18,"['Korea, South']",RW,€800k,Daejeon Hana Citizen,Brighton & Hove Albion,€2.00m,25/26
+Olivier Boscagli,27,['France'],CB,€20.00m,PSV Eindhoven,Brighton & Hove Albion,free transfer,25/26
+João Pedro,23,['Brazil'],CF,€50.00m,Brighton & Hove Albion,Chelsea FC,€63.70m,25/26
+Simon Adingra,23,"[""Cote d'Ivoire""]",LW,€28.00m,Brighton & Hove Albion,Sunderland AFC,€24.40m,25/26
+Pervis Estupiñán,27,"['Ecuador', 'Spain']",LB,€30.00m,Brighton & Hove Albion,AC Milan,€17.00m,25/26
+Valentín Barco,20,['Argentina'],CM,€12.00m,Brighton & Hove Albion,RC Strasbourg Alsace,€10.00m,25/26
+Julio Enciso,21,['Paraguay'],AM,€22.00m,Brighton & Hove Albion,RC Strasbourg Alsace,€9.50m,25/26
+Tariq Lamptey,24,"['Ghana', 'England']",RB,€11.00m,Brighton & Hove Albion,ACF Fiorentina,€6.00m,25/26
+Abdallah Sima,24,['Senegal'],LW,€9.00m,Brighton & Hove Albion,RC Lens,€4.50m,25/26
+Kjell Scherpen,25,['Netherlands'],GK,€5.00m,Brighton & Hove Albion,Union Saint-Gilloise,€2.00m,25/26
+Odeluga Offiah,22,"['England', 'Nigeria']",RB,€600k,Brighton & Hove Albion,Preston North End,€1.60m,25/26
+Lesley Ugochukwu,21,"['France', 'Nigeria']",DM,€18.00m,Chelsea FC,Burnley FC,€28.70m,25/26
+Armando Broja,23,"['Albania', 'England']",CF,€12.00m,Chelsea FC,Burnley FC,€23.00m,25/26
+Loum Tchaouna,21,"['France', 'Chad']",RW,€10.00m,SS Lazio,Burnley FC,€15.15m,25/26
+Bashir Humphreys,22,"['England', 'Uganda']",CB,€7.00m,Chelsea FC,Burnley FC,€14.00m,25/26
+Marcus Edwards,26,"['England', 'Cyprus']",RW,€12.00m,Sporting CP,Burnley FC,€10.00m,25/26
+Quilindschy Hartman,23,"['Netherlands', 'Curacao']",LB,€14.00m,Feyenoord Rotterdam,Burnley FC,€10.00m,25/26
+Zian Flemming,26,['Netherlands'],CF,€6.50m,Millwall FC,Burnley FC,€8.30m,25/26
+Max Weiß,21,['Germany'],GK,€4.00m,Karlsruher SC,Burnley FC,€4.00m,25/26
+Jacob Bruun Larsen,26,['Denmark'],LW,€5.00m,VfB Stuttgart,Burnley FC,€4.00m,25/26
+Axel Tuanzebe,27,"['DR Congo', 'England']",CB,€5.00m,Ipswich Town,Burnley FC,free transfer,25/26
+Kyle Walker,35,['England'],RB,€4.00m,Manchester City,Burnley FC,?,25/26
+Martin Dúbravka,36,['Slovakia'],GK,€1.00m,Newcastle United,Burnley FC,?,25/26
+James Trafford,22,['England'],GK,€22.00m,Burnley FC,Manchester City,€31.20m,25/26
+Han-Noah Massengo,24,"['France', 'Congo']",CM,€5.00m,Burnley FC,FC Augsburg,€3.00m,25/26
+Dara Costelloe,22,['Ireland'],LW,€450k,Burnley FC,Wigan Athletic,€400k,25/26
+CJ Egan-Riley,22,"['England', 'Ireland']",CB,€16.00m,Burnley FC,Olympique Marseille,free transfer,25/26
+Jonjo Shelvey,33,"['England', 'Ireland']",CM,€800k,Burnley FC,Arabian Falcons FC,free transfer,25/26
+Etienne Green,25,"['England', 'France']",GK,€700k,Burnley FC,FC Fredericia,free transfer,25/26
+Josh Brownhill,29,['England'],CM,€14.00m,Burnley FC,Al-Shabab FC,free transfer,25/26
+Darko Churlinov,25,['North Macedonia'],LW,€1.50m,Burnley FC,Kocaelispor,?,25/26
+Nathan Redmond,31,"['England', 'Jamaica']",RW,€1.50m,Burnley FC,Without Club,-,25/26
+Jamie Gittens,20,"['England', 'Barbados']",LW,€50.00m,Borussia Dortmund,Chelsea FC,€56.00m,25/26
+Alejandro Garnacho,21,"['Argentina', 'Spain']",LW,€45.00m,Manchester United,Chelsea FC,€46.20m,25/26
+Estêvão,18,['Brazil'],RW,€60.00m,Sociedade Esportiva Palmeiras,Chelsea FC,€45.00m,25/26
+Jorrel Hato,19,"['Netherlands', 'Curacao']",LB,€35.00m,Ajax Amsterdam,Chelsea FC,€44.18m,25/26
+Liam Delap,22,"['England', 'Ireland']",CF,€40.00m,Ipswich Town,Chelsea FC,€35.50m,25/26
+Dário Essugo,20,"['Portugal', 'Angola']",DM,€20.00m,Sporting CP,Chelsea FC,€22.27m,25/26
+Mamadou Sarr,19,"['Senegal', 'France']",CB,€20.00m,RC Strasbourg Alsace,Chelsea FC,€14.00m,25/26
+Kendry Páez,18,['Ecuador'],AM,€10.00m,Independiente del Valle,Chelsea FC,€10.00m,25/26
+Christopher Nkunku,27,"['France', 'DR Congo']",CF,€35.00m,Chelsea FC,AC Milan,€37.00m,25/26
+João Félix,25,['Portugal'],SS,€20.00m,Chelsea FC,Al-Nassr FC,€30.00m,25/26
+Kiernan Dewsbury-Hall,26,"['England', 'Ireland']",CM,€20.00m,Chelsea FC,Everton FC,€28.65m,25/26
+Renato Veiga,22,"['Portugal', 'Cape Verde']",CB,€25.00m,Chelsea FC,Villarreal CF,€24.50m,25/26
+Carney Chukwuemeka,21,"['England', 'Nigeria']",CM,€18.00m,Chelsea FC,Borussia Dortmund,€20.00m,25/26
+Mathis Amougou,19,"['France', 'Cameroon']",CM,€10.00m,Chelsea FC,RC Strasbourg Alsace,€14.50m,25/26
+Marcus Bettinelli,33,"['England', 'Italy']",GK,€600k,Chelsea FC,Manchester City,€2.40m,25/26
+Alfie Gilchrist,21,['England'],RB,€8.00m,Chelsea FC,West Bromwich Albion,€2.30m,25/26
+Lucas Bergström,22,['Finland'],GK,€700k,Chelsea FC,RCD Mallorca,free transfer,25/26
+Ben Chilwell,28,"['England', 'New Zealand']",LB,€15.00m,Chelsea FC,RC Strasbourg Alsace,free transfer,25/26
+Yéremy Pino,22,['Spain'],RW,€30.00m,Villarreal CF,Crystal Palace,€30.00m,25/26
+Jaydee Canvot,19,"['France', 'Senegal']",CB,€4.00m,FC Toulouse,Crystal Palace,€23.00m,25/26
+Borna Sosa,27,"['Croatia', 'Germany']",LB,€4.50m,Ajax Amsterdam,Crystal Palace,€2.30m,25/26
+Walter Benítez,32,"['Argentina', 'France']",GK,€7.50m,PSV Eindhoven,Crystal Palace,free transfer,25/26
+Odsonne Édouard,27,"['France', 'Haiti']",CF,€8.00m,Crystal Palace,RC Lens,€3.70m,25/26
+Malcolm Ebiowei,21,"['England', 'Netherlands']",RW,€1.20m,Crystal Palace,Blackpool FC,€1.15m,25/26
+Luke Plange,22,['England'],CF,€500k,Crystal Palace,Grasshopper Club Zurich,free transfer,25/26
+Jeffrey Schlupp,32,"['Ghana', 'Germany']",LM,€3.00m,Crystal Palace,Norwich City,free transfer,25/26
+Rob Holding,29,['England'],CB,€3.50m,Crystal Palace,Colorado Rapids,free transfer,25/26
+Joel Ward,35,['England'],RB,€500k,Crystal Palace,Without Club,-,25/26
+Tyler Dibling,19,['England'],RW,€25.00m,Southampton FC,Everton FC,€40.50m,25/26
+Thierno Barry,22,"['France', 'Guinea']",CF,€20.00m,Villarreal CF,Everton FC,€30.00m,25/26
+Carlos Alcaraz,22,['Argentina'],CM,€14.00m,CR Flamengo,Everton FC,€15.00m,25/26
+Adam Aznou,19,"['Morocco', 'Spain']",LB,€4.00m,Bayern Munich,Everton FC,€9.00m,25/26
+Tom King,30,"['Wales', 'England']",GK,€200k,Wolverhampton Wanderers,Everton FC,?,25/26
+Youssef Chermiti,21,"['Portugal', 'Tunisia']",CF,€8.00m,Everton FC,Rangers FC,€8.60m,25/26
+Neal Maupay,28,"['France', 'Argentina']",CF,€8.00m,Everton FC,Olympique Marseille,€4.00m,25/26
+Ashley Young,40,"['England', 'Jamaica']",RB,€500k,Everton FC,Ipswich Town,free transfer,25/26
+Abdoulaye Doucouré,32,"['Mali', 'France']",AM,€7.00m,Everton FC,NEOM SC,free transfer,25/26
+Mason Holgate,28,"['Jamaica', 'England']",CB,€4.00m,Everton FC,Al-Gharafa SC,free transfer,25/26
+João Virgínia,25,['Portugal'],GK,€800k,Everton FC,Sporting CP,free transfer,25/26
+Asmir Begovic,38,"['Bosnia-Herzegovina', 'Canada']",GK,€250k,Everton FC,Leicester City,free transfer,25/26
+Dominic Calvert-Lewin,28,['England'],CF,€16.00m,Everton FC,Leeds United,free transfer,25/26
+Billy Crellin,25,['England'],GK,€125k,Everton FC,Without Club,-,25/26
+Kevin,22,['Brazil'],LW,€12.00m,Shakhtar Donetsk,Fulham FC,€40.00m,25/26
+Benjamin Lecomte,34,['France'],GK,€1.50m,Montpellier HSC,Fulham FC,€500k,25/26
+Andreas Pereira,29,"['Brazil', 'Belgium']",AM,€18.00m,Fulham FC,Sociedade Esportiva Palmeiras,€10.00m,25/26
+Martial Godo,22,"[""Cote d'Ivoire"", 'England']",LW,€600k,Fulham FC,RC Strasbourg Alsace,€7.00m,25/26
+Carlos Vinícius,30,['Brazil'],CF,€3.50m,Fulham FC,Grêmio Foot-Ball Porto Alegrense,free transfer,25/26
+Willian,36,['Brazil'],LW,€750k,Fulham FC,Without Club,-,25/26
+Anton Stach,26,['Germany'],DM,€14.00m,TSG 1899 Hoffenheim,Leeds United,€20.00m,25/26
+Noah Okafor,25,"['Switzerland', 'Nigeria']",LW,€13.00m,AC Milan,Leeds United,€19.00m,25/26
+Jaka Bijol,26,['Slovenia'],CB,€18.00m,Udinese Calcio,Leeds United,€18.00m,25/26
+Lucas Perri,27,"['Brazil', 'Italy']",GK,€10.00m,Olympique Lyon,Leeds United,€16.00m,25/26
+Sean Longstaff,27,['England'],CM,€20.00m,Newcastle United,Leeds United,€13.80m,25/26
+Gabriel Gudmundsson,26,['Sweden'],LB,€7.00m,LOSC Lille,Leeds United,€11.60m,25/26
+James Justin,27,"['England', 'St. Lucia']",RB,€13.00m,Leicester City,Leeds United,€9.30m,25/26
+Sebastiaan Bornauw,26,['Belgium'],CB,€6.00m,VfL Wolfsburg,Leeds United,€6.00m,25/26
+Lukas Nmecha,26,"['Germany', 'England']",CF,€3.00m,VfL Wolfsburg,Leeds United,free transfer,25/26
+Rasmus Kristensen,27,['Denmark'],RB,€14.00m,Leeds United,Eintracht Frankfurt,€6.00m,25/26
+Sam Greenwood,23,['England'],LW,€4.50m,Leeds United,Pogon Szczecin,€2.00m,25/26
+Junior Firpo,28,"['Dominican Republic', 'Spain']",LB,€8.00m,Leeds United,Real Betis Balompié,free transfer,25/26
+Darko Gyabi,21,"['England', 'Ghana']",CM,€1.80m,Leeds United,Hull City,free transfer,25/26
+Josuha Guilavogui,34,"['France', 'Guinea']",DM,€300k,Leeds United,Without Club,-,25/26
+Patrick Bamford,31,"['England', 'Ireland']",CF,€2.00m,Leeds United,Without Club,-,25/26
+Alexander Isak,25,"['Sweden', 'Eritrea']",CF,€120.00m,Newcastle United,Liverpool FC,€145.00m,25/26
+Florian Wirtz,22,['Germany'],AM,€140.00m,Bayer 04 Leverkusen,Liverpool FC,€125.00m,25/26
+Hugo Ekitiké,23,"['France', 'Cameroon']",CF,€75.00m,Eintracht Frankfurt,Liverpool FC,€95.00m,25/26
+Jeremie Frimpong,24,"['Netherlands', 'Ghana']",RB,€50.00m,Bayer 04 Leverkusen,Liverpool FC,€40.00m,25/26
+Giovanni Leoni,18,['Italy'],CB,€18.00m,Parma Calcio 1913,Liverpool FC,€31.00m,25/26
+Freddie Woodman,28,['England'],GK,€3.50m,Preston North End,Liverpool FC,free transfer,25/26
+Luis Díaz,28,['Colombia'],LW,€70.00m,Liverpool FC,Bayern Munich,€70.00m,25/26
+Darwin Núñez,26,['Uruguay'],CF,€45.00m,Liverpool FC,Al-Hilal SFC,€53.00m,25/26
+Jarell Quansah,22,"['England', 'Scotland']",CB,€20.00m,Liverpool FC,Bayer 04 Leverkusen,€35.00m,25/26
+Trent Alexander-Arnold,26,['England'],RB,€75.00m,Liverpool FC,Real Madrid,€10.00m,25/26
+Tyler Morton,22,['England'],DM,€7.00m,Liverpool FC,Olympique Lyon,€10.00m,25/26
+Nat Phillips,28,['England'],CB,€3.00m,Liverpool FC,West Bromwich Albion,€3.50m,25/26
+Tijjani Reijnders,26,['Netherlands'],CM,€50.00m,AC Milan,Manchester City,€54.90m,25/26
+Rayan Aït-Nouri,24,"['Algeria', 'France']",LB,€35.00m,Wolverhampton Wanderers,Manchester City,€36.80m,25/26
+Rayan Cherki,21,"['France', 'Algeria']",RW,€45.00m,Olympique Lyon,Manchester City,€36.50m,25/26
+Gianluigi Donnarumma,26,['Italy'],GK,€40.00m,Paris Saint-Germain,Manchester City,€30.00m,25/26
+Sverre Nypan,18,['Norway'],CM,€15.00m,Rosenborg BK,Manchester City,€15.00m,25/26
+James McAtee,22,['England'],AM,€20.00m,Manchester City,Nottingham Forest,€25.50m,25/26
+Yan Couto,23,"['Brazil', 'Portugal']",RM,€20.00m,Manchester City,Borussia Dortmund,€20.00m,25/26
+Máximo Perrone,22,"['Argentina', 'Spain']",DM,€12.00m,Manchester City,Como 1907,€13.00m,25/26
+Ederson,32,"['Brazil', 'Portugal']",GK,€20.00m,Manchester City,Fenerbahce,€11.00m,25/26
+Kevin De Bruyne,34,['Belgium'],AM,€20.00m,Manchester City,SSC Napoli,free transfer,25/26
+İlkay Gündoğan,34,['Germany'],CM,€5.00m,Manchester City,Galatasaray,free transfer,25/26
+Scott Carson,39,['England'],GK,€100k,Manchester City,Without Club,-,25/26
+Benjamin Sesko,22,['Slovenia'],CF,€70.00m,RB Leipzig,Manchester United,€76.50m,25/26
+Matheus Cunha,26,['Brazil'],SS,€60.00m,Wolverhampton Wanderers,Manchester United,€74.20m,25/26
+Senne Lammens,23,['Belgium'],GK,€9.00m,Royal Antwerp FC,Manchester United,€21.00m,25/26
+Diego León,18,['Paraguay'],LB,€4.00m,Club Cerro Porteño,Manchester United,€4.00m,25/26
+Antony,25,['Brazil'],RW,€35.00m,Manchester United,Real Betis Balompié,€22.00m,25/26
+Jonny Evans,37,['Northern Ireland'],CB,€1.00m,Manchester United,Retired,-,25/26
+Christian Eriksen,33,['Denmark'],AM,€4.00m,Manchester United,Without Club,-,25/26
+Nick Woltemade,23,['Germany'],CF,€30.00m,VfB Stuttgart,Newcastle United,€75.00m,25/26
+Anthony Elanga,23,"['Sweden', 'Cameroon']",RW,€42.00m,Nottingham Forest,Newcastle United,€61.40m,25/26
+Malick Thiaw,24,"['Germany', 'Finland']",CB,€18.00m,AC Milan,Newcastle United,€35.00m,25/26
+Antoñito Cordero,18,['Spain'],LW,€2.00m,Málaga CF,Newcastle United,free transfer,25/26
+Lloyd Kelly,26,"['England', 'Jamaica']",CB,€16.00m,Newcastle United,Juventus FC,€17.20m,25/26
+Callum Wilson,33,['England'],CF,€8.00m,Newcastle United,West Ham United,free transfer,25/26
+Isaac Hayden,30,"['Jamaica', 'England']",DM,€700k,Newcastle United,Queens Park Rangers,free transfer,25/26
+Jamal Lewis,27,"['Northern Ireland', 'England']",LB,€2.50m,Newcastle United,Without Club,-,25/26
+Omari Hutchinson,21,"['England', 'Jamaica']",AM,€22.00m,Ipswich Town,Nottingham Forest,€43.40m,25/26
+Dan Ndoye,24,"['Switzerland', 'Senegal']",RW,€35.00m,Bologna FC 1909,Nottingham Forest,€42.00m,25/26
+Dilane Bakwa,23,"['France', 'DR Congo']",RW,€25.00m,RC Strasbourg Alsace,Nottingham Forest,€35.00m,25/26
+Arnaud Kalimuendo,23,"['France', 'DR Congo']",CF,€22.00m,Stade Rennais FC,Nottingham Forest,€30.00m,25/26
+Igor Jesus,24,"['Brazil', 'United Arab Emirates']",CF,€15.00m,Botafogo de Futebol e Regatas,Nottingham Forest,€19.00m,25/26
+Nicolò Savona,22,['Italy'],RB,€12.00m,Juventus FC,Nottingham Forest,€13.00m,25/26
+Jair Cunha,20,['Brazil'],CB,€13.00m,Botafogo de Futebol e Regatas,Nottingham Forest,€12.00m,25/26
+John Victor,29,"['Brazil', 'Portugal']",GK,€8.00m,Botafogo de Futebol e Regatas,Nottingham Forest,€8.00m,25/26
+Cuiabano,22,['Brazil'],LB,€8.00m,Botafogo de Futebol e Regatas,Nottingham Forest,€6.00m,25/26
+Angus Gunn,29,"['Scotland', 'England']",GK,€2.20m,Norwich City,Nottingham Forest,free transfer,25/26
+Danilo,24,['Brazil'],DM,€28.00m,Nottingham Forest,Botafogo de Futebol e Regatas,€23.00m,25/26
+Ramón Sosa,25,"['Paraguay', 'Argentina']",LW,€12.00m,Nottingham Forest,Sociedade Esportiva Palmeiras,€12.50m,25/26
+Andrew Omobamidele,23,"['Ireland', 'Nigeria']",CB,€8.00m,Nottingham Forest,RC Strasbourg Alsace,€10.50m,25/26
+Matt Turner,31,"['United States', 'Lithuania']",GK,€2.50m,Nottingham Forest,Olympique Lyon,€8.00m,25/26
+Carlos Miguel,26,['Brazil'],GK,€4.00m,Nottingham Forest,Sociedade Esportiva Palmeiras,€5.50m,25/26
+Lewis O'Brien,26,['England'],CM,€4.00m,Nottingham Forest,Wrexham AFC,€3.50m,25/26
+Marko Stamenic,23,"['New Zealand', 'Serbia']",CM,€3.00m,Nottingham Forest,Swansea City,€2.00m,25/26
+Harry Toffolo,29,"['England', 'Italy']",LB,€3.00m,Nottingham Forest,Charlotte FC,free transfer,25/26
+Josh Bowler,26,['England'],RW,€1.00m,Nottingham Forest,Blackpool FC,free transfer,25/26
+Jonathan Panzo,24,"['England', ""Cote d'Ivoire""]",CB,€1.20m,Nottingham Forest,Rio Ave FC,free transfer,25/26
+Wayne Hennessey,38,['Wales'],GK,€150k,Nottingham Forest,Retired,-,25/26
+Emmanuel Dennis,27,['Nigeria'],CF,€2.50m,Nottingham Forest,Without Club,-,25/26
+Habib Diarra,21,"['Senegal', 'France']",CM,€20.00m,RC Strasbourg Alsace,Sunderland AFC,€31.50m,25/26
+Enzo Le Fée,25,['France'],CM,€18.00m,AS Roma,Sunderland AFC,€23.00m,25/26
+Brian Brobbey,23,"['Netherlands', 'Ghana']",CF,€22.00m,Ajax Amsterdam,Sunderland AFC,€20.00m,25/26
+Chemsdine Talbi,20,"['Morocco', 'Belgium']",RW,€8.00m,Club Brugge KV,Sunderland AFC,€20.00m,25/26
+Noah Sadiki,20,"['DR Congo', 'Belgium']",CM,€12.00m,Union Saint-Gilloise,Sunderland AFC,€17.00m,25/26
+Granit Xhaka,32,['Switzerland'],DM,€12.00m,Bayer 04 Leverkusen,Sunderland AFC,€15.00m,25/26
+Nordi Mukiele,27,"['France', 'DR Congo']",RB,€10.00m,Paris Saint-Germain,Sunderland AFC,€12.00m,25/26
+Omar Alderete,28,['Paraguay'],CB,€8.00m,Getafe CF,Sunderland AFC,€11.60m,25/26
+Robin Roefs,22,['Netherlands'],GK,€4.00m,NEC Nijmegen,Sunderland AFC,€10.50m,25/26
+Bertrand Traoré,29,['Burkina Faso'],RW,€8.00m,Ajax Amsterdam,Sunderland AFC,€2.90m,25/26
+Reinildo Mandava,31,['Mozambique'],LB,€5.00m,Atlético de Madrid,Sunderland AFC,free transfer,25/26
+Arthur Masuaku,31,"['DR Congo', 'France']",LB,€3.00m,Besiktas JK,Sunderland AFC,free transfer,25/26
+Jobe Bellingham,19,"['England', 'Ireland']",CM,€22.00m,Sunderland AFC,Borussia Dortmund,€30.50m,25/26
+Pierre Ekwah,23,"['France', 'Ghana']",DM,€7.00m,Sunderland AFC,AS Saint-Étienne,€6.00m,25/26
+Nectarios Triantis,22,"['Greece', 'Australia']",CM,€1.00m,Sunderland AFC,Minnesota United FC,€2.50m,25/26
+Nathan Bishop,25,['England'],GK,€275k,Sunderland AFC,AFC Wimbledon,?,25/26
+Xavi Simons,22,"['Netherlands', 'Suriname']",AM,€70.00m,RB Leipzig,Tottenham Hotspur,€65.00m,25/26
+Mohammed Kudus,24,['Ghana'],RW,€45.00m,West Ham United,Tottenham Hotspur,€63.80m,25/26
+Mathys Tel,20,"['France', 'Guadeloupe']",CF,€35.00m,Bayern Munich,Tottenham Hotspur,€35.00m,25/26
+Kevin Danso,26,['Austria'],CB,€25.00m,RC Lens,Tottenham Hotspur,€25.00m,25/26
+Luka Vuskovic,18,['Croatia'],CB,€12.00m,HNK Hajduk Split,Tottenham Hotspur,€11.00m,25/26
+Kota Takai,20,['Japan'],CB,€2.50m,Kawasaki Frontale,Tottenham Hotspur,€5.80m,25/26
+Heung-min Son,33,"['Korea, South']",LW,€20.00m,Tottenham Hotspur,Los Angeles FC,€22.00m,25/26
+Pierre-Emile Højbjerg,29,"['Denmark', 'France']",DM,€20.00m,Tottenham Hotspur,Olympique Marseille,€13.50m,25/26
+Bryan Gil,24,['Spain'],LW,€15.00m,Tottenham Hotspur,Girona FC,€6.00m,25/26
+Fraser Forster,37,['England'],GK,€1.00m,Tottenham Hotspur,Without Club,-,25/26
+Sergio Reguilón,28,['Spain'],LB,€6.00m,Tottenham Hotspur,Without Club,-,25/26
+Alfie Whiteman,26,['England'],GK,€500k,Tottenham Hotspur,Without Club,-,25/26
+Mateus Fernandes,21,['Portugal'],CM,€15.00m,Southampton FC,West Ham United,€44.00m,25/26
+Jean-Clair Todibo,25,"['France', 'French Guiana']",CB,€25.00m,OGC Nice,West Ham United,€40.00m,25/26
+El Hadji Malick Diouf,20,['Senegal'],LB,€18.00m,SK Slavia Prague,West Ham United,€22.00m,25/26
+Mads Hermansen,25,['Denmark'],GK,€15.00m,Leicester City,West Ham United,€20.80m,25/26
+Soungoutou Magassa,21,"['France', 'Mali']",DM,€12.00m,AS Monaco,West Ham United,€17.00m,25/26
+Kyle Walker-Peters,28,"['England', 'Jamaica']",RB,€15.00m,Southampton FC,West Ham United,free transfer,25/26
+Lukasz Fabianski,40,['Poland'],GK,€500k,Without Club,West Ham United,-,25/26
+Nayef Aguerd,29,['Morocco'],CB,€18.00m,West Ham United,Olympique Marseille,€23.00m,25/26
+Emerson,31,"['Italy', 'Brazil']",LB,€10.00m,West Ham United,Olympique Marseille,€700k,25/26
+Aaron Cresswell,35,['England'],LB,€500k,West Ham United,Stoke City,free transfer,25/26
+Vladimír Coufal,32,['Czech Republic'],RB,€5.00m,West Ham United,TSG 1899 Hoffenheim,free transfer,25/26
+Danny Ings,33,['England'],CF,€6.00m,West Ham United,Sheffield United,free transfer,25/26
+Kurt Zouma,30,"['France', 'Central African Republic']",CB,€10.00m,West Ham United,CFR Cluj,free transfer,25/26
+Wes Foderingham,34,['England'],GK,€600k,West Ham United,Aris Limassol,free transfer,25/26
+Lukasz Fabianski,40,['Poland'],GK,€500k,West Ham United,Without Club,-,25/26
+Jørgen Strand Larsen,25,['Norway'],CF,€30.00m,Celta de Vigo,Wolverhampton Wanderers,€27.00m,25/26
+Tolu Arokodare,24,['Nigeria'],CF,€18.00m,KRC Genk,Wolverhampton Wanderers,€26.00m,25/26
+Fer López,21,['Spain'],AM,€5.00m,Celta de Vigo,Wolverhampton Wanderers,€23.00m,25/26
+Jhon Arias,27,['Colombia'],RW,€17.00m,Fluminense Football Club,Wolverhampton Wanderers,€17.00m,25/26
+Jackson Tchatchoua,23,"['Cameroon', 'Belgium']",RB,€8.00m,Hellas Verona,Wolverhampton Wanderers,€12.50m,25/26
+David Møller Wolfe,23,['Norway'],LB,€9.00m,AZ Alkmaar,Wolverhampton Wanderers,€12.00m,25/26
+Fábio Silva,23,['Portugal'],CF,€20.00m,Wolverhampton Wanderers,Borussia Dortmund,€22.50m,25/26
+Gonçalo Guedes,28,['Portugal'],LW,€11.00m,Wolverhampton Wanderers,Real Sociedad,€4.00m,25/26
+Nélson Semedo,31,"['Portugal', 'Cape Verde']",RB,€9.00m,Wolverhampton Wanderers,Fenerbahce,free transfer,25/26
+Chiquinho,25,"['Portugal', 'Cape Verde']",LW,€2.00m,Wolverhampton Wanderers,FC Alverca,free transfer,25/26
+Pablo Sarabia,33,['Spain'],RW,€5.00m,Wolverhampton Wanderers,Al-Arabi SC,free transfer,25/26
+Chem Campbell,22,"['Wales', 'England']",AM,€900k,Wolverhampton Wanderers,Stevenage FC,?,25/26
+Joe Hodge,22,"['Ireland', 'England']",DM,€1.00m,Wolverhampton Wanderers,CD Tondela,?,25/26
+Bastien Meupiyou,19,"['France', 'Cameroon']",CB,€2.50m,Wolverhampton Wanderers,FC Alverca,?,25/26
+Craig Dawson,35,['England'],CB,€1.50m,Wolverhampton Wanderers,Without Club,-,25/26
