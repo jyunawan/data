@@ -26,6 +26,9 @@ Header | Definition
 `npxG` | Non-Penalty expected Goals
 `xAG` | Expected Assisted Goals
 `npxG+xAG` | Non-Penalty Expected Goals plus Assisted Goals
+`PrgC` | Progressive Carries. Carries that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any carry into the penalty area. Excludes carries which end in the defending 50% of the pitch.
+`PrgP` | Progressive Passes. Completed passes that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any completed pass into the penalty area. Excludes passes from the defending 40% of the pitch.
+`PrgR` | Progressive Passes Received
 `Season` | Season of the transfer
 
 Source: [FBREF](https://fbref.com/en/comps/9/Premier-League-Stats)
