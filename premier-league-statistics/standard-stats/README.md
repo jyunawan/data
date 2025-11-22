@@ -1,6 +1,6 @@
 # Premier League Statistics
 
-This folder contains Premier League Transfer Data scraped from FBREF.
+This folder contains Premier League Standard Statistics scraped from FBREF.
 
 Header | Definition
 ---|---------
