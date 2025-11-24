@@ -15,4 +15,4 @@ Header | Definition
 `Value` | Total value of the contract (Salary over the length of the contract)
 `AAV` | Average annual value (Annual salary)
 
-Source: [TransferMarkt](https://www.transfermarkt.us/premier-league/transfers/wettbewerb/GB1)
+Source: [Spotrac](https://www.spotrac.com/epl/contracts)
