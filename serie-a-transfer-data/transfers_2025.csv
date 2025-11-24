@@ -1,0 +1,340 @@
+player_name,player_age,player_nationality,player_position,market_value,from_club,to_club,transfer_fee,transfer_season
+Sam Beukema,26,['Netherlands'],CB,€28.00m,Bologna FC 1909,SSC Napoli,€31.00m,25/26
+Noa Lang,26,"['Netherlands', 'Suriname']",LW,€25.00m,PSV Eindhoven,SSC Napoli,€25.00m,25/26
+Miguel Gutiérrez,24,['Spain'],LB,€20.00m,Girona FC,SSC Napoli,€18.00m,25/26
+Luca Marianucci,20,['Italy'],CB,€7.50m,FC Empoli,SSC Napoli,€9.00m,25/26
+Mathias Ferrante,18,['Italy'],GK,€200k,SSD NovaRomentin,SSC Napoli,€100k,25/26
+Emanuele Rao,19,['Italy'],LW,€800k,SPAL,SSC Napoli,free transfer,25/26
+Kevin De Bruyne,34,['Belgium'],AM,€20.00m,Manchester City,SSC Napoli,free transfer,25/26
+Victor Osimhen,26,['Nigeria'],CF,€70.00m,SSC Napoli,Galatasaray,€75.00m,25/26
+Giacomo Raspadori,25,['Italy'],SS,€25.00m,SSC Napoli,Atlético de Madrid,€22.00m,25/26
+Natan,24,['Brazil'],CB,€9.00m,SSC Napoli,Real Betis Balompié,€9.00m,25/26
+Elia Caprile,23,['Italy'],GK,€9.00m,SSC Napoli,Cagliari Calcio,€8.00m,25/26
+Gianluca Gaetano,25,['Italy'],AM,€4.00m,SSC Napoli,Cagliari Calcio,€6.00m,25/26
+Francesco Mezzoni,25,['Italy'],RM,€200k,SSC Napoli,Virtus Entella,free transfer,25/26
+Alessandro Spavone,21,['Italy'],AM,€100k,SSC Napoli,Guidonia Montecelio 1937 FC,free transfer,25/26
+Francesco Gioielli,21,['Italy'],DM,€75k,SSC Napoli,Atletico Calcio Afragolese,free transfer,25/26
+Giuseppe D'Agostino,22,['Italy'],LW,€250k,SSC Napoli,Giugliano Calcio 1928,free transfer,25/26
+Matteo Marchisano,20,['Italy'],RB,€50k,SSC Napoli,US Avellino 1912,free transfer,25/26
+Ange-Yoan Bonny,21,"['France', ""Cote d'Ivoire""]",CF,€20.00m,Parma Calcio 1913,Inter Milan,€23.00m,25/26
+Luis Henrique,23,['Brazil'],RM,€25.00m,Olympique Marseille,Inter Milan,€22.80m,25/26
+Andy Diouf,22,"['France', 'Senegal']",CM,€15.00m,RC Lens,Inter Milan,€20.00m,25/26
+Petar Sučić,21,"['Croatia', 'Bosnia-Herzegovina']",CM,€14.00m,GNK Dinamo Zagreb,Inter Milan,€14.60m,25/26
+Nicola Zalewski,23,['Poland'],LM,€12.00m,AS Roma,Inter Milan,€8.00m,25/26
+Nicola Zalewski,23,['Poland'],LM,€12.00m,Inter Milan,Atalanta BC,€17.00m,25/26
+Aleksandar Stanković,19,"['Serbia', 'Italy']",DM,€11.00m,Inter Milan,Club Brugge KV,€9.50m,25/26
+Tajon Buchanan,26,"['Canada', 'Jamaica']",RW,€6.00m,Inter Milan,Villarreal CF,€9.00m,25/26
+Martín Satriano,24,"['Uruguay', 'Italy']",CF,€5.00m,Inter Milan,RC Lens,€4.70m,25/26
+Mehdi Taremi,33,['Iran'],CF,€3.50m,Inter Milan,Olympiacos Piraeus,€2.00m,25/26
+Filip Stanković,23,['Serbia'],GK,€6.00m,Inter Milan,Venezia FC,€1.50m,25/26
+Joaquín Correa,30,"['Argentina', 'Italy']",SS,€3.00m,Inter Milan,Botafogo de Futebol e Regatas,free transfer,25/26
+Eddie Salcedo,23,"['Italy', 'Colombia']",CF,€1.00m,Inter Milan,OFI Crete FC,free transfer,25/26
+Marko Arnautovic,36,"['Austria', 'Serbia']",CF,€3.00m,Inter Milan,Red Star Belgrade,free transfer,25/26
+Zinho Vanheusden,26,['Belgium'],CB,€1.00m,Inter Milan,Marbella FC,?,25/26
+Nikola Krstović,25,"['Montenegro', 'Serbia']",CF,€15.00m,US Lecce,Atalanta BC,€25.00m,25/26
+Odilon Kossounou,24,"[""Cote d'Ivoire""]",CB,€25.00m,Bayer 04 Leverkusen,Atalanta BC,€20.00m,25/26
+Kamaldeen Sulemana,23,['Ghana'],LW,€13.00m,Southampton FC,Atalanta BC,€17.00m,25/26
+Honest Ahanor,17,['Nigeria'],CB,€5.00m,Genoa CFC,Atalanta BC,€17.00m,25/26
+Lazar Samardžić,23,"['Serbia', 'Germany']",AM,€17.00m,Udinese Calcio,Atalanta BC,€14.80m,25/26
+Marco Brescianini,25,['Italy'],CM,€8.00m,Frosinone Calcio,Atalanta BC,€10.00m,25/26
+Marco Sportiello,33,['Italy'],GK,€1.00m,AC Milan,Atalanta BC,€1.00m,25/26
+Mateo Retegui,26,"['Italy', 'Argentina']",CF,€45.00m,Atalanta BC,Al-Qadsiah FC,€68.25m,25/26
+Matteo Ruggeri,22,['Italy'],LB,€16.00m,Atalanta BC,Atlético de Madrid,€17.00m,25/26
+Roberto Piccoli,24,['Italy'],CF,€12.00m,Atalanta BC,Cagliari Calcio,€12.00m,25/26
+Michel Adopo,24,"['France', ""Cote d'Ivoire""]",CM,€4.00m,Atalanta BC,Cagliari Calcio,€3.80m,25/26
+Juan Musso,31,"['Argentina', 'Italy']",GK,€3.50m,Atalanta BC,Atlético de Madrid,€3.00m,25/26
+Rui Patrício,37,['Portugal'],GK,€1.00m,Atalanta BC,Al-Ain FC,free transfer,25/26
+Juan Cuadrado,37,"['Colombia', 'Italy']",RM,€1.00m,Atalanta BC,Pisa Sporting Club,free transfer,25/26
+Rafael Tolói,34,"['Italy', 'Brazil']",CB,€1.40m,Atalanta BC,São Paulo Futebol Clube,free transfer,25/26
+Francisco Conceição,22,['Portugal'],RW,€28.00m,FC Porto,Juventus FC,€32.00m,25/26
+Nico González,27,"['Argentina', 'Italy']",LW,€24.00m,ACF Fiorentina,Juventus FC,€28.10m,25/26
+Lloyd Kelly,26,"['England', 'Jamaica']",CB,€16.00m,Newcastle United,Juventus FC,€17.20m,25/26
+Edon Zhegrova,26,"['Kosovo', 'Albania']",RW,€25.00m,LOSC Lille,Juventus FC,€15.50m,25/26
+Pierre Kalulu,25,"['France', 'DR Congo']",CB,€28.00m,AC Milan,Juventus FC,€14.30m,25/26
+Michele Di Gregorio,27,['Italy'],GK,€18.00m,AC Monza,Juventus FC,€14.30m,25/26
+João Mário,25,['Portugal'],RM,€10.00m,FC Porto,Juventus FC,€12.60m,25/26
+Jonathan David,25,"['Canada', 'United States']",CF,€45.00m,LOSC Lille,Juventus FC,free transfer,25/26
+Nicolò Rovella,23,['Italy'],DM,€30.00m,Juventus FC,SS Lazio,€17.00m,25/26
+Alberto Costa,21,['Portugal'],RB,€10.00m,Juventus FC,FC Porto,€15.00m,25/26
+Nicolò Fagioli,24,['Italy'],CM,€18.00m,Juventus FC,ACF Fiorentina,€13.50m,25/26
+Nicolò Savona,22,['Italy'],RB,€12.00m,Juventus FC,Nottingham Forest,€13.00m,25/26
+Samuel Mbangula,21,"['Belgium', 'DR Congo']",LW,€14.00m,Juventus FC,SV Werder Bremen,€10.00m,25/26
+Luca Pellegrini,26,['Italy'],LB,€3.00m,Juventus FC,SS Lazio,€4.00m,25/26
+Hans Nicolussi Caviglia,25,['Italy'],CM,€8.50m,Juventus FC,Venezia FC,€3.50m,25/26
+Tiago Djaló,25,"['Portugal', 'Guinea-Bissau']",CB,€8.00m,Juventus FC,Besiktas JK,€3.50m,25/26
+Stefano Gori,29,['Italy'],GK,€400k,Juventus FC,Union Brescia,free transfer,25/26
+Mattia De Sciglio,32,['Italy'],RB,€800k,Juventus FC,Without Club,-,25/26
+Wesley,21,['Brazil'],RB,€20.00m,CR Flamengo,AS Roma,€25.00m,25/26
+Neil El Aynaoui,24,"['Morocco', 'France']",CM,€15.00m,RC Lens,AS Roma,€23.50m,25/26
+Jan Ziolkowski,20,['Poland'],CB,€4.00m,Legia Warszawa,AS Roma,€6.60m,25/26
+Radoslaw Zelezny,18,['Poland'],GK,€175k,Juventus Primavera,AS Roma,free transfer,25/26
+Devis Vásquez,27,['Colombia'],GK,€2.00m,AC Milan,AS Roma,free transfer,25/26
+Enzo Le Fée,25,['France'],CM,€18.00m,AS Roma,Sunderland AFC,€23.00m,25/26
+Samuel Dahl,22,['Sweden'],LB,€7.00m,AS Roma,SL Benfica,€9.00m,25/26
+Leandro Paredes,31,['Argentina'],DM,€5.00m,AS Roma,CA Boca Juniors,€3.00m,25/26
+Ola Solbakken,26,['Norway'],RW,€2.30m,AS Roma,FC Nordsjaelland,€950k,25/26
+Matteo Plaia,19,"['Italy', 'Belgium']",CB,€400k,AS Roma,Atalanta U23,€500k,25/26
+Renato Marin,19,"['Italy', 'Brazil']",GK,€500k,AS Roma,Paris Saint-Germain,free transfer,25/26
+Davide Mastrantonio,21,['Italy'],GK,€100k,AS Roma,Latina Calcio 1932,?,25/26
+Pietro Boer,23,['Italy'],GK,€300k,AS Roma,SS Juve Stabia,?,25/26
+Ebrima Darboe,24,['The Gambia'],DM,€1.00m,AS Roma,SSC Bari,?,25/26
+Mats Hummels,36,['Germany'],CB,€2.00m,AS Roma,Retired,-,25/26
+Roberto Piccoli,24,['Italy'],CF,€12.00m,Cagliari Calcio,ACF Fiorentina,€25.00m,25/26
+Simon Sohm,24,"['Switzerland', 'Nigeria']",CM,€5.00m,Parma Calcio 1913,ACF Fiorentina,€15.00m,25/26
+Albert Gudmundsson,28,['Iceland'],SS,€18.00m,Genoa CFC,ACF Fiorentina,€13.00m,25/26
+Jacopo Fazzini,22,['Italy'],CM,€10.00m,FC Empoli,ACF Fiorentina,€10.00m,25/26
+Robin Gosens,30,"['Germany', 'Netherlands']",LB,€8.00m,1.FC Union Berlin,ACF Fiorentina,€7.00m,25/26
+Tariq Lamptey,24,"['Ghana', 'England']",RB,€11.00m,Brighton & Hove Albion,ACF Fiorentina,€6.00m,25/26
+Eman Kospo,18,"['Bosnia-Herzegovina', 'Switzerland']",CB,-,FC Barcelona U19,ACF Fiorentina,€400k,25/26
+Edin Džeko,39,['Bosnia-Herzegovina'],CF,€1.60m,Fenerbahce,ACF Fiorentina,free transfer,25/26
+Luca Lezzerini,30,['Italy'],GK,€350k,Brescia Calcio (- 2025),ACF Fiorentina,free transfer,25/26
+Michael Kayode,20,"['Italy', 'Nigeria']",RB,€18.00m,ACF Fiorentina,Brentford FC,€17.50m,25/26
+Sofyan Amrabat,28,"['Morocco', 'Netherlands']",DM,€17.00m,ACF Fiorentina,Fenerbahce,€12.00m,25/26
+Jonathan Ikoné,27,"['France', 'DR Congo']",RW,€7.00m,ACF Fiorentina,Paris FC,€2.00m,25/26
+Cristiano Biraghi,32,['Italy'],LB,€1.80m,ACF Fiorentina,Torino FC,€100k,25/26
+Pietro Terracciano,35,['Italy'],GK,€1.00m,ACF Fiorentina,AC Milan,free transfer,25/26
+Eljon Toci,22,"['Albania', 'Italy']",CF,€200k,ACF Fiorentina,Dolomiti Bellunesi,free transfer,25/26
+Davide Gentile,21,"['Italy', 'Germany']",RB,€200k,ACF Fiorentina,US Livorno 1915,free transfer,25/26
+Edoardo Pierozzi,23,['Italy'],RM,€400k,ACF Fiorentina,Benevento Calcio,free transfer,25/26
+Josip Brekalo,27,['Croatia'],LW,€3.30m,ACF Fiorentina,Real Oviedo,free transfer,25/26
+Eduard Duțu,24,"['Romania', 'Italy']",CB,€50k,ACF Fiorentina,Latina Calcio 1932,free transfer,25/26
+Niccolò Nardi,21,['Italy'],AM,€75k,ACF Fiorentina,Siena FC,?,25/26
+Costantino Favasuli,21,['Italy'],LB,€1.40m,ACF Fiorentina,US Catanzaro,?,25/26
+Gabriele Ferrarini,25,['Italy'],RB,€250k,ACF Fiorentina,Without Club,-,25/26
+Nuno Tavares,25,"['Portugal', 'Cape Verde']",LB,€25.00m,Arsenal FC,SS Lazio,€5.00m,25/26
+Samuel Gigot,31,['France'],CB,€3.00m,Olympique Marseille,SS Lazio,€4.50m,25/26
+Fisayo Dele-Bashiru,24,"['Nigeria', 'England']",AM,€7.50m,Hatayspor,SS Lazio,€3.43m,25/26
+Loum Tchaouna,21,"['France', 'Chad']",RW,€10.00m,SS Lazio,Burnley FC,€15.15m,25/26
+Nicolò Casale,27,['Italy'],CB,€6.00m,SS Lazio,Bologna FC 1909,€6.50m,25/26
+Marco Bertini,22,['Italy'],DM,€100k,SS Lazio,US Pianese,free transfer,25/26
+Fabio Andrea Ruggeri,20,['Italy'],CB,€1.00m,SS Lazio,Carrarese Calcio 1908,free transfer,25/26
+Gaetano Castrovilli,28,['Italy'],CM,€1.50m,SS Lazio,SSC Bari,free transfer,25/26
+Valerio Crespi,20,['Italy'],CF,€300k,SS Lazio,US Avellino 1912,?,25/26
+André Anderson,25,"['Italy', 'Brazil']",AM,€150k,SS Lazio,Without Club,-,25/26
+Jean-Daniel Akpa Akpro,32,"[""Cote d'Ivoire"", 'France']",CM,€500k,SS Lazio,Without Club,-,25/26
+Christopher Nkunku,27,"['France', 'DR Congo']",CF,€35.00m,Chelsea FC,AC Milan,€37.00m,25/26
+Ardon Jashari,23,"['Switzerland', 'North Macedonia']",DM,€32.00m,Club Brugge KV,AC Milan,€36.00m,25/26
+Samuele Ricci,23,['Italy'],DM,€30.00m,Torino FC,AC Milan,€23.00m,25/26
+Koni De Winter,23,['Belgium'],CB,€22.00m,Genoa CFC,AC Milan,€20.00m,25/26
+Pervis Estupiñán,27,"['Ecuador', 'Spain']",LB,€30.00m,Brighton & Hove Albion,AC Milan,€17.00m,25/26
+Zachary Athekame,20,"['Switzerland', 'Nigeria']",RB,€5.00m,BSC Young Boys,AC Milan,€10.00m,25/26
+David Odogu,19,"['Germany', 'Nigeria']",CB,€1.50m,VfL Wolfsburg,AC Milan,€7.00m,25/26
+Adrien Rabiot,30,['France'],CM,€25.00m,Olympique Marseille,AC Milan,€7.00m,25/26
+Luka Modrić,39,['Croatia'],CM,€4.00m,Real Madrid,AC Milan,free transfer,25/26
+Tijjani Reijnders,26,['Netherlands'],CM,€50.00m,AC Milan,Manchester City,€54.90m,25/26
+Malick Thiaw,24,"['Germany', 'Finland']",CB,€18.00m,AC Milan,Newcastle United,€35.00m,25/26
+Theo Hernández,27,"['France', 'Spain']",LB,€35.00m,AC Milan,Al-Hilal SFC,€25.00m,25/26
+Noah Okafor,25,"['Switzerland', 'Nigeria']",LW,€13.00m,AC Milan,Leeds United,€19.00m,25/26
+Emerson Royal,26,['Brazil'],RB,€9.00m,AC Milan,CR Flamengo,€9.00m,25/26
+Yacine Adli,25,"['France', 'Algeria']",DM,€11.00m,AC Milan,Al-Shabab FC,€7.00m,25/26
+Marco Pellegrino,22,"['Argentina', 'Italy']",CB,€4.00m,AC Milan,CA Boca Juniors,€3.50m,25/26
+Luka Jović,27,"['Serbia', 'Bosnia-Herzegovina']",CF,€4.50m,AC Milan,AEK Athens,free transfer,25/26
+Davide Calabria,28,['Italy'],RB,€4.50m,AC Milan,Panathinaikos FC,free transfer,25/26
+Marko Lazetić,21,['Serbia'],CF,€800k,AC Milan,Aberdeen FC,free transfer,25/26
+Alessandro Florenzi,34,['Italy'],RB,€1.00m,AC Milan,Retired,-,25/26
+Jonathan Rowe,22,"['England', 'Jamaica']",LW,€12.00m,Olympique Marseille,Bologna FC 1909,€17.00m,25/26
+Martin Vitík,22,['Czech Republic'],CB,€11.00m,AC Sparta Prague,Bologna FC 1909,€11.00m,25/26
+Torbjørn Heggem,26,['Norway'],CB,€1.20m,West Bromwich Albion,Bologna FC 1909,€7.50m,25/26
+Nadir Zortea,26,['Italy'],RB,€5.00m,Cagliari Calcio,Bologna FC 1909,€7.50m,25/26
+Thomas Gillier,21,"['Chile', 'France']",GK,€1.20m,CD Universidad Católica,Bologna FC 1909,free transfer,25/26
+Ciro Immobile,35,['Italy'],CF,€2.20m,Besiktas JK,Bologna FC 1909,free transfer,25/26
+Federico Bernardeschi,31,['Italy'],RW,€3.50m,Toronto FC,Bologna FC 1909,free transfer,25/26
+Dan Ndoye,24,"['Switzerland', 'Senegal']",RW,€35.00m,Bologna FC 1909,Nottingham Forest,€42.00m,25/26
+Martin Erlić,27,['Croatia'],CB,€4.00m,Bologna FC 1909,FC Midtjylland,€5.00m,25/26
+Gianmarco Cangiano,23,['Italy'],LW,€400k,Bologna FC 1909,Delfino Pescara 1936,€1.00m,25/26
+Kacper Urbanski,20,['Poland'],CM,€6.00m,Bologna FC 1909,Legia Warszawa,€700k,25/26
+Andri Fannar Baldursson,23,['Iceland'],DM,€600k,Bologna FC 1909,Kasimpasa,€500k,25/26
+Andrea Mazia,21,['Italy'],SS,€75k,Bologna FC 1909,Sasso Marconi 1924,free transfer,25/26
+Jesús Rodríguez,19,['Spain'],LW,€30.00m,Real Betis Balompié,Como 1907,€22.50m,25/26
+Nicolas Kühn,25,['Germany'],RW,€12.00m,Celtic FC,Como 1907,€19.00m,25/26
+Martin Baturina,22,['Croatia'],AM,€22.00m,GNK Dinamo Zagreb,Como 1907,€18.00m,25/26
+Jayden Addai,19,"['Netherlands', 'Ghana']",RW,€1.50m,AZ Alkmaar,Como 1907,€14.00m,25/26
+Máximo Perrone,22,"['Argentina', 'Spain']",DM,€12.00m,Manchester City,Como 1907,€13.00m,25/26
+Álex Valle,21,['Spain'],LB,€6.00m,FC Barcelona,Como 1907,€6.00m,25/26
+Ignace Van der Brempt,23,['Belgium'],RB,€4.00m,Red Bull Salzburg,Como 1907,€5.00m,25/26
+Jacobo Ramón,20,['Spain'],CB,€1.00m,Real Madrid Castilla,Como 1907,€2.50m,25/26
+Noel Törnqvist,23,['Sweden'],GK,€1.30m,Mjällby AIF,Como 1907,€2.00m,25/26
+Fellipe Jack,19,"['Italy', 'Brazil']",CB,€1.40m,SE Palmeiras São Paulo U20,Como 1907,€2.00m,25/26
+Luca Mazzitelli,29,['Italy'],CM,€1.50m,Frosinone Calcio,Como 1907,€2.00m,25/26
+Gabriel Strefezza,28,"['Brazil', 'Italy']",RW,€6.00m,Como 1907,Olympiacos Piraeus,€8.00m,25/26
+Alessandro Bellemo,29,['Italy'],CM,€800k,Como 1907,UC Sampdoria,€2.00m,25/26
+Nikolas Ioannou,29,"['Cyprus', 'England']",LB,€750k,Como 1907,UC Sampdoria,€1.50m,25/26
+Marco Curto,26,['Italy'],CB,€750k,Como 1907,FC Empoli,€750k,25/26
+Simone Ghidotti,25,['Italy'],GK,€300k,Como 1907,UC Sampdoria,€400k,25/26
+Marco Tremolada,21,['Italy'],CM,€50k,Como 1907,US Pergolettese 1932,free transfer,25/26
+Liam Kerrigan,25,['Ireland'],RM,€200k,Como 1907,Ternana Calcio,free transfer,25/26
+Andrea Belotti,31,['Italy'],CF,€2.00m,Como 1907,Cagliari Calcio,free transfer,25/26
+Peter Kovacik,23,['Slovakia'],RB,€1.00m,Como 1907,Zeleziarne Podbrezova,free transfer,25/26
+Oliver Abildgaard,29,['Denmark'],DM,€1.00m,Como 1907,UC Sampdoria,?,25/26
+Samuel Ballet,24,"['Switzerland', 'Cameroon']",RW,€1.20m,Como 1907,Antalyaspor,?,25/26
+Pierre Bolchini,26,['Italy'],GK,€50k,Como 1907,Without Club,-,25/26
+Alessio Iovine,34,['Italy'],RM,€400k,Como 1907,Retired,-,25/26
+Pepe Reina,42,['Spain'],GK,€500k,Como 1907,Retired,-,25/26
+Dele Alli,29,"['England', 'Nigeria']",AM,€2.00m,Como 1907,Without Club,-,25/26
+Zakaria Aboukhlal,25,"['Morocco', 'Netherlands']",RW,€12.00m,FC Toulouse,Torino FC,€8.00m,25/26
+Franco Israel,25,"['Uruguay', 'Italy']",GK,€5.00m,Sporting CP,Torino FC,€4.00m,25/26
+Marcus Pedersen,24,['Norway'],RB,€3.00m,Feyenoord Rotterdam,Torino FC,€3.50m,25/26
+Ardian Ismajli,28,"['Albania', 'Kosovo']",CB,€6.00m,FC Empoli,Torino FC,free transfer,25/26
+Antonio Sanabria,29,"['Paraguay', 'Spain']",CF,€2.80m,Torino FC,US Cremonese,€2.50m,25/26
+Ange N'Guessan,22,"['France', ""Cote d'Ivoire""]",CB,€300k,Torino FC,FC Slovan Liberec,€1.00m,25/26
+Karol Linetty,30,['Poland'],CM,€1.80m,Torino FC,Kocaelispor,free transfer,25/26
+Kevin Haveri,23,['Albania'],LB,€200k,Torino FC,US Livorno 1915,free transfer,25/26
+Pietro Passador,22,['Italy'],GK,€50k,Torino FC,FC Pro Vercelli 1892,?,25/26
+Antonio Donnarumma,35,['Italy'],GK,€200k,Torino FC,US Salernitana 1919,?,25/26
+Yann Karamoh,26,"['France', ""Cote d'Ivoire""]",LW,€1.80m,Torino FC,Without Club,-,25/26
+Brian Bayeye,25,"['DR Congo', 'France']",RM,€300k,Torino FC,Without Club,-,25/26
+Arthur Atta,22,"['France', 'Benin']",CM,€8.00m,FC Metz,Udinese Calcio,€8.00m,25/26
+Lennon Miller,18,['Scotland'],CM,€8.00m,Motherwell FC,Udinese Calcio,€5.50m,25/26
+Adam Buksa,29,['Poland'],CF,€6.00m,FC Midtjylland,Udinese Calcio,€5.00m,25/26
+Luca Kjerrumgaard,22,['Denmark'],CF,€2.00m,Odense Boldklub,Udinese Calcio,€5.00m,25/26
+Saba Goglichidze,21,['Georgia'],CB,€8.00m,FC Empoli,Udinese Calcio,€4.00m,25/26
+Jakub Piotrowski,27,['Poland'],CM,€4.50m,Ludogorets Razgrad,Udinese Calcio,€3.00m,25/26
+Alessandro Nunziante,18,['Italy'],GK,€1.80m,Benevento Calcio,Udinese Calcio,€1.50m,25/26
+Abdoulaye Camara,16,"['France', 'Guinea']",DM,-,Montpellier HSC U19,Udinese Calcio,€1.20m,25/26
+Nicolò Bertola,22,['Italy'],CB,€6.00m,Spezia Calcio,Udinese Calcio,free transfer,25/26
+Leonardo Buta,23,"['Portugal', 'Angola']",LB,€2.00m,Moreirense FC,Udinese Calcio,?,25/26
+Jaka Bijol,26,['Slovenia'],CB,€18.00m,Udinese Calcio,Leeds United,€18.00m,25/26
+Nehuén Pérez,25,['Argentina'],CB,€13.00m,Udinese Calcio,FC Porto,€13.30m,25/26
+Florian Thauvin,32,['France'],RW,€5.00m,Udinese Calcio,RC Lens,€6.00m,25/26
+Alexis Sánchez,36,['Chile'],CF,€1.50m,Udinese Calcio,Sevilla FC,free transfer,25/26
+Vivaldo Semedo,20,"['Portugal', 'Angola']",CF,€800k,Udinese Calcio,Watford FC,?,25/26
+Lautaro Giannetti,31,"['Argentina', 'Italy']",CB,€2.00m,Udinese Calcio,Antalyaspor,?,25/26
+Sekou Diawara,21,"['Belgium', 'Guinea']",CF,-,Udinese Calcio,FC Zürich U21,?,25/26
+Nicolae Stanciu,32,['Romania'],AM,€3.50m,Damac FC,Genoa CFC,free transfer,25/26
+Mattia Bani,31,['Italy'],CB,€1.80m,Genoa CFC,Palermo FC,€1.50m,25/26
+Federico Valietti,26,['Italy'],RB,€75k,Genoa CFC,FC Trapani 1905,€500,25/26
+Manolo Portanova,25,['Italy'],AM,€500k,Genoa CFC,AC Reggiana 1919,free transfer,25/26
+Andrea Favilli,28,['Italy'],CF,€300k,Genoa CFC,US Avellino 1912,free transfer,25/26
+Elia Petrelli,23,['Italy'],CF,€200k,Genoa CFC,Forlì FC,free transfer,25/26
+Güven Yalçın,26,"['Türkiye', 'Germany']",CF,€1.20m,Genoa CFC,Alanyaspor,free transfer,25/26
+Federico Accornero,21,['Italy'],LW,€400k,Genoa CFC,Carrarese Calcio 1908,?,25/26
+Lennart Czyborra,26,['Germany'],LM,€400k,Genoa CFC,Without Club,-,25/26
+Milan Badelj,36,['Croatia'],DM,€800k,Genoa CFC,Retired,-,25/26
+Mario Balotelli,34,"['Italy', 'Ghana']",CF,€500k,Genoa CFC,Without Club,-,25/26
+Mattia Aramu,30,['Italy'],AM,€900k,Genoa CFC,Without Club,-,25/26
+Cheikh Niasse,25,"['Senegal', 'France']",DM,€2.50m,BSC Young Boys,Hellas Verona,€3.50m,25/26
+Amin Sarr,24,"['Sweden', 'Senegal']",CF,€5.00m,Olympique Lyon,Hellas Verona,€3.50m,25/26
+Antoine Bernede,26,"['France', 'Cameroon']",CM,€2.50m,FC Lausanne-Sport,Hellas Verona,€2.00m,25/26
+Rafik Belghali,23,"['Algeria', 'Belgium']",RB,€2.50m,KV Mechelen,Hellas Verona,€2.00m,25/26
+Grigoris Kastanos,27,['Cyprus'],AM,€1.50m,US Salernitana 1919,Hellas Verona,€1.20m,25/26
+Domagoj Bradarić,25,['Croatia'],LB,€4.00m,US Salernitana 1919,Hellas Verona,€750k,25/26
+Giovane,21,['Brazil'],CF,€3.00m,Sport Club Corinthians Paulista,Hellas Verona,free transfer,25/26
+Yellu Santiago,21,['Spain'],CM,€900k,Getafe CF,Hellas Verona,free transfer,25/26
+Fallou Cham,19,"['The Gambia', 'Senegal']",RB,€150k,Scafatese Calcio 1922,Hellas Verona,?,25/26
+Jean-Daniel Akpa Akpro,32,"[""Cote d'Ivoire"", 'France']",CM,€500k,Without Club,Hellas Verona,-,25/26
+Roberto Gagliardini,31,['Italy'],CM,€1.40m,Without Club,Hellas Verona,-,25/26
+Jackson Tchatchoua,23,"['Cameroon', 'Belgium']",RB,€8.00m,Hellas Verona,Wolverhampton Wanderers,€12.50m,25/26
+Diego Coppola,21,"['Italy', 'Netherlands']",CB,€10.00m,Hellas Verona,Brighton & Hove Albion,€11.00m,25/26
+Thomas Henry,30,['France'],CF,€1.00m,Hellas Verona,Standard Liège,free transfer,25/26
+Mattia Rigo,20,['Italy'],LB,€150k,Hellas Verona,AC Carpi,free transfer,25/26
+Ondrej Duda,30,['Slovakia'],CM,€3.50m,Hellas Verona,Al-Ettifaq FC,free transfer,25/26
+Koray Günter,30,"['Germany', 'Türkiye']",CB,€700k,Hellas Verona,Al-Okhdood Club,free transfer,25/26
+Kevin Lasagna,33,['Italy'],CF,€750k,Hellas Verona,Calcio Padova,?,25/26
+Mattia Florio,21,['Italy'],SS,€125k,Hellas Verona,ASD Team Altamura,?,25/26
+Yayah Kallon,24,"['Sierra Leone', 'Italy']",RW,€400k,Hellas Verona,Casertana FC,?,25/26
+Luan Patrick,23,['Brazil'],CB,€1.00m,Hellas Verona,CF Estrela Amadora,?,25/26
+Mateusz Praszelik,24,['Poland'],AM,€700k,Hellas Verona,Cracovia,?,25/26
+Edoardo Bernardi,21,['Italy'],LB,€150k,Hellas Verona,Arzignano Valchiampo,?,25/26
+Elia Boseggia,21,['Italy'],GK,€275k,Hellas Verona,Novara FC,?,25/26
+Alessandro Berardi,34,['Italy'],GK,€50k,Hellas Verona,Without Club,-,25/26
+Darko Lazović,34,['Serbia'],LM,€800k,Hellas Verona,Without Club,-,25/26
+Davide Faraoni,33,['Italy'],RB,€800k,Hellas Verona,Without Club,-,25/26
+Pawel Dawidowicz,30,['Poland'],CB,€2.50m,Hellas Verona,Without Club,-,25/26
+Jayden Braaf,23,"['Netherlands', 'Suriname']",LW,€650k,Hellas Verona,Without Club,-,25/26
+Juan Rodríguez,20,['Uruguay'],CB,€1.20m,CA Peñarol,Cagliari Calcio,€4.00m,25/26
+Zé Pedro,28,['Portugal'],CB,€4.00m,FC Porto,Cagliari Calcio,€2.00m,25/26
+Gennaro Borrelli,25,['Italy'],CF,€2.20m,Brescia Calcio (- 2025),Cagliari Calcio,free transfer,25/26
+Răzvan Marin,29,['Romania'],CM,€3.50m,Cagliari Calcio,AEK Athens,€1.70m,25/26
+Pantelis Hatzidiakos,28,"['Greece', 'Netherlands']",CB,€3.20m,Cagliari Calcio,FC Copenhagen,€1.50m,25/26
+Antoine Makoumbou,26,"['Congo', 'France']",DM,€3.50m,Cagliari Calcio,Samsunspor,€1.50m,25/26
+Simone Scuffet,29,['Italy'],GK,€2.00m,Cagliari Calcio,Pisa Sporting Club,€900k,25/26
+José Luis Palomino,35,"['Argentina', 'Bulgaria']",CB,€700k,Cagliari Calcio,CA Talleres,free transfer,25/26
+Tommaso Augello,30,['Italy'],LB,€1.80m,Cagliari Calcio,Palermo FC,free transfer,25/26
+Etienne Catena,21,"['Italy', ""Cote d'Ivoire""]",CB,€150k,Cagliari Calcio,Siracusa Calcio,?,25/26
+Luigi Palomba,22,"['Italy', 'Cuba']",CB,€150k,Cagliari Calcio,Virtus Entella,?,25/26
+Nicolas Viola,35,['Italy'],AM,€1.00m,Cagliari Calcio,Without Club,-,25/26
+Jakub Jankto,29,['Czech Republic'],LM,€800k,Cagliari Calcio,Retired,-,25/26
+Matija Frigan,22,['Croatia'],CF,€7.50m,KVC Westerlo,Parma Calcio 1913,€9.00m,25/26
+Christian Ordóñez,20,"['Argentina', 'Paraguay']",CM,€7.00m,CA Vélez Sarsfield,Parma Calcio 1913,€8.50m,25/26
+Oliver Sørensen,23,['Denmark'],CM,€7.00m,FC Midtjylland,Parma Calcio 1913,€8.00m,25/26
+Mariano Troilo,22,['Argentina'],CB,€4.00m,Club Atlético Belgrano,Parma Calcio 1913,€7.20m,25/26
+Abdoulaye Ndiaye,23,['Senegal'],CB,€4.00m,ESTAC Troyes,Parma Calcio 1913,€6.50m,25/26
+Sascha Britschgi,18,"['Switzerland', 'Cameroon']",RB,€100k,FC Luzern,Parma Calcio 1913,€3.50m,25/26
+Vicente Guaita,38,['Spain'],GK,€400k,Without Club,Parma Calcio 1913,-,25/26
+Giovanni Leoni,18,['Italy'],CB,€18.00m,Parma Calcio 1913,Liverpool FC,€31.00m,25/26
+Dennis Man,26,['Romania'],RW,€10.00m,Parma Calcio 1913,PSV Eindhoven,€8.50m,25/26
+Valentin Mihăilă,25,['Romania'],LW,€3.00m,Parma Calcio 1913,Caykur Rizespor,€2.00m,25/26
+Antoine Hainaut,23,['France'],RB,€1.00m,Parma Calcio 1913,Venezia FC,€550k,25/26
+Drissa Camara,23,"[""Cote d'Ivoire"", 'Italy']",CM,€1.50m,Parma Calcio 1913,Gaziantep FK,free transfer,25/26
+Gabriel Charpentier,26,"['Congo', 'France']",CF,€1.30m,Parma Calcio 1913,Cracovia,free transfer,25/26
+Yordan Osorio,31,['Venezuela'],CB,€1.50m,Parma Calcio 1913,Deportivo La Guaira,free transfer,25/26
+Anas Haj Mohamed,20,"['Tunisia', 'Morocco']",RW,€1.80m,Parma Calcio 1913,Beerschot VA,?,25/26
+Richard Marcone,32,"['Italy', 'Romania']",GK,€250k,Parma Calcio 1913,Without Club,-,25/26
+Jamil Siebert,23,['Germany'],CB,€4.00m,Fortuna Düsseldorf,US Lecce,€5.50m,25/26
+Nikola Stulic,23,"['Serbia', 'Croatia']",CF,€4.00m,Royal Charleroi SC,US Lecce,€5.00m,25/26
+Álex Sala,24,['Spain'],CM,€1.00m,Córdoba CF,US Lecce,€1.50m,25/26
+Milos Jovic,19,['Serbia'],CF,€500k,FK IMT Belgrad,US Lecce,€1.00m,25/26
+Christ-Owen Kouassi,22,"[""Cote d'Ivoire"", 'France']",RB,€2.00m,Stade Lavallois,US Lecce,€1.00m,25/26
+Corrie Ndaba,25,"['Ireland', 'Ghana']",LB,€350k,Kilmarnock FC,US Lecce,€930k,25/26
+Matías Pérez,20,['Chile'],CB,€300k,Curicó Unido,US Lecce,€525k,25/26
+Federico Baschirotto,28,['Italy'],CB,€3.60m,US Lecce,US Cremonese,€3.00m,25/26
+Pablo Rodríguez,23,['Spain'],AM,€1.80m,US Lecce,Lech Poznan,€1.20m,25/26
+Daniel Samek,21,['Czech Republic'],CM,€700k,US Lecce,SK Artis Brno,€300k,25/26
+Mats Lemmens,23,['Belgium'],CB,€500k,US Lecce,RWDM Brussels,free transfer,25/26
+Ante Rebić,31,['Croatia'],LW,€1.00m,US Lecce,HNK Hajduk Split,free transfer,25/26
+Joel Voelkerling Persson,22,['Sweden'],CF,€300k,US Lecce,Östers IF,?,25/26
+Marco Bleve,29,['Italy'],GK,€400k,US Lecce,Carrarese Calcio 1908,?,25/26
+Rémi Oudin,28,['France'],AM,€1.50m,US Lecce,US Catanzaro,?,25/26
+Joan González,23,['Spain'],CM,-,US Lecce,Retired,-,25/26
+Nicola Sansone,33,"['Italy', 'Germany']",LW,€400k,US Lecce,Without Club,-,25/26
+Jeppe Corfitzen,20,['Denmark'],RW,€250k,US Lecce,Without Club,-,25/26
+Lovro Herceg,20,['Croatia'],GK,-,US Lecce,Without Club,-,25/26
+Jay Idzes,25,"['Indonesia', 'Netherlands']",CB,€7.50m,Venezia FC,US Sassuolo,€8.00m,25/26
+Tarik Muharemović,22,"['Bosnia-Herzegovina', 'Slovenia']",CB,€7.00m,Juventus Next Gen,US Sassuolo,€3.00m,25/26
+Fali Candé,27,"['Guinea-Bissau', 'Portugal']",CB,€2.50m,Venezia FC,US Sassuolo,€3.00m,25/26
+Patrick Nuamah,19,"['Italy', 'Ghana']",LW,€1.50m,Brescia Calcio (- 2025),US Sassuolo,free transfer,25/26
+Nemanja Matić,37,"['Serbia', 'Slovakia']",DM,€2.00m,Olympique Lyon,US Sassuolo,free transfer,25/26
+Uros Racic,27,['Serbia'],DM,€3.50m,US Sassuolo,Aris Thessaloniki,€3.00m,25/26
+Emil Konradsen Ceide,23,"['Norway', 'Haiti']",LW,€2.00m,US Sassuolo,Rosenborg BK,€1.50m,25/26
+Andrei Mărginean,23,['Romania'],DM,€450k,US Sassuolo,FC Dinamo 1948,€450k,25/26
+Pedro Obiang,33,"['Equatorial Guinea', 'Spain']",CM,€450k,US Sassuolo,AC Monza,free transfer,25/26
+Jeremy Toljan,30,"['Germany', 'United States']",RB,€2.40m,US Sassuolo,Levante UD,free transfer,25/26
+Salim Abubakar,22,"['Niger', 'Ghana']",CM,€25k,US Sassuolo,KF Skënderbeu,?,25/26
+Andrea Consigli,38,['Italy'],GK,€250k,US Sassuolo,Without Club,-,25/26
+İsak Vural,19,"['Türkiye', 'Sweden']",CM,€4.50m,Frosinone Calcio,Pisa Sporting Club,€4.50m,25/26
+Henrik Meister,21,"['Denmark', 'Cameroon']",CF,€2.80m,Stade Rennais FC,Pisa Sporting Club,€4.00m,25/26
+Mateus Lusuardi,21,"['Brazil', 'Italy']",CB,€400k,Frosinone Calcio,Pisa Sporting Club,€500k,25/26
+Jeremy Mbambi,17,['Belgium'],CB,-,KAA Gent U18,Pisa Sporting Club,€500k,25/26
+Giacomo Maucci,18,['Italy'],AM,-,Brescia Primavera,Pisa Sporting Club,free transfer,25/26
+Raúl Albiol,39,['Spain'],CB,€1.00m,Without Club,Pisa Sporting Club,-,25/26
+Christian Sussi,24,['Italy'],RB,€100k,Pisa Sporting Club,US Pianese,free transfer,25/26
+Lisandru Tramoni,22,"['France', 'Italy']",RW,€700k,Pisa Sporting Club,FC Zürich,free transfer,25/26
+Edgaras Dubickas,27,['Lithuania'],CF,€250k,Pisa Sporting Club,Ternana Calcio,free transfer,25/26
+Adrian Rus,29,"['Romania', 'Hungary']",CB,€1.20m,Pisa Sporting Club,CS Universitatea Craiova,free transfer,25/26
+Bamba Susso,22,['The Gambia'],CF,€250k,Pisa Sporting Club,First Vienna FC,?,25/26
+Alessandro Livieri,28,['Italy'],GK,€200k,Pisa Sporting Club,FC Pro Vercelli 1892,?,25/26
+Mattia Leoncini,20,['Italy'],CM,€100k,Pisa Sporting Club,Without Club,-,25/26
+Jari Vandeputte,29,['Belgium'],CM,€3.20m,US Catanzaro,US Cremonese,€3.30m,25/26
+Giuseppe Pezzella,27,['Italy'],LB,€2.50m,FC Empoli,US Cremonese,€2.00m,25/26
+Andrea Fulignati,30,['Italy'],GK,€1.20m,US Catanzaro,US Cremonese,€1.40m,25/26
+Lapo Nava,21,['Italy'],GK,€100k,Milan Futuro,US Cremonese,free transfer,25/26
+Alberto Grassi,30,['Italy'],DM,€1.80m,FC Empoli,US Cremonese,free transfer,25/26
+Jamie Vardy,38,['England'],CF,€1.00m,Leicester City,US Cremonese,free transfer,25/26
+Marco Silvestri,34,['Italy'],GK,€500k,FC Empoli,US Cremonese,free transfer,25/26
+Andreas Jungdal,23,['Denmark'],GK,€1.50m,US Cremonese,KVC Westerlo,€1.00m,25/26
+Charles Pickel,28,"['DR Congo', 'Switzerland']",DM,€2.40m,US Cremonese,RCD Espanyol Barcelona,€1.00m,25/26
+Luka Lochoshvili,27,['Georgia'],CB,€500k,US Cremonese,1.FC Nuremberg,€1.00m,25/26
+Mouhamadou Sarr,28,"['Senegal', 'Italy']",GK,€250k,US Cremonese,Spezia Calcio,€200k,25/26
+Joshua Tenkorang,25,"['Italy', 'Ghana']",CM,€175k,US Cremonese,Ravenna FC,free transfer,25/26
+Alberto Basso Ricci,21,['Italy'],CF,€75k,US Cremonese,Arzignano Valchiampo,free transfer,25/26
+Marco Zunno,24,['Italy'],LW,€200k,US Cremonese,FC Crotone,free transfer,25/26
+César Falletti,32,"['Uruguay', 'Italy']",AM,€500k,US Cremonese,Mantova 1911,free transfer,25/26
+Luca Munaretti,23,['Italy'],CB,€100k,US Cremonese,Virtusvecomp Verona,free transfer,25/26
+Zan Majer,32,['Slovenia'],CM,€300k,US Cremonese,Mantova 1911,free transfer,25/26
+Jakob Tånnander,25,['Sweden'],GK,€700k,US Cremonese,SC Farense,free transfer,25/26
+Maissa Ndiaye,23,['Senegal'],CB,€100k,US Cremonese,FC Lumezzane,?,25/26
+Michele Castagnetti,35,['Italy'],DM,€350k,US Cremonese,Cesena FC,?,25/26
+Paulo Azzi,31,"['Brazil', 'Syria']",LM,€800k,US Cremonese,AC Monza,?,25/26
+Luca Ravanelli,28,['Italy'],CB,€1.60m,US Cremonese,AC Monza,?,25/26
+Giacomo Quagliata,25,['Italy'],LB,€1.20m,US Cremonese,Deportivo de La Coruña,?,25/26
+Andrea Bertolacci,34,['Italy'],CM,-,US Cremonese,Retired,-,25/26

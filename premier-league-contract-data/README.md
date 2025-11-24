@@ -1,4 +1,4 @@
-# Premier League Transfer Data
+# Premier League Contract Data
 
 This folder contains Premier League Contract Data scraped from spotrac.
 

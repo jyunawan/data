@@ -1,0 +1,279 @@
+player_name,player_age,player_nationality,player_position,market_value,from_club,to_club,transfer_fee,transfer_season
+Harry Kane,30,"['England', 'Ireland']",CF,€90.00m,Tottenham Hotspur,Bayern Munich,€95.00m,23/24
+Min-jae Kim,26,"['Korea, South']",CB,€60.00m,SSC Napoli,Bayern Munich,€50.00m,23/24
+Sacha Boey,23,['France'],RB,€22.00m,Galatasaray,Bayern Munich,€30.00m,23/24
+Daniel Peretz,23,"['Israel', 'Germany']",GK,€4.00m,Maccabi Tel Aviv,Bayern Munich,€5.00m,23/24
+Konrad Laimer,26,['Austria'],RB,€28.00m,RB Leipzig,Bayern Munich,free transfer,23/24
+Raphaël Guerreiro,29,"['Portugal', 'France']",LB,€20.00m,Borussia Dortmund,Bayern Munich,free transfer,23/24
+Lucas Hernández,27,"['France', 'Spain']",LB,€45.00m,Bayern Munich,Paris Saint-Germain,€45.00m,23/24
+Ryan Gravenberch,21,"['Netherlands', 'Suriname']",DM,€30.00m,Bayern Munich,Liverpool FC,€40.00m,23/24
+Benjamin Pavard,27,['France'],CB,€40.00m,Bayern Munich,Inter Milan,€31.40m,23/24
+Sadio Mané,31,['Senegal'],LW,€25.00m,Bayern Munich,Al-Nassr FC,€30.00m,23/24
+Marcel Sabitzer,29,['Austria'],CM,€20.00m,Bayern Munich,Borussia Dortmund,€19.00m,23/24
+Yann Sommer,34,['Switzerland'],GK,€5.00m,Bayern Munich,Inter Milan,€6.90m,23/24
+Bright Arrey-Mbi,20,"['Germany', 'England']",CB,€800k,Bayern Munich,Hannover 96,€620k,23/24
+Daley Blind,33,['Netherlands'],CB,€3.00m,Bayern Munich,Girona FC,free transfer,23/24
+Felix Nmecha,22,"['Germany', 'England']",CM,€15.00m,VfL Wolfsburg,Borussia Dortmund,€30.00m,23/24
+Niclas Füllkrug,30,['Germany'],CF,€13.00m,SV Werder Bremen,Borussia Dortmund,€17.25m,23/24
+Ramy Bensebaini,28,['Algeria'],CB,€20.00m,Borussia Mönchengladbach,Borussia Dortmund,free transfer,23/24
+Jude Bellingham,20,"['England', 'Ireland']",AM,€120.00m,Borussia Dortmund,Real Madrid,€127.00m,23/24
+Ansgar Knauff,21,"['Germany', 'Ghana']",RW,€8.00m,Borussia Dortmund,Eintracht Frankfurt,€5.00m,23/24
+Thorgan Hazard,30,['Belgium'],AM,€7.00m,Borussia Dortmund,RSC Anderlecht,€4.00m,23/24
+Felix Passlack,25,['Germany'],RB,€1.50m,Borussia Dortmund,VfL Bochum,free transfer,23/24
+Luca Unbehaun,22,['Germany'],GK,€650k,Borussia Dortmund,SC Verl,free transfer,23/24
+Mahmoud Dahoud,27,"['Syria', 'Germany']",CM,€12.00m,Borussia Dortmund,Brighton & Hove Albion,free transfer,23/24
+Anthony Modeste,35,"['France', 'Martinique']",CF,€700k,Borussia Dortmund,Al Ahly FC,free transfer,23/24
+Thomas Meunier,32,['Belgium'],RB,€2.50m,Borussia Dortmund,Trabzonspor,free transfer,23/24
+Nico Schulz,30,['Germany'],LB,€1.00m,Borussia Dortmund,Without Club,-,23/24
+Loïs Openda,23,"['Belgium', 'Morocco']",CF,€35.00m,RC Lens,RB Leipzig,€40.00m,23/24
+Benjamin Sesko,20,['Slovenia'],CF,€24.00m,Red Bull Salzburg,RB Leipzig,€31.65m,23/24
+Castello Lukeba,20,"['France', 'Angola']",CB,€25.00m,Olympique Lyon,RB Leipzig,€30.00m,23/24
+Christoph Baumgartner,23,['Austria'],AM,€24.00m,TSG 1899 Hoffenheim,RB Leipzig,€25.50m,23/24
+Eljif Elmas,24,['North Macedonia'],AM,€24.00m,SSC Napoli,RB Leipzig,€24.00m,23/24
+Nicolas Seiwald,22,['Austria'],CM,€20.00m,Red Bull Salzburg,RB Leipzig,€20.00m,23/24
+El Chadaille Bitshiabu,18,"['France', 'DR Congo']",CB,€7.00m,Paris Saint-Germain,RB Leipzig,€15.00m,23/24
+Christopher Lenz,28,['Germany'],LB,€2.50m,Eintracht Frankfurt,RB Leipzig,€1.00m,23/24
+Leopold Zingerle,29,['Germany'],GK,€400k,SC Paderborn 07,RB Leipzig,free transfer,23/24
+Josko Gvardiol,21,['Croatia'],CB,€75.00m,RB Leipzig,Manchester City,€90.00m,23/24
+Dominik Szoboszlai,22,['Hungary'],AM,€50.00m,RB Leipzig,Liverpool FC,€70.00m,23/24
+Christopher Nkunku,25,"['France', 'DR Congo']",CF,€80.00m,RB Leipzig,Chelsea FC,€60.00m,23/24
+Alexander Sørloth,27,['Norway'],CF,€12.00m,RB Leipzig,Villarreal CF,€10.00m,23/24
+Tom Krauß,22,['Germany'],CM,€7.00m,RB Leipzig,1.FSV Mainz 05,€5.00m,23/24
+Josep Martínez,25,['Spain'],GK,€3.50m,RB Leipzig,Genoa CFC,€3.50m,23/24
+Emil Forsberg,32,['Sweden'],LW,€6.00m,RB Leipzig,New York Red Bulls,€3.00m,23/24
+Marcel Halstenberg,31,['Germany'],CB,€3.50m,RB Leipzig,Hannover 96,€700k,23/24
+Oskar Preil,19,['Germany'],GK,€200k,RB Leipzig,FV Illertissen,free transfer,23/24
+Ørjan Nyland,32,['Norway'],GK,€600k,RB Leipzig,Sevilla FC,free transfer,23/24
+Mehmet Ibrahimi,20,"['Germany', 'Kosovo']",LW,€150k,RB Leipzig,FC Blau-Weiss Linz,?,23/24
+Caden Clark,20,['United States'],AM,€1.70m,RB Leipzig,Minnesota United FC,?,23/24
+Robin Gosens,29,"['Germany', 'Netherlands']",LB,€15.00m,Inter Milan,1.FC Union Berlin,€13.00m,23/24
+Diogo Leite,24,['Portugal'],CB,€15.00m,FC Porto,1.FC Union Berlin,€7.00m,23/24
+Yorbe Vertessen,23,['Belgium'],CF,€4.00m,PSV Eindhoven,1.FC Union Berlin,€4.75m,23/24
+Kevin Volland,31,['Germany'],AM,€8.00m,AS Monaco,1.FC Union Berlin,€4.00m,23/24
+Lucas Tousart,26,['France'],CM,€9.00m,Hertha BSC,1.FC Union Berlin,€2.80m,23/24
+Mikkel Kaufmann,22,['Denmark'],CF,€2.70m,FC Copenhagen,1.FC Union Berlin,€2.70m,23/24
+Chris Bedia,27,"[""Cote d'Ivoire"", 'France']",CF,€3.00m,Servette FC,1.FC Union Berlin,€2.00m,23/24
+Benedict Hollerbach,22,['Germany'],CF,€1.20m,SV Wehen Wiesbaden,1.FC Union Berlin,€2.00m,23/24
+Alexander Schwolow,31,['Germany'],GK,€900k,Hertha BSC,1.FC Union Berlin,free transfer,23/24
+Leonardo Bonucci,36,['Italy'],CB,€1.50m,Juventus FC,1.FC Union Berlin,free transfer,23/24
+Lennart Grill,24,['Germany'],GK,€1.00m,Bayer 04 Leverkusen,1.FC Union Berlin,?,23/24
+Kevin Vogt,32,['Germany'],CB,€2.50m,TSG 1899 Hoffenheim,1.FC Union Berlin,?,23/24
+Sheraldo Becker,28,"['Suriname', 'Netherlands']",LW,€12.00m,1.FC Union Berlin,Real Sociedad,€3.00m,23/24
+Kevin Behrens,32,['Germany'],CF,€4.00m,1.FC Union Berlin,VfL Wolfsburg,€2.00m,23/24
+Sven Michel,32,['Germany'],LW,€900k,1.FC Union Berlin,FC Augsburg,€950k,23/24
+Paul Seguin,28,['Germany'],CM,€2.50m,1.FC Union Berlin,FC Schalke 04,€750k,23/24
+Rick van Drongelen,24,['Netherlands'],CB,€1.00m,1.FC Union Berlin,Samsunspor,€200k,23/24
+Laurenz Dehl,22,['Germany'],LW,€200k,1.FC Union Berlin,SK Austria Klagenfurt,free transfer,23/24
+Leonardo Bonucci,36,['Italy'],CB,€1.50m,1.FC Union Berlin,Fenerbahce,free transfer,23/24
+Mathis Bruns,19,['Germany'],CB,€75k,1.FC Union Berlin,FSV 63 Luckenwalde,free transfer,23/24
+Levin Öztunali,27,['Germany'],LW,€1.20m,1.FC Union Berlin,Hamburger SV,free transfer,23/24
+Kevin Möhwald,29,['Germany'],CM,€600k,1.FC Union Berlin,KAS Eupen,free transfer,23/24
+Tim Maciejewski,22,['Germany'],AM,€350k,1.FC Union Berlin,SV Sandhausen,free transfer,23/24
+Dominique Heintz,30,['Germany'],CB,€1.20m,1.FC Union Berlin,1.FC Köln,?,23/24
+Malick Sanogo,19,"[""Cote d'Ivoire"", 'United States']",RW,-,1.FC Union Berlin,1.FC Nuremberg II,?,23/24
+Milos Pantovic,27,"['Serbia', 'Germany']",AM,€1.50m,1.FC Union Berlin,KAS Eupen,?,23/24
+Niko Gießelmann,31,['Germany'],LB,€1.00m,1.FC Union Berlin,Without Club,-,23/24
+Junior Adamu,22,['Austria'],CF,€8.00m,Red Bull Salzburg,SC Freiburg,€6.00m,23/24
+Florian Müller,25,['Germany'],GK,€1.50m,VfB Stuttgart,SC Freiburg,€1.50m,23/24
+Florent Muslija,25,"['Kosovo', 'Germany']",AM,€2.50m,SC Paderborn 07,SC Freiburg,€1.00m,23/24
+Kevin Schade,21,"['Germany', 'Nigeria']",LW,€25.00m,SC Freiburg,Brentford FC,€25.00m,23/24
+Mark Flekken,30,['Netherlands'],GK,€10.00m,SC Freiburg,Brentford FC,€13.00m,23/24
+Woo-yeong Jeong,23,"['Korea, South']",AM,€3.50m,SC Freiburg,VfB Stuttgart,€3.80m,23/24
+Lino Tempelmann,24,['Germany'],CM,€2.00m,SC Freiburg,FC Schalke 04,€700k,23/24
+Nishan Burkart,23,['Switzerland'],LW,€500k,SC Freiburg,FC Winterthur,€300k,23/24
+Nils Petersen,34,['Germany'],CF,-,SC Freiburg,Blankenburger FV,free transfer,23/24
+Jonathan Schmid,33,['France'],RM,€900k,SC Freiburg,Without Club,-,23/24
+Nathan Tella,24,"['Nigeria', 'England']",RW,€18.00m,Southampton FC,Bayer 04 Leverkusen,€23.30m,23/24
+Victor Boniface,22,['Nigeria'],CF,€12.00m,Union Saint-Gilloise,Bayer 04 Leverkusen,€22.60m,23/24
+Granit Xhaka,30,['Switzerland'],DM,€20.00m,Arsenal FC,Bayer 04 Leverkusen,€15.00m,23/24
+Jonas Hofmann,30,['Germany'],AM,€13.00m,Borussia Mönchengladbach,Bayer 04 Leverkusen,€10.00m,23/24
+Arthur,20,['Brazil'],RB,€5.00m,América Futebol Clube (MG),Bayer 04 Leverkusen,€7.00m,23/24
+Matej Kovar,23,['Czech Republic'],GK,€1.80m,Manchester United,Bayer 04 Leverkusen,€5.00m,23/24
+Alejandro Grimaldo,27,['Spain'],LB,€25.00m,SL Benfica,Bayer 04 Leverkusen,free transfer,23/24
+Moussa Diaby,24,"['France', 'Mali']",RW,€50.00m,Bayer 04 Leverkusen,Aston Villa,€55.00m,23/24
+Mitchel Bakker,23,['Netherlands'],LM,€9.00m,Bayer 04 Leverkusen,Atalanta BC,€8.80m,23/24
+Kerem Demirbay,30,"['Germany', 'Türkiye']",CM,€6.00m,Bayer 04 Leverkusen,Galatasaray,€3.70m,23/24
+Nadiem Amiri,27,['Germany'],CM,€4.00m,Bayer 04 Leverkusen,1.FSV Mainz 05,€1.00m,23/24
+Paulinho,22,['Brazil'],LW,€7.50m,Bayer 04 Leverkusen,Clube Atlético Mineiro,free transfer,23/24
+Andrey Lunev,31,['Russia'],GK,€1.20m,Bayer 04 Leverkusen,Qarabağ FK,free transfer,23/24
+Ayman Azhil,22,"['Morocco', 'Germany']",DM,€400k,Bayer 04 Leverkusen,Borussia Dortmund II,free transfer,23/24
+Daley Sinkgraven,28,['Netherlands'],LB,€2.50m,Bayer 04 Leverkusen,UD Las Palmas,free transfer,23/24
+Joshua Eze,20,"['Germany', 'Nigeria']",DM,€200k,Bayer 04 Leverkusen,SC Fortuna Köln,free transfer,23/24
+Karim Bellarabi,33,"['Germany', 'Morocco']",RW,€1.50m,Bayer 04 Leverkusen,Retired,-,23/24
+Willian Pacho,21,['Ecuador'],CB,€11.00m,Royal Antwerp FC,Eintracht Frankfurt,€13.65m,23/24
+Farès Chaïbi,20,"['Algeria', 'France']",AM,€10.00m,FC Toulouse,Eintracht Frankfurt,€10.00m,23/24
+Aurèle Amenda,20,"['Switzerland', 'Cameroon']",CB,€5.00m,BSC Young Boys,Eintracht Frankfurt,€9.50m,23/24
+Hugo Larsson,19,['Sweden'],CM,€9.00m,Malmö FF,Eintracht Frankfurt,€9.00m,23/24
+Jean-Mattéo Bahoya,18,"['France', 'Cameroon']",LW,€2.50m,Angers SCO,Eintracht Frankfurt,€8.00m,23/24
+Niels Nkounkou,22,"['France', 'Congo']",LB,€5.00m,AS Saint-Étienne,Eintracht Frankfurt,€7.50m,23/24
+Junior Dina Ebimbe,22,"['France', 'Cameroon']",RM,€10.00m,Paris Saint-Germain,Eintracht Frankfurt,€6.50m,23/24
+Jessic Ngankam,22,"['Germany', 'Cameroon']",CF,€5.00m,Hertha BSC,Eintracht Frankfurt,€4.00m,23/24
+Nathaniel Brown,20,"['Germany', 'United States']",LB,€3.00m,1.FC Nuremberg,Eintracht Frankfurt,€3.00m,23/24
+Philipp Max,29,['Germany'],LB,€3.00m,PSV Eindhoven,Eintracht Frankfurt,€2.00m,23/24
+Kauã Santos,20,['Brazil'],GK,€400k,CR Flamengo U20,Eintracht Frankfurt,€1.60m,23/24
+Nnamdi Collins,19,"['Germany', 'Nigeria']",CB,€750k,Borussia Dortmund II,Eintracht Frankfurt,€1.00m,23/24
+Sidney Raebiger,18,['Germany'],CM,€750k,SpVgg Greuther Fürth,Eintracht Frankfurt,€50k,23/24
+Ellyes Skhiri,28,"['Tunisia', 'France']",DM,€13.00m,1.FC Köln,Eintracht Frankfurt,free transfer,23/24
+Omar Marmoush,24,"['Egypt', 'Canada']",CF,€6.00m,VfL Wolfsburg,Eintracht Frankfurt,free transfer,23/24
+Randal Kolo Muani,24,"['France', 'DR Congo']",CF,€80.00m,Eintracht Frankfurt,Paris Saint-Germain,€95.00m,23/24
+Jesper Lindstrøm,23,['Denmark'],RW,€28.00m,Eintracht Frankfurt,SSC Napoli,€30.00m,23/24
+Djibril Sow,26,"['Switzerland', 'Senegal']",CM,€22.00m,Eintracht Frankfurt,Sevilla FC,€10.00m,23/24
+Rafael Borré,28,['Colombia'],CF,€8.00m,Eintracht Frankfurt,Sport Club Internacional,€6.50m,23/24
+Diant Ramaj,21,"['Germany', 'Kosovo']",GK,€750k,Eintracht Frankfurt,Ajax Amsterdam,€5.00m,23/24
+Ragnar Ache,24,"['Germany', 'Ghana']",CF,€1.00m,Eintracht Frankfurt,1.FC Kaiserslautern,€1.50m,23/24
+Lucas Alario,31,"['Argentina', 'Italy']",CF,€1.50m,Eintracht Frankfurt,Sport Club Internacional,€500k,23/24
+Jan Schröder,20,"['Germany', 'Spain']",LB,€200k,Eintracht Frankfurt,Delaware Fightin' Blue Hens (Univ. of Delaware),free transfer,23/24
+Evan Ndicka,23,"[""Cote d'Ivoire"", 'France']",CB,€28.00m,Eintracht Frankfurt,AS Roma,free transfer,23/24
+Daichi Kamada,26,['Japan'],AM,€27.00m,Eintracht Frankfurt,SS Lazio,free transfer,23/24
+Ali Akman,21,['Türkiye'],CF,€650k,Eintracht Frankfurt,FCV Dender EH,?,23/24
+Almamy Touré,27,"['Mali', 'France']",CB,€2.50m,Eintracht Frankfurt,Without Club,-,23/24
+Lovro Majer,25,['Croatia'],AM,€20.00m,Stade Rennais FC,VfL Wolfsburg,€25.00m,23/24
+Joakim Maehle,26,['Denmark'],LB,€14.00m,Atalanta BC,VfL Wolfsburg,€12.50m,23/24
+Tiago Tomás,21,['Portugal'],CF,€7.00m,Sporting CP,VfL Wolfsburg,€8.80m,23/24
+Moritz Jenz,24,"['Germany', 'Nigeria']",CB,€7.50m,FC Lorient,VfL Wolfsburg,€8.00m,23/24
+Vaclav Cerny,25,['Czech Republic'],RW,€8.00m,Twente Enschede FC,VfL Wolfsburg,€8.00m,23/24
+Rogério,25,"['Brazil', 'Italy']",LB,€5.50m,US Sassuolo,VfL Wolfsburg,€5.50m,23/24
+Cédric Zesiger,25,['Switzerland'],CB,€5.50m,BSC Young Boys,VfL Wolfsburg,€5.00m,23/24
+Micky van de Ven,22,['Netherlands'],CB,€30.00m,VfL Wolfsburg,Tottenham Hotspur,€40.00m,23/24
+Marin Pongracic,25,"['Croatia', 'Germany']",CB,€4.00m,VfL Wolfsburg,US Lecce,€1.60m,23/24
+Tim Siersleben,23,['Germany'],CB,€1.50m,VfL Wolfsburg,1.FC Heidenheim 1846,€500k,23/24
+Anselmo García MacNulty,20,"['Ireland', 'Spain']",CB,€450k,VfL Wolfsburg,PEC Zwolle,free transfer,23/24
+Bryang Kayo,20,"['United States', 'Cameroon']",CM,€200k,VfL Wolfsburg,FC Ingolstadt 04,free transfer,23/24
+Paulo Otávio,28,['Brazil'],LB,€4.00m,VfL Wolfsburg,Al-Sadd SC,free transfer,23/24
+Yun-sang Hong,21,"['Korea, South']",LW,€175k,VfL Wolfsburg,Pohang Steelers,?,23/24
+Fabio Di Michele Sanchez,20,"['Germany', 'Italy']",LB,€200k,VfL Wolfsburg,1.FC Saarbrücken,?,23/24
+Josuha Guilavogui,32,"['France', 'Guinea']",DM,€2.00m,VfL Wolfsburg,Without Club,-,23/24
+Marco Richter,25,['Germany'],AM,€5.00m,Hertha BSC,1.FSV Mainz 05,€3.00m,23/24
+Phillipp Mwene,29,"['Austria', 'Kenya']",LB,€3.00m,PSV Eindhoven,1.FSV Mainz 05,€1.00m,23/24
+Daniel Batz,32,['Germany'],GK,€350k,1.FC Saarbrücken,1.FSV Mainz 05,?,23/24
+Anwar El Ghazi,28,"['Netherlands', 'Morocco']",RW,€5.00m,Without Club,1.FSV Mainz 05,-,23/24
+Josuha Guilavogui,33,"['France', 'Guinea']",DM,€2.00m,Without Club,1.FSV Mainz 05,-,23/24
+Anton Stach,24,['Germany'],DM,€15.00m,1.FSV Mainz 05,TSG 1899 Hoffenheim,€12.00m,23/24
+Angelo Fulgini,26,"['France', 'Neukaledonien']",AM,€9.00m,1.FSV Mainz 05,RC Lens,€7.20m,23/24
+Marcus Ingvartsen,27,['Denmark'],CF,€5.50m,1.FSV Mainz 05,FC Nordsjaelland,€2.95m,23/24
+Alexander Hack,29,['Germany'],CB,€2.50m,1.FSV Mainz 05,Al-Qadsiah FC,€1.50m,23/24
+Marlon Mustapha,22,['Austria'],CF,€1.00m,1.FSV Mainz 05,Como 1907,€900k,23/24
+Finn Dahmen,25,"['Germany', 'England']",GK,€2.50m,1.FSV Mainz 05,FC Augsburg,free transfer,23/24
+Aarón Martín,26,['Spain'],LB,€7.00m,1.FSV Mainz 05,Genoa CFC,free transfer,23/24
+Anderson Lucoqui,26,"['Angola', 'Germany']",LB,€600k,1.FSV Mainz 05,Hertha BSC,free transfer,23/24
+Ronaël Pierre-Gabriel,25,"['France', 'Martinique']",RB,€3.50m,1.FSV Mainz 05,FC Nantes,free transfer,23/24
+Tomas Cvancara,22,['Czech Republic'],CF,€4.00m,AC Sparta Prague,Borussia Mönchengladbach,€10.50m,23/24
+Franck Honorat,26,['France'],RW,€10.00m,Stade Brestois 29,Borussia Mönchengladbach,€8.00m,23/24
+Julian Weigl,27,['Germany'],DM,€10.00m,SL Benfica,Borussia Mönchengladbach,€7.18m,23/24
+Fabio Chiarodia,18,"['Italy', 'Germany']",CB,€1.00m,SV Werder Bremen,Borussia Mönchengladbach,€2.00m,23/24
+Robin Hack,24,['Germany'],LW,€3.00m,Arminia Bielefeld,Borussia Mönchengladbach,€1.10m,23/24
+Lukas Ullrich,19,['Germany'],LB,€750k,Hertha BSC II,Borussia Mönchengladbach,free transfer,23/24
+Grant-Leon Ranos,19,"['Armenia', 'Germany']",CF,€1.00m,FC Bayern Munich II,Borussia Mönchengladbach,free transfer,23/24
+Jordan Beyer,23,['Germany'],CB,€16.00m,Borussia Mönchengladbach,Burnley FC,€15.00m,23/24
+Lars Stindl,34,['Germany'],AM,€1.00m,Borussia Mönchengladbach,Karlsruher SC,free transfer,23/24
+Marcus Thuram,25,"['France', 'Guadeloupe']",CF,€32.00m,Borussia Mönchengladbach,Inter Milan,free transfer,23/24
+Conor Noß,22,"['Ireland', 'Germany']",LW,€400k,Borussia Mönchengladbach,FC Blau-Weiss Linz,free transfer,23/24
+Hannes Wolf,24,['Austria'],RW,€2.00m,Borussia Mönchengladbach,New York City FC,free transfer,23/24
+Semir Telalovic,23,"['Germany', 'Bosnia-Herzegovina']",CF,€350k,Borussia Mönchengladbach,Blackburn Rovers,?,23/24
+Jeff Chabot,25,"['Germany', 'France']",CB,€5.50m,UC Sampdoria,1.FC Köln,€2.50m,23/24
+Leart Paçarada,28,"['Kosovo', 'Germany']",LB,€2.00m,FC St. Pauli,1.FC Köln,free transfer,23/24
+Jonas Nickisch,19,['Germany'],GK,€200k,RB Leipzig U19,1.FC Köln,free transfer,23/24
+Jacob Christensen,22,['Denmark'],DM,€2.50m,FC Nordsjaelland,1.FC Köln,free transfer,23/24
+Philipp Pentke,38,['Germany'],GK,€300k,TSG 1899 Hoffenheim,1.FC Köln,free transfer,23/24
+Ondrej Duda,28,['Slovakia'],CM,€3.40m,1.FC Köln,Hellas Verona,€3.10m,23/24
+Kingsley Schindler,30,"['Ghana', 'Germany']",RW,€1.00m,1.FC Köln,Samsunspor,free transfer,23/24
+Kristian Pedersen,29,['Denmark'],LB,€1.20m,1.FC Köln,Swansea City,free transfer,23/24
+Dimitrios Limnios,25,"['Greece', 'Brazil']",RW,€900k,1.FC Köln,Panathinaikos FC,free transfer,23/24
+Noah Katterbach,22,['Germany'],LB,€800k,1.FC Köln,Hamburger SV,free transfer,23/24
+Jonas Hector,33,['Germany'],LB,€3.50m,1.FC Köln,Retired,-,23/24
+Timo Horn,30,['Germany'],GK,€1.50m,1.FC Köln,Without Club,-,23/24
+Sebastian Andersson,31,['Sweden'],CF,€700k,1.FC Köln,Without Club,-,23/24
+Mergim Berisha,25,['Germany'],CF,€12.00m,FC Augsburg,TSG 1899 Hoffenheim,€14.00m,23/24
+Attila Szalai,25,['Hungary'],CB,€14.00m,Fenerbahce,TSG 1899 Hoffenheim,€12.30m,23/24
+Marius Bülter,30,['Germany'],LW,€3.00m,FC Schalke 04,TSG 1899 Hoffenheim,€3.00m,23/24
+Julian Justvan,25,['Germany'],AM,€1.50m,SC Paderborn 07,TSG 1899 Hoffenheim,€2.00m,23/24
+Florian Grillitsch,27,['Austria'],DM,€6.50m,Ajax Amsterdam,TSG 1899 Hoffenheim,free transfer,23/24
+Angelo Stiller,22,['Germany'],DM,€5.00m,TSG 1899 Hoffenheim,VfB Stuttgart,€5.50m,23/24
+Stefan Posch,26,['Austria'],CB,€14.00m,TSG 1899 Hoffenheim,Bologna FC 1909,€5.00m,23/24
+Munas Dabbur,31,['Israel'],CF,€3.00m,TSG 1899 Hoffenheim,Shabab Al-Ahli Club,€1.50m,23/24
+Lucas Ribeiro,24,['Brazil'],CB,€1.20m,TSG 1899 Hoffenheim,Ceará Sporting Club,free transfer,23/24
+Sebastian Rudy,33,['Germany'],DM,€1.00m,TSG 1899 Hoffenheim,Retired,-,23/24
+Ermin Bicakcic,33,"['Bosnia-Herzegovina', 'Germany']",CB,€700k,TSG 1899 Hoffenheim,Without Club,-,23/24
+Olivier Deman,23,['Belgium'],LB,€3.00m,Cercle Brugge,SV Werder Bremen,€4.00m,23/24
+Senne Lynen,24,['Belgium'],DM,€4.00m,Union Saint-Gilloise,SV Werder Bremen,€2.50m,23/24
+Julián Malatini,22,['Argentina'],CB,€1.70m,Defensa y Justicia,SV Werder Bremen,€2.00m,23/24
+Isak Hansen-Aarøen,19,['Norway'],AM,-,Manchester United U21,SV Werder Bremen,€250k,23/24
+Dawid Kownacki,26,['Poland'],CF,€3.50m,Fortuna Düsseldorf,SV Werder Bremen,free transfer,23/24
+Naby Keïta,28,['Guinea'],CM,€12.00m,Liverpool FC,SV Werder Bremen,free transfer,23/24
+Ilia Gruev,23,"['Bulgaria', 'Germany']",DM,€3.00m,SV Werder Bremen,Leeds United,€6.50m,23/24
+Niklas Schmidt,25,['Germany'],CM,€2.50m,SV Werder Bremen,FC Toulouse,€2.50m,23/24
+Lee Buchanan,22,['England'],LB,€3.50m,SV Werder Bremen,Birmingham City,€1.50m,23/24
+Yannik Engelhardt,22,['Germany'],DM,€1.20m,SV Werder Bremen,SC Freiburg II,€900k,23/24
+Oscar Schönfelder,22,['Germany'],LB,€250k,SV Werder Bremen,SSV Jahn Regensburg,€260k,23/24
+Kyu-hyun Park,22,"['Korea, South']",LB,€250k,SV Werder Bremen,SG Dynamo Dresden,€150k,23/24
+Jean Manuel Mbom,23,"['Germany', 'Cameroon']",RB,€800k,SV Werder Bremen,Viborg FF,free transfer,23/24
+Nicolai Rapp,27,['Germany'],DM,€700k,SV Werder Bremen,Karlsruher SC,free transfer,23/24
+Moritz-Broni Kwarteng,25,"['Germany', 'Ghana']",CM,€1.50m,1.FC Magdeburg,VfL Bochum,€1.10m,23/24
+Maximilian Wittek,27,['Germany'],LB,€2.00m,Vitesse Arnhem,VfL Bochum,€750k,23/24
+Bernardo,28,['Brazil'],CB,€2.50m,Red Bull Salzburg,VfL Bochum,€600k,23/24
+Matus Bero,27,['Slovakia'],CM,€2.30m,Vitesse Arnhem,VfL Bochum,free transfer,23/24
+Lukas Daschner,24,['Germany'],AM,€1.50m,FC St. Pauli,VfL Bochum,free transfer,23/24
+Niclas Thiede,24,['Germany'],GK,€350k,SC Verl,VfL Bochum,free transfer,23/24
+Noah Loosli,26,['Switzerland'],CB,€800k,Grasshopper Club Zurich,VfL Bochum,free transfer,23/24
+Andreas Luthe,36,['Germany'],GK,€300k,1.FC Kaiserslautern,VfL Bochum,?,23/24
+Agon Elezi,22,"['North Macedonia', 'Albania']",CM,€800k,NK Varazdin,VfL Bochum,?,23/24
+Jacek Goralski,30,['Poland'],DM,€700k,VfL Bochum,Wieczysta Krakow,free transfer,23/24
+Jannes Horn,26,['Germany'],LB,€1.20m,VfL Bochum,1.FC Nuremberg,free transfer,23/24
+Silvere Ganvoula,27,['Congo'],CF,€600k,VfL Bochum,BSC Young Boys,free transfer,23/24
+Vasilios Lampropoulos,33,['Greece'],CB,€500k,VfL Bochum,OFI Crete FC,free transfer,23/24
+Simon Zoller,32,['Germany'],CF,€1.10m,VfL Bochum,FC St. Pauli,?,23/24
+Luis Hartwig,20,['Germany'],CF,€350k,VfL Bochum,KV Oostende (-2024),?,23/24
+Konstantinos Stafylidis,29,['Greece'],LB,€1.20m,VfL Bochum,Without Club,-,23/24
+Lys Mousset,27,"['France', 'Senegal']",CF,€400k,VfL Bochum,Without Club,-,23/24
+Mergim Berisha,25,['Germany'],CF,€12.00m,Fenerbahce,FC Augsburg,€4.00m,23/24
+Tim Breithaupt,21,['Germany'],DM,€3.50m,Karlsruher SC,FC Augsburg,€2.50m,23/24
+Phillip Tietz,26,['Germany'],CF,€2.70m,SV Darmstadt 98,FC Augsburg,€2.20m,23/24
+Patric Pfeiffer,23,"['Ghana', 'Germany']",CB,€3.00m,SV Darmstadt 98,FC Augsburg,free transfer,23/24
+Masaya Okugawa,27,['Japan'],LW,€2.50m,Arminia Bielefeld,FC Augsburg,free transfer,23/24
+Ricardo Pepi,20,"['United States', 'Mexico']",CF,€9.00m,FC Augsburg,PSV Eindhoven,€11.00m,23/24
+Maurice Malone,22,"['Germany', 'United States']",CF,€1.80m,FC Augsburg,FC Basel 1893,€2.00m,23/24
+Frederik Winther,23,['Denmark'],CB,€800k,FC Augsburg,Hammarby IF,€1.00m,23/24
+Felix Götze,25,['Germany'],CB,€400k,FC Augsburg,Rot-Weiss Essen,€100k,23/24
+Aaron Zehnter,19,['Germany'],LB,€300k,FC Augsburg,SC Paderborn 07,€100k,23/24
+Rafal Gikiewicz,35,['Poland'],GK,€900k,FC Augsburg,MKE Ankaragücü,free transfer,23/24
+Tim Civeja,21,"['Albania', 'Germany']",CM,€200k,FC Augsburg,1.FC Saarbrücken,?,23/24
+Noah Sarenren Bazee,27,"['Germany', 'Nigeria']",RW,€600k,FC Augsburg,Arminia Bielefeld,?,23/24
+Jozo Stanic,24,"['Croatia', 'Germany']",CB,€650k,FC Augsburg,FC St. Gallen 1879,?,23/24
+Julian Baumgartlinger,35,['Austria'],DM,€400k,FC Augsburg,Retired,-,23/24
+Tobias Strobl,33,['Germany'],DM,€500k,FC Augsburg,Retired,-,23/24
+André Hahn,32,['Germany'],RW,€1.20m,FC Augsburg,Career break,-,23/24
+Daniel Caligiuri,35,"['Italy', 'Germany']",RW,€600k,FC Augsburg,Without Club,-,23/24
+Serhou Guirassy,27,"['Guinea', 'France']",CF,€14.00m,Stade Rennais FC,VfB Stuttgart,€9.00m,23/24
+Jovan Milosevic,17,['Serbia'],CF,€500k,FK Vojvodina Novi Sad,VfB Stuttgart,€1.20m,23/24
+Maximilian Mittelstädt,26,['Germany'],LB,€2.00m,Hertha BSC,VfB Stuttgart,€500k,23/24
+Matej Maglica,24,['Croatia'],CB,€1.00m,FC St. Gallen 1879,VfB Stuttgart,€450k,23/24
+Wataru Endo,30,['Japan'],DM,€6.50m,VfB Stuttgart,Liverpool FC,€20.00m,23/24
+Konstantinos Mavropanos,25,['Greece'],CB,€15.00m,VfB Stuttgart,West Ham United,€20.00m,23/24
+Borna Sosa,25,"['Croatia', 'Germany']",LB,€12.00m,VfB Stuttgart,Ajax Amsterdam,€8.00m,23/24
+Mateo Klimowicz,23,"['Argentina', 'Germany']",AM,€2.00m,VfB Stuttgart,Atlético de San Luis,€750k,23/24
+Alou Kuol,22,"['Australia', 'Southern Sudan']",CF,€300k,VfB Stuttgart,Central Coast Mariners,€200k,23/24
+Antonis Aidonis,22,"['Germany', 'Greece']",CB,€350k,VfB Stuttgart,Aris Thessaloniki,free transfer,23/24
+Clinton Mola,22,"['England', 'DR Congo']",CB,€500k,VfB Stuttgart,Reading FC,free transfer,23/24
+Tanguy Coulibaly,22,"['France', ""Cote d'Ivoire""]",RW,€2.50m,VfB Stuttgart,Without Club,-,23/24
+Marvin Pieringer,23,['Germany'],CF,€2.00m,FC Schalke 04,1.FC Heidenheim 1846,€1.80m,23/24
+Nikola Dovedan,28,['Austria'],SS,€600k,Austria Vienna,1.FC Heidenheim 1846,free transfer,23/24
+Benedikt Gimber,26,['Germany'],CB,€1.50m,SSV Jahn Regensburg,1.FC Heidenheim 1846,free transfer,23/24
+Omar Traoré,25,"['Germany', 'Togo']",RB,€400k,VfL Osnabrück,1.FC Heidenheim 1846,free transfer,23/24
+Andreas Geipl,31,['Germany'],DM,€350k,1.FC Heidenheim 1846,SSV Jahn Regensburg,free transfer,23/24
+Marvin Rittmüller,24,['Germany'],RB,€350k,1.FC Heidenheim 1846,Eintracht Braunschweig,free transfer,23/24
+Mert Arslan,19,['Germany'],AM,€50k,1.FC Heidenheim 1846,1. FC Lokomotive Leipzig,free transfer,23/24
+Merveille Biankadi,28,"['Germany', 'DR Congo']",RW,€300k,1.FC Heidenheim 1846,Arminia Bielefeld,free transfer,23/24
+Dzenis Burnic,25,"['Bosnia-Herzegovina', 'Germany']",RM,€550k,1.FC Heidenheim 1846,Karlsruher SC,free transfer,23/24
+Melvin Ramusovic,22,"['Bosnia-Herzegovina', 'Germany']",DM,€150k,1.FC Heidenheim 1846,Stuttgarter Kickers,free transfer,23/24
+Christoph Klarer,23,['Austria'],CB,€2.20m,Fortuna Düsseldorf,SV Darmstadt 98,€2.30m,23/24
+Fraser Hornby,23,"['Scotland', 'England']",CF,€1.00m,Stade Reims,SV Darmstadt 98,€1.80m,23/24
+Andreas Müller,22,['Germany'],DM,€1.00m,1.FC Magdeburg,SV Darmstadt 98,free transfer,23/24
+Fabian Nürnberger,23,"['Bulgaria', 'Germany']",LM,€1.20m,1.FC Nuremberg,SV Darmstadt 98,free transfer,23/24
+Frank Ronstadt,26,"['Germany', 'Ghana']",RB,€550k,SV Darmstadt 98,1.FC Kaiserslautern,€50k,23/24
+Philipp Sonn,18,['Germany'],LB,€100k,SV Darmstadt 98,VfR Wormatia Worms,free transfer,23/24
+Yassin Ben Balla,27,"['France', 'Morocco']",DM,€350k,SV Darmstadt 98,SV Sandhausen,free transfer,23/24
+Keanan Bennetts,24,"['Germany', 'England']",LM,€500k,SV Darmstadt 98,SV Wehen Wiesbaden,free transfer,23/24
+André Leipold,21,"['Philippines', 'Germany']",RW,€150k,SV Darmstadt 98,SV Lafnitz,free transfer,23/24
+Antonis Makatounakis,19,['Greece'],GK,€150k,SV Darmstadt 98,AO Giouchtas,free transfer,23/24
+Nemanja Celic,24,['Austria'],DM,€300k,SV Darmstadt 98,SV Ried,free transfer,23/24
+Steve Kroll,26,['Germany'],GK,€125k,SV Darmstadt 98,Retired,-,23/24

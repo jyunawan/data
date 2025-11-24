@@ -1,4 +1,4 @@
-# Premier League Statistics
+# Premier League Pass Types Statistics
 
 This folder contains Premier League Pass Types Statistics scraped from FBREF.
 

@@ -1,0 +1,358 @@
+player_name,player_age,player_nationality,player_position,market_value,from_club,to_club,transfer_fee,transfer_season
+Randal Kolo Muani,24,"['France', 'DR Congo']",CF,€80.00m,Eintracht Frankfurt,Paris Saint-Germain,€95.00m,23/24
+Gonçalo Ramos,22,['Portugal'],CF,€50.00m,SL Benfica,Paris Saint-Germain,€65.00m,23/24
+Manuel Ugarte,22,['Uruguay'],DM,€50.00m,Sporting CP,Paris Saint-Germain,€60.00m,23/24
+Ousmane Dembélé,26,['France'],CF,€60.00m,FC Barcelona,Paris Saint-Germain,€50.00m,23/24
+Lucas Hernández,27,"['France', 'Spain']",LB,€45.00m,Bayern Munich,Paris Saint-Germain,€45.00m,23/24
+Bradley Barcola,20,"['France', 'Togo']",LW,€18.00m,Olympique Lyon,Paris Saint-Germain,€45.00m,23/24
+Hugo Ekitiké,21,"['France', 'Cameroon']",CF,€20.00m,Stade Reims,Paris Saint-Germain,€28.50m,23/24
+Kang-in Lee,22,"['Korea, South']",AM,€22.00m,RCD Mallorca,Paris Saint-Germain,€22.00m,23/24
+Lucas Beraldo,20,['Brazil'],CB,€15.00m,São Paulo Futebol Clube,Paris Saint-Germain,€20.00m,23/24
+Gabriel Moscardo,18,['Brazil'],DM,€15.00m,Sport Club Corinthians Paulista,Paris Saint-Germain,€20.00m,23/24
+Xavi Simons,20,"['Netherlands', 'Suriname']",AM,€40.00m,PSV Eindhoven,Paris Saint-Germain,€4.00m,23/24
+Arnau Tenas,22,['Spain'],GK,€5.00m,FC Barcelona Atlètic,Paris Saint-Germain,free transfer,23/24
+Cher Ndour,18,"['Italy', 'Senegal']",CM,€1.50m,SL Benfica B,Paris Saint-Germain,free transfer,23/24
+Marco Asensio,27,"['Spain', 'Netherlands']",AM,€25.00m,Real Madrid,Paris Saint-Germain,free transfer,23/24
+Milan Škriniar,28,['Slovakia'],CB,€50.00m,Inter Milan,Paris Saint-Germain,free transfer,23/24
+Neymar,31,['Brazil'],AM,€60.00m,Paris Saint-Germain,Al-Hilal SFC,€90.00m,23/24
+Marco Verratti,30,['Italy'],CM,€40.00m,Paris Saint-Germain,Al-Arabi SC,€45.00m,23/24
+El Chadaille Bitshiabu,18,"['France', 'DR Congo']",CB,€7.00m,Paris Saint-Germain,RB Leipzig,€15.00m,23/24
+Abdou Diallo,27,"['Senegal', 'France']",CB,€10.00m,Paris Saint-Germain,Al-Arabi SC,€15.00m,23/24
+Mauro Icardi,30,"['Argentina', 'Italy']",CF,€19.00m,Paris Saint-Germain,Galatasaray,€10.00m,23/24
+Julian Draxler,29,['Germany'],LW,€6.00m,Paris Saint-Germain,Al-Ahli SC,€9.00m,23/24
+Georginio Wijnaldum,32,"['Netherlands', 'Suriname']",CM,€8.00m,Paris Saint-Germain,Al-Ettifaq FC,€8.00m,23/24
+Junior Dina Ebimbe,22,"['France', 'Cameroon']",RM,€10.00m,Paris Saint-Germain,Eintracht Frankfurt,€6.50m,23/24
+Leandro Paredes,29,['Argentina'],DM,€12.00m,Paris Saint-Germain,AS Roma,€5.65m,23/24
+Djeidi Gassama,19,"['France', 'Mauritania']",LW,€650k,Paris Saint-Germain,Sheffield Wednesday,€1.00m,23/24
+Timothée Pembélé,20,"['France', 'DR Congo']",RB,€5.00m,Paris Saint-Germain,Sunderland AFC,€1.00m,23/24
+Kenny Nagera,21,"['France', 'Guadeloupe']",LW,€300k,Paris Saint-Germain,FC Differdange 03,free transfer,23/24
+Mathyas Randriamamy,20,"['Madagascar', 'France']",GK,-,Paris Saint-Germain,Ermis Aradippou,free transfer,23/24
+Sergio Ramos,37,['Spain'],CB,€4.50m,Paris Saint-Germain,Sevilla FC,free transfer,23/24
+Lionel Messi,36,"['Argentina', 'Spain']",RW,€35.00m,Paris Saint-Germain,Inter Miami CF,free transfer,23/24
+Moutanabi Bodiang,20,"['France', 'Senegal']",RB,€100k,Paris Saint-Germain,Without Club,-,23/24
+Anfane Ahamada,21,"['Comoros', 'France']",DM,€100k,Paris Saint-Germain,Without Club,-,23/24
+Elye Wahi,20,"['France', ""Cote d'Ivoire""]",CF,€35.00m,Montpellier HSC,RC Lens,€30.00m,23/24
+Andy Diouf,20,"['France', 'Senegal']",CM,€7.00m,FC Basel 1893,RC Lens,€14.00m,23/24
+Angelo Fulgini,26,"['France', 'Neukaledonien']",AM,€9.00m,1.FSV Mainz 05,RC Lens,€7.20m,23/24
+Óscar Cortés,19,['Colombia'],LW,€4.20m,Millonarios FC,RC Lens,€4.50m,23/24
+Morgan Guilavogui,25,"['Guinea', 'France']",RW,€2.50m,Paris FC,RC Lens,€4.00m,23/24
+Ruben Aguilar,30,"['France', 'Spain']",RB,€7.00m,AS Monaco,RC Lens,€3.50m,23/24
+Neil El Aynaoui,21,"['Morocco', 'France']",CM,€700k,AS Nancy-Lorraine,RC Lens,€600k,23/24
+Abdukodir Khusanov,19,['Uzbekistan'],CB,€400k,Energetik-BGU Minsk,RC Lens,€450k,23/24
+Stijn Spierings,27,['Netherlands'],CM,€6.00m,FC Toulouse,RC Lens,free transfer,23/24
+Nampalys Mendy,31,"['Senegal', 'France']",DM,€2.50m,Without Club,RC Lens,-,23/24
+Loïs Openda,23,"['Belgium', 'Morocco']",CF,€35.00m,RC Lens,RB Leipzig,€40.00m,23/24
+Seko Fofana,28,"[""Cote d'Ivoire"", 'France']",CM,€32.00m,RC Lens,Al-Nassr FC,€25.00m,23/24
+Jean Onana,23,['Cameroon'],DM,€6.00m,RC Lens,Besiktas JK,€4.04m,23/24
+Wuilker Fariñez,25,"['Venezuela', 'Colombia']",GK,€3.00m,RC Lens,Caracas FC,free transfer,23/24
+Adrien Louveau,23,['France'],DM,€100k,RC Lens,LKS Lodz,free transfer,23/24
+Ismaël Boura,22,"['Comoros', 'France']",LB,€1.00m,RC Lens,ESTAC Troyes,free transfer,23/24
+Steven Fortes,31,"['Cape Verde', 'France']",CB,€400k,RC Lens,Quevilly - Rouen Métropole,free transfer,23/24
+Tom Ducrocq,23,['France'],DM,€1.20m,RC Lens,SC Bastia,?,23/24
+Renan Lodi,25,"['Brazil', 'Italy']",LB,€20.00m,Atlético de Madrid,Olympique Marseille,€20.60m,23/24
+Iliman Ndiaye,23,"['Senegal', 'France']",RW,€18.00m,Sheffield United,Olympique Marseille,€17.00m,23/24
+Ismaïla Sarr,25,['Senegal'],RW,€20.00m,Watford FC,Olympique Marseille,€13.00m,23/24
+Ruslan Malinovskyi,30,['Ukraine'],AM,€15.00m,Atalanta BC,Olympique Marseille,€10.00m,23/24
+Quentin Merlin,21,['France'],LB,€10.00m,FC Nantes,Olympique Marseille,€10.00m,23/24
+Geoffrey Kondogbia,30,"['Central African Republic', 'France']",DM,€14.00m,Atlético de Madrid,Olympique Marseille,€8.00m,23/24
+Faris Moumbagna,23,['Cameroon'],CF,€7.00m,FK Bodø/Glimt,Olympique Marseille,€8.00m,23/24
+Amine Harit,26,"['Morocco', 'France']",AM,€12.00m,FC Schalke 04,Olympique Marseille,€5.00m,23/24
+Ulisses Garcia,28,"['Switzerland', 'Cape Verde']",LB,€3.00m,BSC Young Boys,Olympique Marseille,€4.00m,23/24
+Amir Murillo,27,['Panama'],RB,€3.00m,RSC Anderlecht,Olympique Marseille,€2.50m,23/24
+Rubén Blanco,28,['Spain'],GK,€4.00m,Celta de Vigo,Olympique Marseille,€1.50m,23/24
+Pierre-Emerick Aubameyang,34,"['Gabon', 'France']",CF,€4.00m,Chelsea FC,Olympique Marseille,free transfer,23/24
+Renan Lodi,25,"['Brazil', 'Italy']",LB,€20.00m,Olympique Marseille,Al-Hilal SFC,€23.00m,23/24
+Cengiz Ünder,26,['Türkiye'],RW,€20.00m,Olympique Marseille,Fenerbahce,€15.00m,23/24
+Isaak Touré,20,"['France', ""Cote d'Ivoire""]",CB,€6.00m,Olympique Marseille,FC Lorient,€8.00m,23/24
+Luis Suárez,25,"['Colombia', 'Spain']",CF,€8.00m,Olympique Marseille,UD Almería,€8.00m,23/24
+Ruslan Malinovskyi,30,['Ukraine'],AM,€10.00m,Olympique Marseille,Genoa CFC,€7.70m,23/24
+Arkadiusz Milik,29,['Poland'],CF,€8.00m,Olympique Marseille,Juventus FC,€7.30m,23/24
+Nemanja Radonjić,27,['Serbia'],LW,€4.00m,Olympique Marseille,Torino FC,€1.70m,23/24
+Bartuğ Elmaz,20,['Türkiye'],DM,€300k,Olympique Marseille,Fenerbahce,€1.40m,23/24
+Alexis Sánchez,34,['Chile'],CF,€4.00m,Olympique Marseille,Inter Milan,free transfer,23/24
+Dimitri Payet,36,"['France', 'Réunion']",AM,€1.80m,Olympique Marseille,Clube de Regatas Vasco da Gama,free transfer,23/24
+Sead Kolasinac,30,"['Bosnia-Herzegovina', 'Germany']",CB,€8.00m,Olympique Marseille,Atalanta BC,free transfer,23/24
+Kevin Strootman,33,['Netherlands'],CM,€1.30m,Olympique Marseille,Genoa CFC,free transfer,23/24
+Folarin Balogun,22,"['United States', 'England']",CF,€30.00m,Arsenal FC,AS Monaco,€30.00m,23/24
+Denis Zakaria,26,"['Switzerland', 'DR Congo']",DM,€18.00m,Juventus FC,AS Monaco,€20.00m,23/24
+Mohammed Salisu,24,['Ghana'],CB,€18.00m,Southampton FC,AS Monaco,€15.00m,23/24
+Wilfried Singo,22,"[""Cote d'Ivoire""]",RB,€12.00m,Torino FC,AS Monaco,€9.10m,23/24
+Philipp Köhn,25,"['Switzerland', 'Germany']",GK,€4.50m,Red Bull Salzburg,AS Monaco,€8.00m,23/24
+Kassoum Ouattara,19,"['France', ""Cote d'Ivoire""]",LB,€600k,Amiens SC,AS Monaco,€2.00m,23/24
+Axel Disasi,25,"['France', 'DR Congo']",CB,€30.00m,AS Monaco,Chelsea FC,€45.00m,23/24
+Jean Lucas,25,['Brazil'],CM,€5.00m,AS Monaco,Santos FC,€6.00m,23/24
+Kevin Volland,31,['Germany'],AM,€8.00m,AS Monaco,1.FC Union Berlin,€4.00m,23/24
+Gelson Martins,28,"['Portugal', 'Cape Verde']",RW,€2.50m,AS Monaco,Olympiacos Piraeus,€3.00m,23/24
+Yllan Okou,20,"['France', ""Cote d'Ivoire""]",CB,€300k,AS Monaco,SC Bastia,€500k,23/24
+Arthur Zagré,21,"['France', 'Burkina Faso']",LB,€700k,AS Monaco,Excelsior Rotterdam,free transfer,23/24
+Jean Marcelin,23,"['Madagascar', 'France']",CB,€2.00m,AS Monaco,FC Girondins Bordeaux,free transfer,23/24
+Anthony Musaba,22,"['Netherlands', 'DR Congo']",LW,€800k,AS Monaco,Sheffield Wednesday,free transfer,23/24
+Pelé,31,"['Guinea-Bissau', 'Portugal']",DM,€600k,AS Monaco,Retired,-,23/24
+Enzo Le Fée,23,['France'],CM,€20.00m,FC Lorient,Stade Rennais FC,€20.00m,23/24
+Azor Matusiwa,25,"['Netherlands', 'Angola']",DM,€10.00m,Stade Reims,Stade Rennais FC,€15.50m,23/24
+Fabian Rieder,21,['Switzerland'],AM,€15.00m,BSC Young Boys,Stade Rennais FC,€15.00m,23/24
+Ludovic Blas,25,"['France', 'Martinique']",RW,€20.00m,FC Nantes,Stade Rennais FC,€15.00m,23/24
+Alidu Seidu,23,['Ghana'],CB,€7.00m,Clermont Foot 63,Stade Rennais FC,€11.00m,23/24
+Bertuğ Yıldırım,21,['Türkiye'],CF,€2.70m,Hatayspor,Stade Rennais FC,€5.40m,23/24
+Nemanja Matić,35,"['Serbia', 'Slovakia']",DM,€4.00m,AS Roma,Stade Rennais FC,€2.50m,23/24
+Geoffrey Lembet,34,"['Central African Republic', 'France']",GK,€150k,CS Sedan-Ardennes,Stade Rennais FC,free transfer,23/24
+Gauthier Gallon,30,['France'],GK,€2.00m,ESTAC Troyes,Stade Rennais FC,?,23/24
+Jérémy Doku,21,"['Belgium', 'Ghana']",LW,€28.00m,Stade Rennais FC,Manchester City,€60.00m,23/24
+Lesley Ugochukwu,19,"['France', 'Nigeria']",DM,€9.00m,Stade Rennais FC,Chelsea FC,€27.00m,23/24
+Lovro Majer,25,['Croatia'],AM,€20.00m,Stade Rennais FC,VfL Wolfsburg,€25.00m,23/24
+Loïc Badé,23,"['France', ""Cote d'Ivoire""]",CB,€12.00m,Stade Rennais FC,Sevilla FC,€12.00m,23/24
+Serhou Guirassy,27,"['Guinea', 'France']",CF,€14.00m,Stade Rennais FC,VfB Stuttgart,€9.00m,23/24
+Andy Diouf,20,"['France', 'Senegal']",CM,€7.00m,Stade Rennais FC,FC Basel 1893,€5.50m,23/24
+Loum Tchaouna,19,"['France', 'Chad']",RW,€1.80m,Stade Rennais FC,US Salernitana 1919,€3.00m,23/24
+Nemanja Matić,35,"['Serbia', 'Slovakia']",DM,€3.50m,Stade Rennais FC,Olympique Lyon,€2.60m,23/24
+Birger Meling,28,['Norway'],LB,€5.00m,Stade Rennais FC,FC Copenhagen,€2.00m,23/24
+Mohamed Jaouab,21,['Morocco'],CB,€150k,Stade Rennais FC,Amiens SC,€400k,23/24
+Romain Salin,38,['France'],GK,€150k,Stade Rennais FC,CS Marítimo,free transfer,23/24
+Hamari Traoré,31,['Mali'],RB,€10.00m,Stade Rennais FC,Real Sociedad,free transfer,23/24
+Flavien Tait,30,['France'],CM,€6.00m,Stade Rennais FC,Samsunspor,free transfer,23/24
+Noah Françoise,20,"['France', 'Senegal']",CB,€350k,Stade Rennais FC,CS Marítimo,?,23/24
+Junior Kadile,20,"['France', 'DR Congo']",LW,€600k,Stade Rennais FC,Stade Lavallois,?,23/24
+Xeka,28,['Portugal'],CM,€6.00m,Stade Rennais FC,Without Club,-,23/24
+Elias Damergy,20,"['Tunisia', 'France']",GK,€150k,Stade Rennais FC,Without Club,-,23/24
+Hákon Arnar Haraldsson,20,['Iceland'],AM,€6.00m,FC Copenhagen,LOSC Lille,€15.00m,23/24
+Tiago Santos,20,['Portugal'],RB,€3.50m,GD Estoril Praia,LOSC Lille,€6.50m,23/24
+Nabil Bentaleb,28,"['Algeria', 'France']",DM,€7.00m,Angers SCO,LOSC Lille,€4.50m,23/24
+Ignacio Miramón,20,"['Argentina', 'Italy']",DM,€4.00m,Club de Gimnasia y Esgrima La Plata,LOSC Lille,€4.00m,23/24
+Andrej Ilic,23,['Serbia'],CF,€2.30m,Vålerenga Fotball Elite,LOSC Lille,€3.75m,23/24
+Tiago Morais,20,['Portugal'],LW,€2.00m,Boavista FC,LOSC Lille,€3.00m,23/24
+Rafael Fernandes,21,['Portugal'],CB,€700k,FC Arouca,LOSC Lille,€2.50m,23/24
+Vito Mannone,35,['Italy'],GK,€300k,FC Lorient,LOSC Lille,€200k,23/24
+Ivan Cavaleiro,29,"['Angola', 'Portugal']",LW,€2.20m,Fulham FC,LOSC Lille,free transfer,23/24
+Samuel Umtiti,29,"['France', 'Cameroon']",CB,€4.00m,FC Barcelona,LOSC Lille,free transfer,23/24
+Carlos Baleba,19,['Cameroon'],DM,€5.00m,LOSC Lille,Brighton & Hove Albion,€27.00m,23/24
+Timothy Weah,23,"['United States', 'France']",RW,€14.00m,LOSC Lille,Juventus FC,€11.00m,23/24
+Tiago Djaló,23,"['Portugal', 'Guinea-Bissau']",CB,€15.00m,LOSC Lille,Juventus FC,€5.10m,23/24
+Benoît Costil,36,['France'],GK,€1.00m,LOSC Lille,US Salernitana 1919,free transfer,23/24
+Jonas Martin,33,['France'],DM,€1.50m,LOSC Lille,Stade Brestois 29,free transfer,23/24
+Jonathan Bamba,27,"[""Cote d'Ivoire"", 'France']",LW,€20.00m,LOSC Lille,Celta de Vigo,free transfer,23/24
+José Fonte,39,['Portugal'],CB,€600k,LOSC Lille,SC Braga,free transfer,23/24
+Malick Fofana,18,"['Belgium', 'Guinea']",LW,€8.00m,KAA Gent,Olympique Lyon,€19.50m,23/24
+Gift Orban,21,"['Nigeria', 'Togo']",CF,€15.00m,KAA Gent,Olympique Lyon,€14.00m,23/24
+Lucas Perri,26,"['Brazil', 'Italy']",GK,€8.00m,Botafogo de Futebol e Regatas,Olympique Lyon,€6.50m,23/24
+Clinton Mata,30,"['Angola', 'Belgium']",CB,€4.50m,Club Brugge KV,Olympique Lyon,€5.00m,23/24
+Skelly Alvero,21,"['France', 'Angola']",DM,€3.00m,FC Sochaux-Montbéliard,Olympique Lyon,€4.00m,23/24
+Adryelson,25,['Brazil'],CB,€8.00m,Botafogo de Futebol e Regatas,Olympique Lyon,€3.58m,23/24
+Paul Akouokou,25,"[""Cote d'Ivoire""]",DM,€3.50m,Real Betis Balompié,Olympique Lyon,€3.00m,23/24
+Jake O'Brien,22,['Ireland'],RB,€700k,Crystal Palace U21,Olympique Lyon,€1.00m,23/24
+Ainsley Maitland-Niles,25,"['England', 'Jamaica']",RB,€8.00m,Arsenal FC,Olympique Lyon,free transfer,23/24
+Mahamadou Diawara,18,"['France', 'Mali']",CM,-,Paris Saint-Germain U19,Olympique Lyon,free transfer,23/24
+Castello Lukeba,20,"['France', 'Angola']",CB,€25.00m,Olympique Lyon,RB Leipzig,€30.00m,23/24
+Romain Faivre,24,"['France', 'Algeria']",AM,€10.00m,Olympique Lyon,AFC Bournemouth,€15.00m,23/24
+Cenk Özkacar,22,['Türkiye'],CB,€5.00m,Olympique Lyon,Valencia CF,€5.00m,23/24
+Thiago Mendes,31,['Brazil'],DM,€5.00m,Olympique Lyon,Al-Rayyan SC,€4.21m,23/24
+Abdoulaye Ndiaye,21,['Senegal'],CB,€1.50m,Olympique Lyon,ESTAC Troyes,€3.50m,23/24
+Karl Toko Ekambi,30,"['Cameroon', 'France']",CF,€8.00m,Olympique Lyon,Abha Club,€1.50m,23/24
+Habib Keïta,21,"['Mali', ""Cote d'Ivoire""]",CM,€650k,Olympique Lyon,Clermont Foot 63,€1.20m,23/24
+Camilo,24,"['Brazil', 'Netherlands']",DM,€1.00m,Olympique Lyon,Akhmat Grozny,€800k,23/24
+Rémy Riou,36,['France'],GK,€400k,Olympique Lyon,Paris FC,free transfer,23/24
+Jeff Reine-Adélaïde,25,"['France', 'Martinique']",AM,€5.00m,Olympique Lyon,RWD Molenbeek,free transfer,23/24
+Youssouf Koné,28,['Mali'],LB,€1.50m,Olympique Lyon,RWD Molenbeek,free transfer,23/24
+Kayne Bonnevie,21,"['France', 'French Guiana']",GK,€200k,Olympique Lyon,Quevilly - Rouen Métropole,free transfer,23/24
+Yahya Soumaré,23,"['France', 'Senegal']",RW,€250k,Olympique Lyon,US Orléans,free transfer,23/24
+Julian Pollersbeck,28,['Germany'],GK,€500k,Olympique Lyon,1.FC Magdeburg,free transfer,23/24
+Houssem Aouar,25,"['Algeria', 'France']",AM,€13.00m,Olympique Lyon,AS Roma,free transfer,23/24
+Moussa Dembélé,27,"['France', 'Mali']",CF,€12.00m,Olympique Lyon,Al-Ettifaq FC,free transfer,23/24
+Jérôme Boateng,34,['Germany'],CB,€800k,Olympique Lyon,Without Club,-,23/24
+Maximiliano Caufriez,26,['Belgium'],CB,€2.50m,Spartak Moscow,Clermont Foot 63,€3.50m,23/24
+Andy Pelmard,23,"['Madagascar', 'France']",CB,€4.30m,FC Basel 1893,Clermont Foot 63,€1.90m,23/24
+Abdoulaye Coulibaly,21,"['France', 'Senegal']",LW,€150k,AS Saint-Étienne B,Clermont Foot 63,free transfer,23/24
+Nassim L'Ghoul,26,"['Algeria', 'France']",AM,-,Sporting Club de Toulon,Clermont Foot 63,free transfer,23/24
+Thomas Perchaud,25,['France'],CF,-,Asd Città di Gallipoli,Clermont Foot 63,free transfer,23/24
+Bilal Boutobba,24,"['France', 'Algeria']",RW,€2.50m,Chamois Niortais FC,Clermont Foot 63,free transfer,23/24
+Théo Borne,20,['France'],GK,€100k,Angers SCO,Clermont Foot 63,free transfer,23/24
+Massamba N'Diaye,21,['Senegal'],GK,€500k,Pau FC,Clermont Foot 63,?,23/24
+Yoël Armougom,25,"['France', 'Réunion']",LB,€400k,FC Sochaux-Montbéliard,Clermont Foot 63,?,23/24
+Mateusz Wieteska,26,['Poland'],CB,€3.00m,Clermont Foot 63,Cagliari Calcio,€5.30m,23/24
+Yanis Massolin,20,"['France', 'Martinique']",AM,€250k,Clermont Foot 63,Francs Borains,free transfer,23/24
+Lucas Margueron,22,['France'],GK,€150k,Clermont Foot 63,RFC Seraing,free transfer,23/24
+Charly Keita,24,"['France', ""Cote d'Ivoire""]",CF,€200k,Clermont Foot 63,Beerschot VA,free transfer,23/24
+Yuliwes Bellache,20,"['Algeria', 'France']",CM,€150k,Clermont Foot 63,JS Kabylie,free transfer,23/24
+Souleymane Cissé,20,"['France', 'Senegal']",CB,€100k,Clermont Foot 63,Dijon FCO,free transfer,23/24
+Saîf-Eddine Khaoui,28,"['Tunisia', 'France']",AM,€2.00m,Clermont Foot 63,Khor Fakkan SSC,free transfer,23/24
+Cem Türkmen,21,"['Türkiye', 'Germany']",CM,€500k,Clermont Foot 63,MKE Ankaragücü,?,23/24
+Oliver Kamdem,20,"['France', 'Cameroon']",RB,€100k,Clermont Foot 63,Without Club,-,23/24
+Terem Moffi,24,['Nigeria'],CF,€20.00m,FC Lorient,OGC Nice,€22.50m,23/24
+Jérémie Boga,26,"[""Cote d'Ivoire"", 'France']",LW,€14.00m,Atalanta BC,OGC Nice,€17.50m,23/24
+Mohamed-Ali Cho,19,"['France', 'England']",RW,€8.00m,Real Sociedad,OGC Nice,€10.00m,23/24
+Aliou Baldé,20,"['Guinea', 'Senegal']",LW,€800k,FC Lausanne-Sport,OGC Nice,€2.50m,23/24
+Maxime Dupé,30,['France'],GK,€2.00m,RSC Anderlecht,OGC Nice,free transfer,23/24
+Salvatore Sirigu,36,['Italy'],GK,€500k,Without Club,OGC Nice,-,23/24
+Calvin Stengs,24,"['Netherlands', 'Suriname']",AM,€10.00m,OGC Nice,Feyenoord Rotterdam,€6.00m,23/24
+Andy Delort,31,"['Algeria', 'France']",CF,€7.00m,OGC Nice,FC Nantes,€5.00m,23/24
+Kasper Dolberg,25,['Denmark'],CF,€7.00m,OGC Nice,RSC Anderlecht,€5.00m,23/24
+Reda Belahyane,19,"['Morocco', 'France']",DM,€200k,OGC Nice,Hellas Verona,€500k,23/24
+Ange Ahoussou,19,"[""Cote d'Ivoire""]",CB,€500k,OGC Nice,Pau FC,€450k,23/24
+Jean N'Guessan,20,"[""Cote d'Ivoire""]",CM,€1.20m,OGC Nice,FC Metz,€430k,23/24
+Youcef Atal,27,['Algeria'],RB,€6.00m,OGC Nice,Adana Demirspor,free transfer,23/24
+Salvatore Sirigu,37,['Italy'],GK,€400k,OGC Nice,Fatih Karagümrük,free transfer,23/24
+Kasper Schmeichel,36,['Denmark'],GK,€2.00m,OGC Nice,RSC Anderlecht,free transfer,23/24
+Ross Barkley,29,['England'],CM,€6.00m,OGC Nice,Luton Town,free transfer,23/24
+Aaron Ramsey,32,['Wales'],CM,€2.50m,OGC Nice,Cardiff City,free transfer,23/24
+Morgan Schneiderlin,33,['France'],DM,€1.50m,OGC Nice,Konyaspor,free transfer,23/24
+Formose Mendy,22,"['Senegal', 'Guinea-Bissau']",CB,€3.00m,Amiens SC,FC Lorient,€7.50m,23/24
+Mohamed Bamba,22,"[""Cote d'Ivoire"", 'Guinea']",CF,€1.20m,Wolfsberger AC,FC Lorient,€5.00m,23/24
+Aiyegun Tosin,25,"['Benin', 'Nigeria']",CF,€3.20m,FC Zürich,FC Lorient,€4.00m,23/24
+Panos Katseris,22,['Greece'],RM,€500k,US Catanzaro,FC Lorient,€2.40m,23/24
+Dembo Sylla,20,"['Guinea', 'France']",RM,€600k,Stade Lavallois,FC Lorient,€1.00m,23/24
+Benjamin Mendy,29,"['France', 'Senegal']",LB,€3.00m,Manchester City,FC Lorient,free transfer,23/24
+Dominique Youfeigane,23,"['Central African Republic', 'France']",GK,€300k,EA Guingamp,FC Lorient,free transfer,23/24
+Tiemoué Bakayoko,29,"['France', ""Cote d'Ivoire""]",DM,€2.50m,Chelsea FC,FC Lorient,free transfer,23/24
+Moritz Jenz,24,"['Germany', 'Nigeria']",CB,€7.50m,FC Lorient,VfL Wolfsburg,€8.00m,23/24
+Ibrahima Koné,24,['Mali'],CF,€4.00m,FC Lorient,UD Almería,€7.50m,23/24
+Teddy Bartouche-Selbonne,26,"['Guadeloupe', 'France']",GK,€150k,FC Lorient,EA Guingamp,free transfer,23/24
+Samuel Loric,22,['France'],LB,€500k,FC Lorient,Quevilly - Rouen Métropole,free transfer,23/24
+Adil Aouchiche,21,"['France', 'Algeria']",AM,€2.20m,FC Lorient,Sunderland AFC,?,23/24
+Vincent Le Goff,34,['France'],LB,€900k,FC Lorient,Retired,-,23/24
+Mohamed Daramy,21,"['Denmark', 'Sierra Leone']",LW,€6.00m,Ajax Amsterdam,Stade Reims,€12.00m,23/24
+Keito Nakamura,23,['Japan'],LW,€8.00m,LASK,Stade Reims,€12.00m,23/24
+Joseph Okumu,26,['Kenya'],CB,€4.00m,KAA Gent,Stade Reims,€10.00m,23/24
+Sergio Akieme,26,"['Spain', 'Equatorial Guinea']",LB,€8.00m,UD Almería,Stade Reims,€6.00m,23/24
+Teddy Teuma,29,"['Malta', 'France']",CM,€5.00m,Union Saint-Gilloise,Stade Reims,€5.45m,23/24
+Amine Salama,22,"['France', 'Morocco']",CF,€1.50m,Angers SCO,Stade Reims,€4.00m,23/24
+Oumar Diakité,19,"[""Cote d'Ivoire""]",CF,€1.50m,Red Bull Salzburg,Stade Reims,€2.50m,23/24
+Reda Khadra,22,"['Germany', 'Lebanon']",AM,€1.40m,Brighton & Hove Albion,Stade Reims,€1.90m,23/24
+Benjamin Stambouli,33,"['France', 'Algeria']",DM,€800k,Adana Demirspor,Stade Reims,free transfer,23/24
+Ludovic Butelle,40,['France'],GK,€100k,Red Star FC,Stade Reims,free transfer,23/24
+Adama Bojang,19,['The Gambia'],CF,€150k,Steve Biko FC,Stade Reims,?,23/24
+Jens Cajuste,24,"['Sweden', 'United States']",DM,€6.00m,Stade Reims,SSC Napoli,€11.50m,23/24
+Dion Lopy,21,['Senegal'],DM,€4.00m,Stade Reims,UD Almería,€6.50m,23/24
+Alexis Flips,23,['France'],AM,€6.00m,Stade Reims,RSC Anderlecht,€3.50m,23/24
+Andreaw Gravillon,25,"['Guadeloupe', 'France']",CB,€4.00m,Stade Reims,Adana Demirspor,€2.50m,23/24
+Ilan Kebbal,25,"['Algeria', 'France']",RW,€2.00m,Stade Reims,Paris FC,€2.00m,23/24
+Fraser Hornby,23,"['Scotland', 'England']",CF,€1.00m,Stade Reims,SV Darmstadt 98,€1.80m,23/24
+Mitchell van Bergen,24,['Netherlands'],RW,€1.20m,Stade Reims,Twente Enschede FC,€1.00m,23/24
+Bradley Locko,21,"['France', 'Congo']",LB,€2.50m,Stade Reims,Stade Brestois 29,€500k,23/24
+Kaj Sierhuis,25,['Netherlands'],CF,€1.20m,Stade Reims,Fortuna Sittard,€500k,23/24
+Moustapha Mbow,23,['Senegal'],CB,€600k,Stade Reims,Paris FC,€500k,23/24
+Rafik Guitane,24,"['Algeria', 'France']",RW,€1.00m,Stade Reims,GD Estoril Praia,€250k,23/24
+N'Dri Koffi,21,"[""Cote d'Ivoire"", 'France']",CF,€800k,Stade Reims,FC Sochaux-Montbéliard,free transfer,23/24
+Dario Maresic,23,"['Austria', 'Croatia']",CB,€500k,Stade Reims,NK Istra 1961,?,23/24
+Arbër Zeneli,28,"['Kosovo', 'Sweden']",LW,€3.50m,Stade Reims,Adana Demirspor,?,23/24
+Anastasios Donis,26,"['Greece', 'England']",LW,€750k,Stade Reims,APOEL Nicosia,?,23/24
+Valon Berisha,30,"['Kosovo', 'Norway']",LM,€1.80m,Stade Reims,Without Club,-,23/24
+Nicolas Penneteau,42,['France'],GK,€100k,Stade Reims,Retired,-,23/24
+Akor Adams,23,['Nigeria'],CF,€4.00m,Lillestrøm SK,Montpellier HSC,€4.50m,23/24
+Modibo Sagnan,24,"['Mali', 'France']",CB,€2.50m,FC Utrecht,Montpellier HSC,€3.20m,23/24
+Falaye Sacko,28,['Mali'],RB,€4.00m,Vitória Guimarães SC,Montpellier HSC,€1.30m,23/24
+Belmin Dizdarevic,21,['Bosnia-Herzegovina'],GK,€200k,FK Sarajevo,Montpellier HSC,€150k,23/24
+Mousa Tamari,26,['Jordan'],RW,€2.50m,Oud-Heverlee Leuven,Montpellier HSC,free transfer,23/24
+Becir Omeragic,21,"['Switzerland', 'Bosnia-Herzegovina']",CB,€3.00m,FC Zürich,Montpellier HSC,free transfer,23/24
+Tanguy Coulibaly,22,"['France', ""Cote d'Ivoire""]",RW,€2.00m,Without Club,Montpellier HSC,-,23/24
+Stephy Mavididi,25,"['England', 'DR Congo']",LW,€6.00m,Montpellier HSC,Leicester City,€7.50m,23/24
+Béni Makouana,20,['Congo'],LW,€600k,Montpellier HSC,Polissya Zhytomyr,€250k,23/24
+Bingourou Kamara,26,"['Senegal', 'France']",GK,€800k,Montpellier HSC,Pau FC,free transfer,23/24
+Valère Germain,33,['France'],CF,€1.50m,Montpellier HSC,Macarthur FC,free transfer,23/24
+Thibault Tamas,22,"['France', 'Guadeloupe']",LB,€150k,Montpellier HSC,Stade Briochin,free transfer,23/24
+Pedro Mendes,32,['Portugal'],CB,€1.80m,Montpellier HSC,CF Estrela Amadora,free transfer,23/24
+Yanis Guermouche,22,"['Algeria', 'France']",CF,€150k,Montpellier HSC,POT Iraklis Thessaloniki,free transfer,23/24
+Mamadou Sakho,33,"['France', 'Senegal']",CB,€1.50m,Montpellier HSC,Without Club,-,23/24
+Mathías Suárez,27,['Uruguay'],RB,€300k,Montpellier HSC,Without Club,-,23/24
+Aron Dønnum,25,['Norway'],LM,€3.00m,Standard Liège,FC Toulouse,€4.50m,23/24
+Ibrahim Cissoko,20,"['Netherlands', 'Guinea']",LW,€2.50m,NEC Nijmegen,FC Toulouse,€3.00m,23/24
+Shavy Babicka,23,['Gabon'],RW,€1.00m,Aris Limassol,FC Toulouse,€2.75m,23/24
+Yann Gboho,22,"['France', ""Cote d'Ivoire""]",LW,€2.50m,Cercle Brugge,FC Toulouse,€2.50m,23/24
+Niklas Schmidt,25,['Germany'],CM,€2.50m,SV Werder Bremen,FC Toulouse,€2.50m,23/24
+Frank Magri,23,"['Cameroon', 'France']",CF,€1.00m,SC Bastia,FC Toulouse,€2.00m,23/24
+Cristian Cásseres Jr.,23,['Venezuela'],CM,€3.50m,New York Red Bulls,FC Toulouse,€1.00m,23/24
+César Gelabert,22,['Spain'],AM,€700k,CD Mirandés,FC Toulouse,free transfer,23/24
+Álex Domínguez,24,['Spain'],GK,€300k,UD Las Palmas,FC Toulouse,?,23/24
+Farès Chaïbi,20,"['Algeria', 'France']",AM,€10.00m,FC Toulouse,Eintracht Frankfurt,€10.00m,23/24
+Rafael Ratão,27,['Brazil'],LW,€2.50m,FC Toulouse,Esporte Clube Bahia,€2.50m,23/24
+Ado Onaiwu,27,['Japan'],CF,€1.50m,FC Toulouse,AJ Auxerre,€700k,23/24
+Brecht Dejaegere,32,['Belgium'],CM,€1.80m,FC Toulouse,Charlotte FC,free transfer,23/24
+Maxime Dupé,30,['France'],GK,€2.50m,FC Toulouse,RSC Anderlecht,free transfer,23/24
+Sam Sanna,24,"['France', 'Italy']",DM,€500k,FC Toulouse,Stade Lavallois,free transfer,23/24
+Rhys Healey,28,['England'],CF,€2.50m,FC Toulouse,Watford FC,free transfer,23/24
+Tom Rapnouil,22,"['Martinique', 'France']",LB,€300k,FC Toulouse,CSKA 1948,free transfer,23/24
+Branco van den Boomen,27,['Netherlands'],CM,€12.00m,FC Toulouse,Ajax Amsterdam,free transfer,23/24
+Mahdi Camara,25,"['France', 'The Gambia']",CM,€3.00m,AS Saint-Étienne,Stade Brestois 29,€3.00m,23/24
+Adrien Lebeau,24,['France'],AM,€250k,SV Waldhof Mannheim,Stade Brestois 29,free transfer,23/24
+Yan Marillat,29,['France'],GK,€200k,Without Club,Stade Brestois 29,-,23/24
+Luck Zogbé,18,"[""Cote d'Ivoire""]",RB,-,Without Club,Stade Brestois 29,-,23/24
+Franck Honorat,26,['France'],RW,€10.00m,Stade Brestois 29,Borussia Mönchengladbach,€8.00m,23/24
+Jere Uronen,29,['Finland'],LB,€1.00m,Stade Brestois 29,Charlotte FC,€600k,23/24
+Haris Belkebla,29,"['Algeria', 'France']",CM,€3.00m,Stade Brestois 29,Ohod Club,free transfer,23/24
+Noah Fadiga,23,"['Senegal', 'Belgium']",RB,€1.20m,Stade Brestois 29,KAA Gent,free transfer,23/24
+Jean-Kévin Duverne,26,"['Haiti', 'France']",CB,€4.00m,Stade Brestois 29,FC Nantes,free transfer,23/24
+Christophe Hérelle,31,"['Martinique', 'France']",CB,€2.00m,Stade Brestois 29,FC Metz,?,23/24
+Loïc Rémy,36,"['France', 'Martinique']",CF,€150k,Stade Brestois 29,Without Club,-,23/24
+Abakar Sylla,20,"[""Cote d'Ivoire""]",CB,€8.00m,Club Brugge KV,RC Strasbourg Alsace,€20.00m,23/24
+Emmanuel Emegha,20,"['Netherlands', 'Nigeria']",CF,€8.00m,SK Sturm Graz,RC Strasbourg Alsace,€13.00m,23/24
+Dilane Bakwa,20,"['France', 'DR Congo']",RW,€4.00m,FC Girondins Bordeaux,RC Strasbourg Alsace,€10.00m,23/24
+Junior Mwanga,20,"['France', 'DR Congo']",DM,€4.00m,FC Girondins Bordeaux,RC Strasbourg Alsace,€10.00m,23/24
+Milos Lukovic,18,['Serbia'],CF,€5.00m,FK IMT Belgrad,RC Strasbourg Alsace,€4.70m,23/24
+Saïdou Sow,21,"['Guinea', 'France']",CB,€3.50m,AS Saint-Étienne,RC Strasbourg Alsace,€3.00m,23/24
+Jessy Deminguet,25,['France'],CM,€2.00m,SM Caen,RC Strasbourg Alsace,free transfer,23/24
+Matthieu Dreyer,34,['France'],GK,€200k,AS Saint-Étienne,RC Strasbourg Alsace,?,23/24
+Steven Baseya,18,"['France', 'DR Congo']",CB,€50k,AS Nancy-Lorraine B,RC Strasbourg Alsace,?,23/24
+Habib Diallo,28,"['Senegal', 'France']",CF,€18.00m,RC Strasbourg Alsace,Al-Shabab FC,€18.00m,23/24
+Jean-Ricner Bellegarde,25,"['Haiti', 'France']",CM,€10.00m,RC Strasbourg Alsace,Wolverhampton Wanderers,€15.00m,23/24
+Matz Sels,31,['Belgium'],GK,€7.00m,RC Strasbourg Alsace,Nottingham Forest,€6.50m,23/24
+Gerzino Nyamsi,27,"['France', 'Cameroon']",CB,€5.00m,RC Strasbourg Alsace,Lokomotiv Moscow,€3.50m,23/24
+Maxime Bastian,22,['France'],LB,€1.00m,RC Strasbourg Alsace,FC Sochaux-Montbéliard,free transfer,23/24
+Mehdi Chahiri,27,"['France', 'Morocco']",LW,€700k,RC Strasbourg Alsace,Pau FC,free transfer,23/24
+Alexander Djiku,28,"['Ghana', 'France']",CB,€8.00m,RC Strasbourg Alsace,Fenerbahce,free transfer,23/24
+Dimitri Liénard,35,['France'],CM,€500k,RC Strasbourg Alsace,SC Bastia,free transfer,23/24
+Marvin Elimbi,20,"['France', 'Cameroon']",CB,€300k,RC Strasbourg Alsace,SC União Torreense,?,23/24
+Eiji Kawashima,40,['Japan'],GK,€150k,RC Strasbourg Alsace,Without Club,-,23/24
+Maxime Le Marchand,33,['France'],CB,€1.00m,RC Strasbourg Alsace,Retired,-,23/24
+Sanjin Prcic,30,"['Bosnia-Herzegovina', 'France']",CM,-,RC Strasbourg Alsace,Without Club,-,23/24
+Douglas Augusto,26,['Brazil'],CM,€4.50m,PAOK Thessaloniki,FC Nantes,€6.80m,23/24
+Mostafa Mohamed,25,['Egypt'],CF,€6.00m,Galatasaray,FC Nantes,€5.75m,23/24
+Adson,22,['Brazil'],RW,€6.00m,Sport Club Corinthians Paulista,FC Nantes,€5.00m,23/24
+Kelvin Amian,25,"['France', ""Cote d'Ivoire""]",RB,€2.20m,Spezia Calcio,FC Nantes,€3.00m,23/24
+Lamine Diack,23,['Senegal'],DM,€1.50m,MKE Ankaragücü,FC Nantes,€2.00m,23/24
+Ronaël Pierre-Gabriel,25,"['France', 'Martinique']",RB,€3.50m,1.FSV Mainz 05,FC Nantes,free transfer,23/24
+Hugo Barbet,21,['France'],GK,€250k,EA Guingamp,FC Nantes,free transfer,23/24
+Adson,23,['Brazil'],RW,€5.00m,FC Nantes,Clube de Regatas Vasco da Gama,€5.00m,23/24
+Andrei Girotto,31,"['Brazil', 'Italy']",CB,€4.00m,FC Nantes,Al-Taawoun FC,€4.00m,23/24
+Andy Delort,31,"['Algeria', 'France']",CF,€7.00m,FC Nantes,Umm Salal SC,€2.50m,23/24
+Jaouen Hadjam,20,"['Algeria', 'France']",LB,€1.50m,FC Nantes,BSC Young Boys,€1.30m,23/24
+Ronaël Pierre-Gabriel,25,"['France', 'Martinique']",RB,€3.50m,FC Nantes,GNK Dinamo Zagreb,free transfer,23/24
+Gor Manvelyan,21,"['Armenia', 'France']",AM,€400k,FC Nantes,FC Noah Yerevan,free transfer,23/24
+Charles Traoré,31,"['Mali', 'France']",LB,€600k,FC Nantes,SC Bastia,free transfer,23/24
+Bridge Ndilu,23,"['France', 'DR Congo']",CF,€250k,FC Nantes,Swift Hesperange,free transfer,23/24
+Sébastien Corchia,32,"['France', 'Italy']",RB,€1.00m,FC Nantes,Amiens SC,free transfer,23/24
+Samuel Yépié Yépié,20,"['France', ""Cote d'Ivoire""]",AM,€150k,FC Nantes,Adanaspor,free transfer,23/24
+Rassoul Ndiaye,21,"['Senegal', 'France']",DM,€4.00m,FC Sochaux-Montbéliard,Le Havre AC,€1.50m,23/24
+Emmanuel Sabbi,25,"['United States', 'Ghana']",RW,€600k,Odense Boldklub,Le Havre AC,€1.00m,23/24
+Issa Soumaré,22,"['Senegal', 'Mauritania']",LW,€1.00m,Beerschot VA,Le Havre AC,€400k,23/24
+Abdoulaye Touré,29,"['Guinea', 'France']",DM,€1.30m,Genoa CFC,Le Havre AC,free transfer,23/24
+Yoann Salmier,30,"['French Guiana', 'France']",CB,€2.00m,ESTAC Troyes,Le Havre AC,free transfer,23/24
+Kandet Diawara,23,"['Guinea', 'France']",LW,€250k,APOEL Nicosia,Le Havre AC,free transfer,23/24
+Daler Kuzyaev,30,['Russia'],CM,€10.00m,Zenit St. Petersburg,Le Havre AC,free transfer,23/24
+Loïc Nego,32,"['Hungary', 'France']",RB,€1.00m,Videoton FC Fehérvár,Le Havre AC,free transfer,23/24
+Cheick Doumbia,18,"['Mali', 'France']",LB,-,FC Lorient B,Le Havre AC,?,23/24
+André Ayew,33,"['Ghana', 'France']",CF,€1.20m,Without Club,Le Havre AC,-,23/24
+Pape Ibnou Ba,31,"['Mauritania', 'Senegal']",CF,€400k,Le Havre AC,US Concarneau,free transfer,23/24
+Victor Lekhal,29,"['Algeria', 'France']",DM,€2.50m,Le Havre AC,Umm Salal SC,free transfer,23/24
+Nolan Mbemba,28,"['Congo', 'France']",DM,€400k,Le Havre AC,Grenoble Foot 38,free transfer,23/24
+Quentin Cornette,29,['France'],RW,€1.00m,Le Havre AC,Volos NPS,free transfer,23/24
+Jamal Thiaré,30,['Senegal'],CF,€600k,Le Havre AC,Atlanta United FC,free transfer,23/24
+Ylan Gomes,20,"['France', 'Guinea-Bissau']",LW,€250k,Le Havre AC,FC Martigues,free transfer,23/24
+Elies Mahmoud,22,"['France', 'Algeria']",RW,€800k,Le Havre AC,FC Stade-Lausanne-Ouchy,?,23/24
+Abdelwahed Wahib,23,['Morocco'],LB,€400k,Le Havre AC,US Concarneau,?,23/24
+Salifou Soumah,19,['Guinea'],RW,€100k,Le Havre AC,Zira FC,?,23/24
+Nabil Alioui,24,"['Morocco', 'France']",AM,€4.00m,Le Havre AC,Adana Demirspor,?,23/24
+Aristide Wam,21,['Cameroon'],DM,€50k,Le Havre AC,Without Club,-,23/24
+Kevin Van Den Kerkhof,27,"['Algeria', 'France']",RB,€2.00m,SC Bastia,FC Metz,€2.50m,23/24
+Benjamin Tetteh,26,['Ghana'],CF,€1.50m,Hull City,FC Metz,€1.80m,23/24
+Joel Asoro,24,"['Sweden', 'Nigeria']",RW,€1.50m,Djurgårdens IF,FC Metz,€1.20m,23/24
+Simon Elisor,23,"['France', 'Guadeloupe']",CF,€800k,RFC Seraing,FC Metz,€400k,23/24
+Maxime Colin,31,['France'],RB,€1.20m,Birmingham City,FC Metz,free transfer,23/24
+Ibou Sané,18,['Senegal'],CF,-,AS Académie Génération Foot,FC Metz,?,23/24
+Sadibou Sané,19,['Senegal'],CB,-,AS Académie Génération Foot,FC Metz,?,23/24
+Georges Mikautadze,22,"['Georgia', 'France']",CF,€10.00m,FC Metz,Ajax Amsterdam,€16.00m,23/24
+Boubacar Traoré,21,['Mali'],DM,€5.00m,FC Metz,Wolverhampton Wanderers,€11.00m,23/24
+Youssef Maziz,25,"['France', 'Morocco']",AM,€1.50m,FC Metz,Oud-Heverlee Leuven,€1.50m,23/24
+Jean N'Guessan,20,"[""Cote d'Ivoire""]",CM,€1.00m,FC Metz,Al-Wasl FC,€600k,23/24
+Ibrahima Niane,24,"['Senegal', 'France']",CF,€3.00m,FC Metz,Angers SCO,€500k,23/24
+Habib Maïga,28,"[""Cote d'Ivoire""]",DM,€2.00m,FC Metz,Ferencvárosi TC,€400k,23/24
+Lenny Joseph,22,"['France', 'Haiti']",CF,€400k,FC Metz,Grenoble Foot 38,?,23/24
+Lamine Gueye,25,['Senegal'],RW,€1.00m,FC Metz,Paris FC,?,23/24
+Vágner Dias,29,"['Cape Verde', 'Portugal']",LW,€650k,FC Metz,Without Club,-,23/24

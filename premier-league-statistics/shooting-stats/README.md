@@ -1,4 +1,4 @@
-# Premier League Statistics
+# Premier League Shooting Statistics
 
 This folder contains Premier League Shooting Statistics scraped from FBREF.
 

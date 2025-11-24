@@ -1,0 +1,273 @@
+player_name,player_age,player_nationality,player_position,market_value,from_club,to_club,transfer_fee,transfer_season
+Julián Alvarez,24,"['Argentina', 'Italy']",CF,€90.00m,Manchester City,Atlético de Madrid,€75.00m,24/25
+Conor Gallagher,24,['England'],CM,€50.00m,Chelsea FC,Atlético de Madrid,€42.00m,24/25
+Robin Le Normand,27,"['Spain', 'France']",CB,€40.00m,Real Sociedad,Atlético de Madrid,€34.50m,24/25
+Alexander Sørloth,28,['Norway'],CF,€25.00m,Villarreal CF,Atlético de Madrid,€32.00m,24/25
+João Félix,24,['Portugal'],SS,€30.00m,Atlético de Madrid,Chelsea FC,€52.00m,24/25
+Samu Aghehowa,20,"['Spain', 'Nigeria']",CF,€35.00m,Atlético de Madrid,FC Porto,€32.00m,24/25
+Álvaro Morata,31,['Spain'],CF,€16.00m,Atlético de Madrid,AC Milan,€17.20m,24/25
+Çağlar Söyüncü,28,['Türkiye'],CB,€10.00m,Atlético de Madrid,Fenerbahce,€8.50m,24/25
+Santiago Mouriño,22,"['Uruguay', 'Spain']",RB,€1.20m,Atlético de Madrid,Deportivo Alavés,€2.00m,24/25
+Germán Valera,22,"['Spain', 'Lithuania']",RW,€2.00m,Atlético de Madrid,Valencia CF,€25k,24/25
+Gabriel Paulista,33,"['Brazil', 'Spain']",CB,€2.00m,Atlético de Madrid,Besiktas JK,free transfer,24/25
+Stefan Savic,33,"['Montenegro', 'Serbia']",CB,€2.50m,Atlético de Madrid,Trabzonspor,free transfer,24/25
+Marcos Paulo,23,"['Portugal', 'Brazil']",LW,€500k,Atlético de Madrid,Boavista SC,free transfer,24/25
+Vitolo,34,['Spain'],LW,€100k,Atlético de Madrid,Without Club,-,24/25
+Memphis Depay,30,"['Netherlands', 'Ghana']",CF,€10.00m,Atlético de Madrid,Without Club,-,24/25
+Mario Hermoso,29,['Spain'],CB,€25.00m,Atlético de Madrid,Without Club,-,24/25
+Dani Olmo,26,['Spain'],AM,€60.00m,RB Leipzig,FC Barcelona,€55.00m,24/25
+Pau Víctor,22,['Spain'],CF,€1.50m,Girona FC,FC Barcelona,€5.50m,24/25
+Wojciech Szczesny,34,['Poland'],GK,€6.00m,Career break,FC Barcelona,-,24/25
+Vitor Roque,20,['Brazil'],CF,€20.00m,FC Barcelona,Sociedade Esportiva Palmeiras,€25.50m,24/25
+Mikayil Faye,20,['Senegal'],CB,€10.00m,FC Barcelona,Stade Rennais FC,€10.30m,24/25
+Julián Araujo,23,"['Mexico', 'United States']",RB,€8.00m,FC Barcelona,AFC Bournemouth,€10.00m,24/25
+Chadi Riad,21,"['Morocco', 'Spain']",CB,€15.00m,FC Barcelona,Real Betis Balompié,€9.00m,24/25
+Marc Guiu,18,['Spain'],CF,€7.50m,FC Barcelona,Chelsea FC,€6.00m,24/25
+Estanis Pedrola,20,['Spain'],LW,€2.00m,FC Barcelona,UC Sampdoria,€3.00m,24/25
+Sergiño Dest,23,"['United States', 'Netherlands']",RB,€22.00m,FC Barcelona,PSV Eindhoven,free transfer,24/25
+Sergi Roberto,32,['Spain'],CM,€2.50m,FC Barcelona,Como 1907,free transfer,24/25
+İlkay Gündoğan,33,['Germany'],CM,€15.00m,FC Barcelona,Manchester City,free transfer,24/25
+Marcos Alonso,33,['Spain'],CB,€2.00m,FC Barcelona,Celta de Vigo,free transfer,24/25
+Endrick,18,['Brazil'],CF,€60.00m,Sociedade Esportiva Palmeiras,Real Madrid,€47.50m,24/25
+Joselu,34,"['Spain', 'Germany']",CF,€5.00m,RCD Espanyol Barcelona,Real Madrid,€1.50m,24/25
+Kylian Mbappé,25,"['France', 'Cameroon']",CF,€180.00m,Paris Saint-Germain,Real Madrid,free transfer,24/25
+Rafa Marín,22,['Spain'],CB,€7.50m,Real Madrid,SSC Napoli,€12.00m,24/25
+Juanmi Latasa,23,['Spain'],CF,€2.80m,Real Madrid,Real Valladolid CF,€2.50m,24/25
+Joselu,34,"['Spain', 'Germany']",CF,€5.00m,Real Madrid,Al-Gharafa SC,€1.50m,24/25
+Nacho Fernández,34,['Spain'],CB,€3.00m,Real Madrid,Al-Qadsiah FC,free transfer,24/25
+Toni Kroos,34,['Germany'],CM,€10.00m,Real Madrid,Retired,-,24/25
+Cucho Hernández,25,"['Colombia', 'Spain']",CF,€18.00m,Columbus Crew,Real Betis Balompié,€13.00m,24/25
+Giovani Lo Celso,28,"['Argentina', 'Italy']",AM,€16.00m,Tottenham Hotspur,Real Betis Balompié,€5.00m,24/25
+Marc Roca,27,['Spain'],DM,€9.00m,Leeds United,Real Betis Balompié,€4.50m,24/25
+Romain Perraud,26,['France'],LB,€5.00m,Southampton FC,Real Betis Balompié,€3.50m,24/25
+Diego Llorente,30,['Spain'],CB,€7.00m,Leeds United,Real Betis Balompié,€3.25m,24/25
+Iker Losada,22,['Spain'],SS,€1.80m,Racing Ferrol,Real Betis Balompié,€1.80m,24/25
+Adrián,37,['Spain'],GK,€600k,Liverpool FC,Real Betis Balompié,free transfer,24/25
+Ricardo Rodríguez,31,"['Switzerland', 'Chile']",LB,€3.50m,Torino FC,Real Betis Balompié,free transfer,24/25
+Chadi Riad,21,"['Morocco', 'Spain']",CB,€15.00m,Real Betis Balompié,Crystal Palace,€15.00m,24/25
+Assane Diao,19,"['Senegal', 'Spain']",LW,€9.00m,Real Betis Balompié,Como 1907,€12.00m,24/25
+Abner,24,['Brazil'],LB,€7.00m,Real Betis Balompié,Olympique Lyon,€8.00m,24/25
+Rodri Sánchez,24,['Spain'],RW,€3.00m,Real Betis Balompié,Al-Arabi SC,€8.00m,24/25
+Nabil Fekir,31,"['France', 'Algeria']",AM,€10.00m,Real Betis Balompié,Al-Jazira Club,€5.00m,24/25
+Germán Pezzella,33,"['Argentina', 'Italy']",CB,€3.00m,Real Betis Balompié,CA River Plate,€4.50m,24/25
+Ayoze Pérez,31,['Spain'],CF,€7.00m,Real Betis Balompié,Villarreal CF,€4.00m,24/25
+Willian José,32,"['Brazil', 'Spain']",CF,€5.00m,Real Betis Balompié,Spartak Moscow,€2.00m,24/25
+Rober González,23,['Spain'],RW,€2.50m,Real Betis Balompié,NEC Nijmegen,€1.20m,24/25
+Juan Cruz,24,"['Spain', 'Argentina']",LW,€1.50m,Real Betis Balompié,CD Leganés,€1.00m,24/25
+Guido Rodríguez,30,"['Argentina', 'Italy']",DM,€20.00m,Real Betis Balompié,West Ham United,free transfer,24/25
+Juan Miranda,24,['Spain'],LB,€9.00m,Real Betis Balompié,Bologna FC 1909,free transfer,24/25
+Claudio Bravo,41,"['Chile', 'Spain']",GK,€800k,Real Betis Balompié,Retired,-,24/25
+Sokratis,36,['Greece'],CB,€700k,Real Betis Balompié,Retired,-,24/25
+Lucien Agoumé,22,"['France', 'Cameroon']",DM,€6.00m,Inter Milan,Sevilla FC,€8.00m,24/25
+Akor Adams,24,['Nigeria'],CF,€9.00m,Montpellier HSC,Sevilla FC,€5.50m,24/25
+Peque Fernández,21,['Spain'],SS,€3.00m,Racing Santander,Sevilla FC,€4.00m,24/25
+Rubén Vargas,26,"['Switzerland', 'Dominican Republic']",LW,€7.00m,FC Augsburg,Sevilla FC,€2.50m,24/25
+Chidera Ejuke,26,['Nigeria'],LW,€6.00m,CSKA Moscow,Sevilla FC,free transfer,24/25
+Álvaro Fernández,26,['Spain'],GK,€2.50m,SD Huesca,Sevilla FC,free transfer,24/25
+Kelechi Iheanacho,27,['Nigeria'],CF,€12.00m,Leicester City,Sevilla FC,free transfer,24/25
+Youssef En-Nesyri,27,['Morocco'],CF,€20.00m,Sevilla FC,Fenerbahce,€19.50m,24/25
+Lucas Ocampos,30,"['Argentina', 'Spain']",LW,€9.00m,Sevilla FC,CF Monterrey,€7.25m,24/25
+Gonzalo Montiel,28,"['Argentina', 'Spain']",RB,€5.00m,Sevilla FC,CA River Plate,€4.50m,24/25
+Marcos Acuña,32,['Argentina'],LB,€4.00m,Sevilla FC,CA River Plate,€1.00m,24/25
+Luismi Cruz,23,['Spain'],RW,€800k,Sevilla FC,CD Tenerife,€600k,24/25
+Pedro Ortiz,24,['Spain'],CM,€300k,Sevilla FC,Córdoba CF,free transfer,24/25
+Óscar Rodríguez,26,['Spain'],AM,€2.50m,Sevilla FC,CD Leganés,free transfer,24/25
+Marko Dmitrovic,32,['Serbia'],GK,€900k,Sevilla FC,CD Leganés,free transfer,24/25
+Ludwig Augustinsson,30,['Sweden'],LB,€4.00m,Sevilla FC,RSC Anderlecht,free transfer,24/25
+Thomas Delaney,32,"['Denmark', 'United States']",CM,€2.50m,Sevilla FC,FC Copenhagen,free transfer,24/25
+Óliver Torres,29,['Spain'],CM,€6.00m,Sevilla FC,CF Monterrey,free transfer,24/25
+Erik Lamela,32,"['Argentina', 'Spain']",RW,€2.00m,Sevilla FC,AEK Athens,free transfer,24/25
+Mariano Díaz,30,"['Dominican Republic', 'Spain']",CF,€1.50m,Sevilla FC,Without Club,-,24/25
+Sergio Ramos,38,['Spain'],CB,€2.50m,Sevilla FC,Without Club,-,24/25
+Jesús Navas,39,['Spain'],RB,€2.50m,Sevilla FC,Retired,-,24/25
+Enzo Boyomo,22,"['Cameroon', 'France']",CB,€3.00m,Real Valladolid CF,CA Osasuna,€5.00m,24/25
+Abel Bretones,23,['Spain'],LB,€1.80m,Real Oviedo,CA Osasuna,€2.80m,24/25
+David García,30,['Spain'],CB,€10.00m,CA Osasuna,Al-Rayyan SC,€8.75m,24/25
+Nacho Vidal,29,['Spain'],RB,€1.50m,CA Osasuna,Real Oviedo,€200k,24/25
+Javi Martínez,25,['Spain'],AM,€1.00m,CA Osasuna,SD Eibar,free transfer,24/25
+Orri Óskarsson,20,['Iceland'],CF,€5.00m,FC Copenhagen,Real Sociedad,€20.00m,24/25
+Luka Sucic,21,['Croatia'],CM,€15.00m,Red Bull Salzburg,Real Sociedad,€10.00m,24/25
+Sergio Gómez,23,['Spain'],LB,€10.00m,Manchester City,Real Sociedad,€8.70m,24/25
+Javi López,22,['Spain'],LB,€7.50m,Deportivo Alavés,Real Sociedad,€6.50m,24/25
+Mikel Merino,28,['Spain'],CM,€50.00m,Real Sociedad,Arsenal FC,€32.00m,24/25
+Diego Rico,31,['Spain'],LB,€1.50m,Real Sociedad,Getafe CF,€1.50m,24/25
+Álex Sola,25,['Spain'],RW,€4.00m,Real Sociedad,Getafe CF,€1.00m,24/25
+Robert Navarro,22,['Spain'],RW,€6.00m,Real Sociedad,RCD Mallorca,€850k,24/25
+Roberto López,24,['Spain'],AM,€2.50m,Real Sociedad,CD Leganés,free transfer,24/25
+Martín Merquelanz,29,['Spain'],LW,€600k,Real Sociedad,SD Eibar,free transfer,24/25
+Álvaro Djaló,24,"['Guinea-Bissau', 'Spain']",LW,€15.00m,SC Braga,Athletic Bilbao,€15.00m,24/25
+Maroan Sannadi,24,"['Morocco', 'Spain']",CF,€400k,Deportivo Alavés,Athletic Bilbao,€3.00m,24/25
+Andoni Gorosabel,27,['Spain'],RB,€5.00m,Deportivo Alavés,Athletic Bilbao,free transfer,24/25
+Unai Núñez,27,['Spain'],CB,€7.00m,Athletic Bilbao,Celta de Vigo,€7.00m,24/25
+Asier Villalibre,26,['Spain'],CF,€2.50m,Athletic Bilbao,Deportivo Alavés,€1.00m,24/25
+Imanol García de Albéniz,24,['Spain'],LB,€1.20m,Athletic Bilbao,AC Sparta Prague,€500k,24/25
+Ander Herrera,35,['Spain'],CM,€1.50m,Athletic Bilbao,CA Boca Juniors,€400k,24/25
+Jon Morcillo,25,['Spain'],LW,€1.00m,Athletic Bilbao,Albacete Balompié,free transfer,24/25
+Dani García,34,['Spain'],DM,€1.80m,Athletic Bilbao,Olympiacos Piraeus,free transfer,24/25
+Juan Artola,24,['Spain'],RW,€400k,Athletic Bilbao,Cultural Leonesa,free transfer,24/25
+Iker Muniain,31,['Spain'],LW,€5.00m,Athletic Bilbao,CA San Lorenzo de Almagro,free transfer,24/25
+Raúl García,37,['Spain'],AM,€1.50m,Athletic Bilbao,Retired,-,24/25
+Tomás Conechny,26,"['Argentina', 'Poland']",LW,€4.50m,CD Godoy Cruz Antonio Tomba,Deportivo Alavés,€3.50m,24/25
+Toni Martínez,27,['Spain'],CF,€5.00m,FC Porto,Deportivo Alavés,€2.00m,24/25
+Hugo Novoa,21,['Spain'],RB,€2.50m,RB Leipzig,Deportivo Alavés,€1.50m,24/25
+Stoichkov,30,['Spain'],SS,€4.00m,SD Eibar,Deportivo Alavés,€1.00m,24/25
+Moussa Diarra,23,"['Mali', 'France']",CB,€2.00m,FC Toulouse,Deportivo Alavés,free transfer,24/25
+Facundo Garcés,25,"['Malaysia', 'Argentina']",CB,€1.20m,CA Colón,Deportivo Alavés,free transfer,24/25
+Rubén Duarte,28,['Spain'],CB,€3.00m,Deportivo Alavés,UNAM Pumas,€4.00m,24/25
+Stoichkov,31,['Spain'],SS,€2.50m,Deportivo Alavés,Granada CF,€2.50m,24/25
+Miguel de la Fuente,24,['Spain'],CF,€2.50m,Deportivo Alavés,CD Leganés,€2.00m,24/25
+Luis Rioja,30,['Spain'],LW,€4.00m,Deportivo Alavés,Valencia CF,€1.20m,24/25
+Abdallahi Mahmoud,24,['Mauritania'],AM,€400k,Deportivo Alavés,Al-Arabi SC (Kuwait),€90k,24/25
+Álex Balboa,23,"['Equatorial Guinea', 'Spain']",CM,€200k,Deportivo Alavés,Almere City FC,free transfer,24/25
+Alan Godoy,21,['Spain'],CF,€250k,Deportivo Alavés,CD Eldense,free transfer,24/25
+Xeber Alkain,27,['Spain'],RW,€1.50m,Deportivo Alavés,SD Eibar,free transfer,24/25
+Jones El-Abdellaoui,18,"['Morocco', 'Norway']",RW,€2.30m,Vålerenga Fotball Elite,Celta de Vigo,€4.20m,24/25
+Anastasios Douvikas,25,['Greece'],CF,€5.00m,Celta de Vigo,Como 1907,€14.00m,24/25
+Jonathan Bamba,28,"[""Cote d'Ivoire"", 'France']",LW,€4.00m,Celta de Vigo,Chicago Fire FC,€3.50m,24/25
+Lautaro de León,23,"['Uruguay', 'Spain']",CF,€300k,Celta de Vigo,FC Andorra,free transfer,24/25
+José Fontán,24,['Spain'],CB,€1.00m,Celta de Vigo,FC Arouca,free transfer,24/25
+Miguel Baeza,24,['Spain'],AM,€400k,Celta de Vigo,CD Nacional,free transfer,24/25
+Julen Lobete,23,['Spain'],LW,€1.50m,Celta de Vigo,Málaga CF,free transfer,24/25
+Renato Tapia,29,"['Peru', 'Spain']",DM,€5.00m,Celta de Vigo,CD Leganés,free transfer,24/25
+Kevin Vázquez,31,['Spain'],RB,€800k,Celta de Vigo,Sporting Gijón,free transfer,24/25
+Gonçalo Paciência,30,['Portugal'],CF,€1.50m,Celta de Vigo,Sanfrecce Hiroshima,free transfer,24/25
+Stole Dimitrievski,30,"['North Macedonia', 'Spain']",GK,€4.00m,Rayo Vallecano,Valencia CF,free transfer,24/25
+Giorgi Mamardashvili,23,['Georgia'],GK,€45.00m,Valencia CF,Liverpool FC,€30.00m,24/25
+Samu Castillejo,29,['Spain'],RW,€600k,Valencia CF,Without Club,-,24/25
+Thierno Barry,21,"['France', 'Guinea']",CF,€4.00m,FC Basel 1893,Villarreal CF,€20.00m,24/25
+Logan Costa,23,"['Cape Verde', 'France']",CB,€12.00m,FC Toulouse,Villarreal CF,€18.00m,24/25
+Luiz Júnior,23,"['Brazil', 'Portugal']",GK,€6.00m,FC Famalicão,Villarreal CF,€12.00m,24/25
+Willy Kambwala,19,"['France', 'DR Congo']",CB,€5.00m,Manchester United,Villarreal CF,€10.00m,24/25
+Diego Conde,25,['Spain'],GK,€2.00m,CD Leganés,Villarreal CF,€4.00m,24/25
+Juan Bernat,31,['Spain'],LB,€2.50m,Paris Saint-Germain,Villarreal CF,free transfer,24/25
+Nicolas Pépé,29,"[""Cote d'Ivoire"", 'France']",RW,€8.50m,Trabzonspor,Villarreal CF,free transfer,24/25
+Sergi Cardona,25,['Spain'],LB,€6.00m,UD Las Palmas,Villarreal CF,free transfer,24/25
+Pape Gueye,25,"['Senegal', 'France']",DM,€6.00m,Olympique Marseille,Villarreal CF,free transfer,24/25
+Filip Jørgensen,22,"['Denmark', 'Sweden']",GK,€20.00m,Villarreal CF,Chelsea FC,€24.50m,24/25
+Ben Brereton Díaz,25,"['Chile', 'England']",CF,€8.00m,Villarreal CF,Southampton FC,€8.30m,24/25
+Jorge Cuenca,24,['Spain'],CB,€6.00m,Villarreal CF,Fulham FC,€6.70m,24/25
+Haissem Hassan,22,"['France', 'Egypt']",RW,€2.00m,Villarreal CF,Real Oviedo,€1.50m,24/25
+Johan Mojica,31,"['Colombia', 'Spain']",LB,€2.20m,Villarreal CF,RCD Mallorca,€1.50m,24/25
+Juan Bernat,31,['Spain'],LB,€2.50m,Villarreal CF,Getafe CF,free transfer,24/25
+Manu Trigueros,32,['Spain'],CM,€1.50m,Villarreal CF,Granada CF,free transfer,24/25
+Aïssa Mandi,32,"['Algeria', 'France']",CB,€1.80m,Villarreal CF,LOSC Lille,free transfer,24/25
+Alberto Moreno,32,['Spain'],LB,€1.80m,Villarreal CF,Como 1907,free transfer,24/25
+Pepe Reina,41,['Spain'],GK,€600k,Villarreal CF,Como 1907,free transfer,24/25
+José Luis Morales,36,['Spain'],CF,€1.50m,Villarreal CF,Levante UD,free transfer,24/25
+Bertrand Traoré,28,['Burkina Faso'],RW,€9.00m,Villarreal CF,Ajax Amsterdam,free transfer,24/25
+Francis Coquelin,33,"['France', 'Réunion']",DM,€1.50m,Villarreal CF,Without Club,-,24/25
+Étienne Capoue,35,"['France', 'Guadeloupe']",DM,€1.50m,Villarreal CF,Retired,-,24/25
+Christantus Uche,21,['Nigeria'],CF,€400k,AD Ceuta FC,Getafe CF,€3.00m,24/25
+Juan Berrocal,25,['Spain'],CB,€1.00m,SD Eibar,Getafe CF,€2.20m,24/25
+Peter Federico,21,"['Dominican Republic', 'Spain']",RW,€3.00m,Real Madrid Castilla,Getafe CF,€2.00m,24/25
+Jiri Letacek,25,['Czech Republic'],GK,€600k,FC Banik Ostrava,Getafe CF,€2.00m,24/25
+Allan Nyom,36,"['Cameroon', 'France']",RB,€500k,Without Club,Getafe CF,-,24/25
+Enes Ünal,27,['Türkiye'],CF,€18.00m,Getafe CF,AFC Bournemouth,€16.50m,24/25
+Gastón Álvarez,24,"['Uruguay', 'Spain']",CB,€15.00m,Getafe CF,Al-Qadsiah FC,€12.00m,24/25
+Choco Lozano,31,"['Honduras', 'Spain']",CF,€1.20m,Getafe CF,Santos Laguna,€2.00m,24/25
+Nabil Aberdin,22,"['Morocco', 'France']",CB,€800k,Getafe CF,FC Sochi,€300k,24/25
+Fabrizio Angileri,30,"['Argentina', 'Italy']",LB,€700k,Getafe CF,Sport Club Corinthians Paulista,free transfer,24/25
+Nemanja Maksimovic,29,['Serbia'],CM,€6.00m,Getafe CF,Panathinaikos FC,free transfer,24/25
+Darío Poveda,27,['Spain'],CF,€500k,Getafe CF,SC Farense,free transfer,24/25
+Sabit Abdulai,25,['Ghana'],DM,€200k,Getafe CF,Botafogo FC,free transfer,24/25
+Jaime Mata,35,['Spain'],CF,€900k,Getafe CF,UD Las Palmas,free transfer,24/25
+Pelayo Fernández,21,['Spain'],CB,€150k,FC Barcelona Atlètic,Rayo Vallecano,free transfer,24/25
+Pedro Díaz,26,['Spain'],CM,€2.50m,FC Girondins Bordeaux,Rayo Vallecano,free transfer,24/25
+James Rodríguez,33,"['Colombia', 'Spain']",AM,€5.00m,São Paulo Futebol Clube,Rayo Vallecano,free transfer,24/25
+Sergi Guardiola,33,['Spain'],CF,€800k,Without Club,Rayo Vallecano,-,24/25
+Andrés Martín,25,['Spain'],RW,€1.20m,Rayo Vallecano,Racing Santander,€2.00m,24/25
+Radamel Falcao,38,"['Colombia', 'Venezuela']",CF,€800k,Rayo Vallecano,Millonarios FC,free transfer,24/25
+Martín Pascual,25,['Spain'],CB,€300k,Rayo Vallecano,Atlético Madrileño,free transfer,24/25
+José Pozo,28,['Spain'],AM,€1.00m,Rayo Vallecano,Karmiotissa Pano Polemidion,free transfer,24/25
+Bebé,34,"['Cape Verde', 'Portugal']",LW,€600k,Rayo Vallecano,Racing Ferrol,free transfer,24/25
+James Rodríguez,33,"['Colombia', 'Spain']",AM,€2.50m,Rayo Vallecano,Club León FC,free transfer,24/25
+Mateu Morey,24,['Spain'],RB,€800k,Borussia Dortmund,RCD Mallorca,free transfer,24/25
+Takuma Asano,29,['Japan'],RW,€4.00m,VfL Bochum,RCD Mallorca,free transfer,24/25
+Predrag Rajković,28,['Serbia'],GK,€10.00m,RCD Mallorca,Al-Ittihad Club,€8.00m,24/25
+Giovanni González,29,"['Uruguay', 'Italy']",RB,€3.00m,RCD Mallorca,FC Krasnodar,€4.00m,24/25
+Amath Ndiaye,27,"['Senegal', 'Spain']",RW,€1.50m,RCD Mallorca,Real Valladolid CF,€2.00m,24/25
+Jaume Costa,36,['Spain'],LB,€900k,RCD Mallorca,Albacete Balompié,free transfer,24/25
+Iddrisu Baba,28,"['Ghana', 'Spain']",CM,€2.20m,RCD Mallorca,UD Almería,free transfer,24/25
+Josep Gayá,24,['Spain'],CB,€300k,RCD Mallorca,CD Tenerife,free transfer,24/25
+Matija Nastasić,31,['Serbia'],CB,€1.50m,RCD Mallorca,CD Leganés,free transfer,24/25
+Marvin Park,23,['Spain'],RB,€2.00m,Real Madrid Castilla,UD Las Palmas,€2.00m,24/25
+Manu Fuster,26,['Spain'],RW,€2.40m,Albacete Balompié,UD Las Palmas,€1.50m,24/25
+Jasper Cillessen,35,['Netherlands'],GK,€1.30m,NEC Nijmegen,UD Las Palmas,€500k,24/25
+Scott McKenna,27,['Scotland'],CB,€9.00m,Nottingham Forest,UD Las Palmas,free transfer,24/25
+Oli McBurnie,28,"['Scotland', 'England']",CF,€4.50m,Sheffield United,UD Las Palmas,free transfer,24/25
+Viti Rozada,26,['Spain'],RB,€1.50m,Real Oviedo,UD Las Palmas,free transfer,24/25
+Iván Cédric,22,"['Cameroon', 'Spain']",CF,€400k,Real Valladolid Promesas,UD Las Palmas,free transfer,24/25
+Álex Muñoz,29,['Spain'],LB,€1.20m,Levante UD,UD Las Palmas,free transfer,24/25
+Iván Gil,24,['Spain'],AM,€1.00m,FC Andorra,UD Las Palmas,free transfer,24/25
+Dinko Horkas,25,"['Croatia', 'Bosnia-Herzegovina']",GK,€1.20m,Lokomotiv Plovdiv,UD Las Palmas,free transfer,24/25
+Saúl Coco,25,"['Equatorial Guinea', 'Spain']",CB,€8.00m,UD Las Palmas,Torino FC,€8.23m,24/25
+Munir El Haddadi,28,"['Morocco', 'Spain']",AM,€2.50m,UD Las Palmas,CD Leganés,free transfer,24/25
+Daley Sinkgraven,29,['Netherlands'],LB,€700k,UD Las Palmas,Fortuna Sittard,free transfer,24/25
+Fabio González,27,['Spain'],CM,€500k,UD Las Palmas,CD Tenerife,free transfer,24/25
+Cristian Herrera,33,['Spain'],CF,€300k,UD Las Palmas,Deportivo de La Coruña,free transfer,24/25
+Nuke Mfulu,30,"['DR Congo', 'France']",DM,€700k,UD Las Palmas,Deportivo de La Coruña,free transfer,24/25
+Álvaro Lemos,31,['Spain'],RB,€700k,UD Las Palmas,Real Oviedo,free transfer,24/25
+Aarón Escandell,28,['Spain'],GK,€1.00m,UD Las Palmas,Real Oviedo,free transfer,24/25
+Eric Curbelo,30,['Spain'],CB,€800k,UD Las Palmas,Sporting Gijón,free transfer,24/25
+Joel del Pino,26,['Spain'],LW,€150k,UD Las Palmas,Without Club,-,24/25
+Álvaro Valles,27,['Spain'],GK,€3.00m,UD Las Palmas,Without Club,-,24/25
+Yáser Asprilla,20,['Colombia'],RW,€9.00m,Watford FC,Girona FC,€18.00m,24/25
+Abel Ruiz,24,['Spain'],CF,€12.00m,SC Braga,Girona FC,€9.00m,24/25
+Ladislav Krejci,25,['Czech Republic'],CB,€10.00m,AC Sparta Prague,Girona FC,€8.00m,24/25
+Bojan Miovski,25,['North Macedonia'],CF,€4.00m,Aberdeen FC,Girona FC,€6.50m,24/25
+Alejandro Francés,21,['Spain'],CB,€4.00m,Real Zaragoza,Girona FC,€3.50m,24/25
+Donny van de Beek,27,['Netherlands'],CM,€5.00m,Manchester United,Girona FC,€500k,24/25
+Gabriel Misehouy,18,"['Netherlands', 'Ghana']",AM,€1.00m,Ajax Amsterdam U21,Girona FC,free transfer,24/25
+Vladyslav Krapyvtsov,19,['Ukraine'],GK,-,Without Club,Girona FC,-,24/25
+Artem Dovbyk,27,['Ukraine'],CF,€35.00m,Girona FC,AS Roma,€30.50m,24/25
+Aleix García,27,['Spain'],CM,€25.00m,Girona FC,Bayer 04 Leverkusen,€18.00m,24/25
+Iker Almena,20,['Spain'],RW,-,Girona FC,Al-Qadsiah FC,€5.00m,24/25
+Álex Sala,23,['Spain'],CM,€300k,Girona FC,Córdoba CF,€500k,24/25
+Alexander Callens,32,"['Peru', 'Spain']",CB,€1.20m,Girona FC,AEK Athens,€300k,24/25
+Arnau Ortiz,22,['Spain'],LW,€400k,Girona FC,Slask Wroclaw,free transfer,24/25
+Gabri Martínez,21,['Spain'],LW,€1.80m,Girona FC,SC Braga,free transfer,24/25
+Óscar Ureña,21,"['Dominican Republic', 'Spain']",LW,€400k,Girona FC,FC Barcelona Atlètic,free transfer,24/25
+Manu Vallejo,27,['Spain'],SS,€1.50m,Girona FC,Racing Ferrol,free transfer,24/25
+Toni Villa,29,['Spain'],LW,€1.50m,Girona FC,SD Eibar,free transfer,24/25
+Borja García,33,['Spain'],AM,€800k,Girona FC,Retired,-,24/25
+Stipe Biuk,21,['Croatia'],LW,€4.00m,Los Angeles FC,Real Valladolid CF,€4.00m,24/25
+Víctor Meseguer,25,['Spain'],CM,€2.20m,Granada CF,Real Valladolid CF,€3.00m,24/25
+Raúl Moro,21,['Spain'],LW,€2.50m,SS Lazio,Real Valladolid CF,€2.50m,24/25
+André Ferreira,28,['Portugal'],GK,€800k,Granada CF,Real Valladolid CF,€1.00m,24/25
+Stanko Juric,27,['Croatia'],DM,€2.20m,Parma Calcio 1913,Real Valladolid CF,€950k,24/25
+Tamás Nikitscher,25,['Hungary'],DM,€900k,Kecskeméti TE,Real Valladolid CF,€600k,24/25
+Juma Bah,18,['Sierra Leone'],CB,€1.00m,AIK Freetong,Real Valladolid CF,€125k,24/25
+Henrique Silva,30,['Brazil'],LB,€800k,Without Club,Real Valladolid CF,-,24/25
+Juma Bah,18,['Sierra Leone'],CB,€1.00m,Real Valladolid CF,Manchester City,€6.00m,24/25
+Monchu,24,['Spain'],CM,€5.00m,Real Valladolid CF,Aris Thessaloniki,€3.60m,24/25
+Lucas Rosa,24,"['Brazil', 'Italy']",RB,€2.00m,Real Valladolid CF,Ajax Amsterdam,€3.00m,24/25
+Kike Pérez,27,['Spain'],CM,€2.80m,Real Valladolid CF,Venezia FC,€1.00m,24/25
+Tunde Akinsola,21,['Nigeria'],LW,€250k,Real Valladolid CF,Avs Futebol,free transfer,24/25
+César de la Hoz,32,['Spain'],DM,€400k,Real Valladolid CF,Real Oviedo,free transfer,24/25
+Sergio Escudero,34,['Spain'],LB,€800k,Real Valladolid CF,Deportivo de La Coruña,free transfer,24/25
+Álvaro Negredo,38,['Spain'],CF,-,Real Valladolid CF,Without Club,-,24/25
+Jordi Masip,35,['Spain'],GK,€700k,Real Valladolid CF,Retired,-,24/25
+Duk,24,"['Cape Verde', 'Portugal']",LW,€1.20m,Aberdeen FC,CD Leganés,€715k,24/25
+Enric Franquesa,27,['Spain'],LB,€1.50m,Levante UD,CD Leganés,€90k,24/25
+Yan Diomande,18,"[""Cote d'Ivoire""]",LW,-,DME Academy,CD Leganés,free transfer,24/25
+Valentin Rosier,27,"['France', 'Guadeloupe']",RB,€4.00m,Besiktas JK,CD Leganés,free transfer,24/25
+Juan Soriano,26,['Spain'],GK,€1.50m,CD Tenerife,CD Leganés,free transfer,24/25
+Aritz Arambarri,26,['Spain'],CB,€500k,CD Leganés,SD Eibar,free transfer,24/25
+Jorge Miramón,35,['Spain'],RB,€1.00m,CD Leganés,AEK Larnaca,free transfer,24/25
+Luis Perea,26,['Spain'],DM,€600k,CD Leganés,Racing Ferrol,free transfer,24/25
+Sergio Navarro,23,['Spain'],RW,€150k,CD Leganés,AD Alcorcón,free transfer,24/25
+Dani Jiménez,34,['Spain'],GK,€300k,CD Leganés,SD Huesca,free transfer,24/25
+Iker Undabarrena,29,['Spain'],CM,€700k,CD Leganés,Johor Darul Ta'zim,free transfer,24/25
+Francisco Portillo,34,['Spain'],RW,€700k,CD Leganés,Without Club,-,24/25
+Javi Avilés,27,['Spain'],RW,€250k,CD Leganés,Without Club,-,24/25
+Allan Nyom,36,"['Cameroon', 'France']",RB,€500k,CD Leganés,Without Club,-,24/25
+Álvaro Tejero,27,['Spain'],RB,€2.00m,SD Eibar,RCD Espanyol Barcelona,free transfer,24/25
+Pablo Ramón,23,['Spain'],CB,€200k,Real Madrid Castilla,RCD Espanyol Barcelona,free transfer,24/25
+Max Svensson,22,"['Spain', 'Sweden']",CF,€400k,RCD Espanyol Barcelona,Casa Pia AC,€50k,24/25
+Nico Melamed,23,"['Spain', 'Argentina']",AM,€4.00m,RCD Espanyol Barcelona,UD Almería,free transfer,24/25
+Martin Braithwaite,33,"['Denmark', 'Guyana']",CF,€3.20m,RCD Espanyol Barcelona,Grêmio Foot-Ball Porto Alegrense,free transfer,24/25
+Keidi Bare,26,['Albania'],CM,€3.00m,RCD Espanyol Barcelona,Real Zaragoza,free transfer,24/25
+Óscar Gil,26,['Spain'],RB,€800k,RCD Espanyol Barcelona,Oud-Heverlee Leuven,free transfer,24/25
+José Carlos Lazo,28,['Spain'],LW,€1.50m,RCD Espanyol Barcelona,Albacete Balompié,free transfer,24/25
+Víctor Ruiz,35,['Spain'],CB,€500k,RCD Espanyol Barcelona,Retired,-,24/25
+Salvi Sánchez,33,['Spain'],RW,€900k,RCD Espanyol Barcelona,Without Club,-,24/25

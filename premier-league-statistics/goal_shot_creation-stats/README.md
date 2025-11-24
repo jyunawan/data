@@ -1,4 +1,4 @@
-# Premier League Statistics
+# Premier League Goal and Shot Creation Statistics
 
 This folder contains Premier League Goal and Shot Creation statistics scraped from FBREF.
 

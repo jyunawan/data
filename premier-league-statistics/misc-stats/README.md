@@ -1,4 +1,4 @@
-# Premier League Statistics
+# Premier League Miscellaneous Statistics
 
 This folder contains Premier League Miscellaneous Statistics scraped from FBREF.
 

@@ -1,4 +1,4 @@
-# Premier League Statistics
+# Premier League Passing Statistics
 
 This folder contains Premier League Passing Statistics scraped from FBREF.
 

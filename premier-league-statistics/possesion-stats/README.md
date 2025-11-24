@@ -1,4 +1,4 @@
-# Premier League Statistics
+# Premier League Possesion Statistics
 
 This folder contains Premier League Possesion Statistics scraped from FBREF.
 
