@@ -1,0 +1,137 @@
+,player_name,player_age,player_nationality,player_position,market_value,from_club,to_club,transfer_fee,transfer_season,remaining_contract_length
+0,kai havertz,24,['Germany'],CF,55000000.0,CHE,ARS,75000000.0,23/24,24
+1,folarin balogun,22,"['United States', 'England']",CF,30000000.0,ARS,AS Monaco,30000000.0,23/24,22
+3,moussa diaby,24,"['France', 'Mali']",RW,50000000.0,Bayer 04 Leverkusen,AVL,55000000.0,23/24,47
+4,cameron archer,21,"['England', 'Jamaica']",CF,12000000.0,AVL,SHU,21550000.0,23/24,34
+5,jaden philogene bidace,21,"['England', 'Dominica']",LW,2800000.0,AVL,Hull City,5800000.0,23/24,53
+6,keinan davis,25,"['England', 'Jamaica']",CF,3000000.0,AVL,Udinese Calcio,2300000.0,23/24,10
+9,ben hamed toure,23,"[""Cote d'Ivoire""]",LW,22000000.0,US Sassuolo,BOU,25620000.0,23/24,34
+10,kevin schade,21,"['Germany', 'Nigeria']",LW,25000000.0,SC Freiburg,BRE,25000000.0,23/24,36
+11,halil dervisoglu,23,"['Türkiye', 'Netherlands']",CF,2000000.0,BRE,Galatasaray,500000.0,23/24,24
+12,sergi canos,26,['Spain'],LW,9000000.0,BRE,Valencia CF,250000.0,23/24,22
+14,andi zeqiri,24,"['Switzerland', 'Kosovo']",CF,3500000.0,BHA,KRC Genk,2750000.0,23/24,10
+15,aaron connolly,23,['Ireland'],CF,4000000.0,BHA,Hull City,1350000.0,23/24,11
+22,christopher nkunku,25,"['France', 'DR Congo']",CF,80000000.0,RB Leipzig,CHE,60000000.0,23/24,46
+23,nicolas jackson,22,"['Senegal', 'The Gambia']",CF,30000000.0,Villarreal CF,CHE,37000000.0,23/24,94
+26,christian pulisic,24,"['United States', 'Croatia']",RW,25000000.0,CHE,AC Milan,20800000.0,23/24,11
+27,callum hudson odoi,22,"['England', 'Ghana']",LW,15000000.0,CHE,NFO,3500000.0,23/24,10
+30,beto,25,"['Guinea-Bissau', 'Portugal']",CF,25000000.0,Udinese Calcio,EVE,25000000.0,23/24,34
+32,moise kean,23,"['Italy', ""Cote d'Ivoire""]",CF,18000000.0,EVE,Juventus FC,30000000.0,23/24,12
+33,alex iwobi,27,"['Nigeria', 'England']",LW,28000000.0,EVE,FUL,25700000.0,23/24,10
+34,demarai gray,27,"['Jamaica', 'England']",LW,20000000.0,EVE,Al-Ettifaq FC,9300000.0,23/24,24
+35,tom cannon,20,"['Ireland', 'England']",CF,5000000.0,EVE,LEI,8800000.0,23/24,41
+36,ellis simms,22,['England'],CF,4000000.0,EVE,Coventry City,7000000.0,23/24,12
+37,raul jimenez,32,['Mexico'],CF,6000000.0,WOL,FUL,6400000.0,23/24,11
+39,aleksandar mitrovic,28,['Serbia'],CF,28000000.0,FUL,Al-Hilal SFC,52600000.0,23/24,10
+46,carlos mendes,24,"['Guinea-Bissau', 'Spain']",RW,350000.0,LUT,Bolton Wanderers,300000.0,23/24,-
+47,jeremy doku,21,"['Belgium', 'Ghana']",LW,28000000.0,Stade Rennais FC,MCI,60000000.0,23/24,22
+48,riyad mahrez,32,"['Algeria', 'France']",RW,20000000.0,MCI,Al-Ahli SFC,35000000.0,23/24,23
+51,rasmus hojlund,20,['Denmark'],CF,45000000.0,Atalanta BC,MUN,77800000.0,23/24,46
+52,anthony elanga,21,"['Sweden', 'Cameroon']",RW,18000000.0,MUN,NFO,22930000.0,23/24,35
+53,harvey barnes,25,"['England', 'Scotland']",LW,35000000.0,LEI,NEW,44000000.0,23/24,23
+55,allan saint maximin,26,"['France', 'Haiti']",LW,32000000.0,NEW,Al-Ahli SFC,27200000.0,23/24,11
+56,chris wood,31,['New Zealand'],CF,8000000.0,NEW,NFO,17000000.0,23/24,12
+57,brennan johnson,22,"['Wales', 'England']",RW,38000000.0,NFO,TOT,55000000.0,23/24,34
+58,sam surridge,24,['England'],CF,5000000.0,NFO,Nashville SC,5800000.0,23/24,11
+60,iliman ndiaye,23,"['Senegal', 'France']",RW,18000000.0,SHU,Olympique Marseille,17000000.0,23/24,48
+64,harry kane,30,"['England', 'Ireland']",CF,90000000.0,TOT,Bayern Munich,95000000.0,23/24,-
+67,gianluca scamacca,24,['Italy'],CF,22000000.0,WHU,Atalanta BC,28000000.0,23/24,47
+70,eddie nketiah,25,"['England', 'Ghana']",CF,30000000.0,ARS,CRY,29700000.0,24/25,34
+71,donyell malen,25,"['Netherlands', 'Suriname']",RW,28000000.0,Borussia Dortmund,AVL,25000000.0,24/25,17
+72,cameron archer,22,"['England', 'Jamaica']",CF,13000000.0,SHU,AVL,16649999.999999998,24/25,34
+74,lewis dobbin,21,['England'],LW,2500000.0,EVE,AVL,11800000.0,24/25,12
+75,jhon duran,21,['Colombia'],CF,40000000.0,AVL,Al-Nassr FC,77000000.0,24/25,-
+76,moussa diaby,25,"['France', 'Mali']",RW,55000000.0,AVL,Al-Ittihad Club,60000000.0,24/25,47
+77,jaden philogene bidace,22,"['England', 'Dominica']",LW,15000000.0,AVL,IPS,23700000.0,24/25,53
+78,cameron archer,22,"['England', 'Jamaica']",CF,13000000.0,AVL,SOU,17600000.0,24/25,34
+80,luis sinisterra,25,['Colombia'],LW,17000000.0,LEE,BOU,23400000.0,24/25,36
+81,enes unal,27,['Türkiye'],CF,18000000.0,Getafe CF,BOU,16500000.0,24/25,24
+82,eli junior kroupi,18,"['France', ""Cote d'Ivoire""]",CF,10000000.0,FC Lorient,BOU,13000000.0,24/25,17
+84,dominic solanke,26,"['England', 'Nigeria']",CF,40000000.0,BOU,TOT,64300000.0,24/25,35
+85,kieffer moore,31,"['Wales', 'England']",CF,2000000.0,BOU,SHU,1790000.0,24/25,23
+89,ivan toney,28,"['England', 'Jamaica']",CF,50000000.0,BRE,Al-Ahli SFC,42000000.0,24/25,10
+90,georginio rutter,22,"['France', 'Martinique']",CF,18000000.0,LEE,BHA,46700000.0,24/25,46
+91,yankuba minteh,19,['The Gambia'],RW,16000000.0,NEW,BHA,35000000.0,24/25,48
+92,brajan gruda,20,"['Germany', 'Albania']",RW,20000000.0,1.FSV Mainz 05,BHA,31500000.0,24/25,22
+96,deniz undav,28,['Germany'],CF,25000000.0,BHA,VfB Stuttgart,26700000.0,24/25,23
+97,pedro neto,24,['Portugal'],RW,55000000.0,WOL,CHE,60000000.0,24/25,35
+98,marc guiu,18,['Spain'],CF,7500000.0,FC Barcelona,CHE,6000000.0,24/25,12
+99,romelu lukaku,31,"['Belgium', 'DR Congo']",CF,30000000.0,CHE,SSC Napoli,30000000.0,24/25,22
+100,angelo,19,['Brazil'],RW,15000000.0,CHE,Al-Nassr FC,23000000.0,24/25,58
+102,ismaila sarr,26,['Senegal'],RW,18000000.0,Olympique Marseille,CRY,15000000.0,24/25,47
+104,michael olise,22,"['France', 'England']",RW,55000000.0,CRY,Bayern Munich,53000000.0,24/25,23
+105,jordan ayew,32,"['Ghana', 'France']",CF,4000000.0,CRY,LEI,5900000.0,24/25,10
+106,scott banks,22,"['Scotland', 'Wales']",RW,300000.0,CRY,FC St. Pauli,400000.0,24/25,-
+107,iliman ndiaye,24,"['Senegal', 'France']",RW,15000000.0,Olympique Marseille,EVE,18000000.0,24/25,48
+108,jay stansfield,21,['England'],CF,3500000.0,FUL,Birmingham City,17800000.0,24/25,34
+112,jack clarke,23,['England'],LW,15000000.0,SUN,IPS,17700000.0,24/25,22
+113,chiedozie ogbene,27,"['Ireland', 'Nigeria']",RW,8000000.0,LUT,IPS,9500000.0,24/25,-
+114,gassan ahadme,23,"['Morocco', 'Spain']",CF,325000.0,IPS,Charlton Athletic,1180000.0,24/25,12
+117,tom cannon,22,"['Ireland', 'England']",CF,6000000.0,LEI,SHU,11850000.0,24/25,41
+119,federico chiesa,26,['Italy'],RW,35000000.0,Juventus FC,LIV,12000000.0,24/25,10
+120,omar marmoush,25,"['Egypt', 'Canada']",CF,60000000.0,Eintracht Frankfurt,MCI,75000000.0,24/25,29
+122,julian alvarez,24,"['Argentina', 'Italy']",CF,90000000.0,MCI,Atlético de Madrid,75000000.0,24/25,47
+123,joshua zirkzee,23,"['Netherlands', 'Nigeria']",CF,50000000.0,Bologna FC 1909,MUN,42500000.0,24/25,23
+124,mason greenwood,22,"['England', 'Jamaica']",RW,25000000.0,MUN,Olympique Marseille,26000000.0,24/25,11
+125,facundo pellistri,22,"['Uruguay', 'Spain']",RW,10000000.0,MUN,Panathinaikos FC,6000000.0,24/25,10
+127,william osula,21,"['Denmark', 'England']",CF,3000000.0,SHU,NEW,11600000.0,24/25,-
+128,miguel almiron,30,['Paraguay'],RW,16000000.0,NEW,Atlanta United FC,9550000.0,24/25,17
+132,ben brereton,25,"['Chile', 'England']",CF,8000000.0,Villarreal CF,SOU,8300000.000000001,24/25,35
+134,sekou mara,22,"['France', 'Senegal']",CF,6000000.0,SOU,RC Strasbourg Alsace,12000000.0,24/25,22
+136,wilson odobert,19,"['France', 'Martinique']",LW,10000000.0,BUR,TOT,29300000.0,24/25,46
+139,crysencio summerville,22,"['Netherlands', 'Suriname']",LW,20000000.0,LEE,WHU,29300000.0,24/25,23
+140,niclas fullkrug,31,['Germany'],CF,15000000.0,Borussia Dortmund,WHU,27000000.0,24/25,23
+142,said benrahma,28,"['Algeria', 'France']",LW,20000000.0,WHU,Olympique Lyon,14400000.0,24/25,24
+143,divin mubama,19,"['England', 'DR Congo']",CF,1000000.0,WHU,Manchester City U21,1400000.0,24/25,-
+144,daniel podence,28,['Portugal'],LW,13000000.0,WOL,Al-Shabab FC,5000000.0,24/25,10
+146,noni madueke,23,"['England', 'Nigeria']",RW,40000000.0,CHE,ARS,56000000.0,25/26,59
+147,marquinhos,22,['Brazil'],RW,5500000.0,ARS,Cruzeiro Esporte Clube,3000000.0,25/26,24
+148,evann guessand,24,"[""Cote d'Ivoire"", 'France']",RW,25000000.0,OGC Nice,AVL,30000000.0,25/26,35
+149,ben gannon doak,19,['Scotland'],RW,14000000.0,LIV,BOU,23200000.0,25/26,10
+150,amine adli,25,"['Morocco', 'France']",LW,18000000.0,Bayer 04 Leverkusen,BOU,21000000.0,25/26,34
+151,dango ouattara,23,['Burkina Faso'],LW,28000000.0,BOU,BRE,42800000.0,25/26,34
+152,jaidon anthony,25,"['England', 'Jamaica']",LW,9000000.0,BOU,BUR,9500000.0,25/26,24
+154,bryan mbeumo,25,"['Cameroon', 'France']",RW,55000000.0,BRE,MUN,75000000.0,25/26,11
+155,yoane wissa,28,"['DR Congo', 'France']",CF,32000000.0,BRE,NEW,57700000.0,25/26,10
+157,tom watson,19,['England'],LW,8000000.0,SUN,BHA,12000000.0,25/26,12
+159,joao pedro,23,['Brazil'],CF,50000000.0,BHA,CHE,63700000.0,25/26,36
+160,simon adingra,23,"[""Cote d'Ivoire""]",LW,28000000.0,BHA,SUN,24400000.0,25/26,12
+161,abdallah sima,24,['Senegal'],LW,9000000.0,BHA,RC Lens,4500000.0,25/26,10
+162,armando broja,23,"['Albania', 'England']",CF,12000000.0,CHE,BUR,23000000.0,25/26,47
+163,loum tchaouna,21,"['France', 'Chad']",RW,10000000.0,SS Lazio,BUR,15150000.0,25/26,48
+166,jacob bruun larsen,26,['Denmark'],LW,5000000.0,VfB Stuttgart,BUR,4000000.0,25/26,24
+167,dara costelloe,22,['Ireland'],LW,450000.0,BUR,Wigan Athletic,400000.0,25/26,12
+168,jamie gittens,20,"['England', 'Barbados']",LW,50000000.0,Borussia Dortmund,CHE,56000000.0,25/26,36
+169,alejandro garnacho,21,"['Argentina', 'Spain']",LW,45000000.0,MUN,CHE,46200000.0,25/26,34
+171,liam delap,22,"['England', 'Ireland']",CF,40000000.0,IPS,CHE,35500000.0,25/26,49
+172,christopher nkunku,27,"['France', 'DR Congo']",CF,35000000.0,CHE,AC Milan,37000000.0,25/26,46
+173,yeremi pino,22,['Spain'],RW,30000000.0,Villarreal CF,CRY,30000000.0,25/26,22
+174,odsonne edouard,27,"['France', 'Haiti']",CF,8000000.0,CRY,RC Lens,3700000.0,25/26,10
+175,malcolm ebiowei,21,"['England', 'Netherlands']",RW,1200000.0,CRY,Blackpool FC,1150000.0,25/26,23
+177,tyler dibling,19,['England'],RW,25000000.0,SOU,EVE,40500000.0,25/26,22
+178,thierno barry,22,"['France', 'Guinea']",CF,20000000.0,Villarreal CF,EVE,30000000.0,25/26,48
+179,youssef chermiti,21,"['Portugal', 'Tunisia']",CF,8000000.0,EVE,Rangers FC,8600000.0,25/26,22
+180,neal maupay,28,"['France', 'Argentina']",CF,8000000.0,EVE,Olympique Marseille,4000000.0,25/26,12
+183,martial godo,22,"[""Cote d'Ivoire"", 'England']",LW,600000.0,FUL,RC Strasbourg Alsace,7000000.0,25/26,34
+185,noah okafor,25,"['Switzerland', 'Nigeria']",LW,13000000.0,AC Milan,LEE,19000000.0,25/26,34
+187,sam greenwood,23,['England'],LW,4500000.0,LEE,Pogon Szczecin,2000000.0,25/26,10
+188,alexander isak,25,"['Sweden', 'Eritrea']",CF,120000000.0,NEW,LIV,145000000.0,25/26,34
+189,hugo ekitike,23,"['France', 'Cameroon']",CF,75000000.0,Eintracht Frankfurt,LIV,95000000.0,25/26,47
+190,luis diaz,28,['Colombia'],LW,70000000.0,LIV,Bayern Munich,70000000.0,25/26,23
+191,darwin nunez,26,['Uruguay'],CF,45000000.0,LIV,Al-Hilal SFC,53000000.0,25/26,35
+192,rayan cherki,21,"['France', 'Algeria']",RW,45000000.0,Olympique Lyon,MCI,36500000.0,25/26,13
+193,benjamin sesko,22,['Slovenia'],CF,70000000.0,RB Leipzig,MUN,76500000.0,25/26,47
+194,antony,25,['Brazil'],RW,35000000.0,MUN,Real Betis Balompié,22000000.0,25/26,22
+195,nick woltemade,23,['Germany'],CF,30000000.0,VfB Stuttgart,NEW,75000000.0,25/26,34
+196,anthony elanga,23,"['Sweden', 'Cameroon']",RW,42000000.0,NFO,NEW,61400000.0,25/26,36
+199,dan ndoye,24,"['Switzerland', 'Senegal']",RW,35000000.0,Bologna FC 1909,NFO,42000000.0,25/26,23
+200,dilane bakwa,23,"['France', 'DR Congo']",RW,25000000.0,RC Strasbourg Alsace,NFO,35000000.0,25/26,22
+201,arnaud kalimuendo,23,"['France', 'DR Congo']",CF,22000000.0,Stade Rennais FC,NFO,30000000.0,25/26,22
+203,ramon sosa,25,"['Paraguay', 'Argentina']",LW,12000000.0,NFO,Sociedade Esportiva Palmeiras,12500000.0,25/26,48
+208,mohammed kudus,24,['Ghana'],RW,45000000.0,WHU,TOT,63800000.0,25/26,36
+209,mathys tel,20,"['France', 'Guadeloupe']",CF,35000000.0,Bayern Munich,TOT,35000000.0,25/26,48
+210,son heung min,33,"['Korea, South']",LW,20000000.0,TOT,Los Angeles FC,22000000.0,25/26,11
+211,bryan gil,24,['Spain'],LW,15000000.0,TOT,Girona FC,6000000.0,25/26,10
+213,jorgen strand larsen,25,['Norway'],CF,30000000.0,Celta de Vigo,WOL,27000000.0,25/26,36
+216,fabio silva,23,['Portugal'],CF,20000000.0,WOL,Borussia Dortmund,22500000.0,25/26,10
+217,goncalo guedes,28,['Portugal'],LW,11000000.0,WOL,Real Sociedad,4000000.0,25/26,23
